@@ -3,7 +3,7 @@
 C:\Users\%USERNAME%\AppData\Local\Frontier Developments\Planet Coaster ​
 
 +Lưu ý: có một số máy tính đã ẩn thư mục "Appdata" bạn hãy vào cài đặt để show folder ra nhé.
-[​IMG]https://3.pik.vn/20175f2923a7-8b0e-4b00-8e8a-6f6deffbdebc.png[/IMG]
+![​alt text](https://3.pik.vn/20175f2923a7-8b0e-4b00-8e8a-6f6deffbdebc.png)
 
 2.
 
