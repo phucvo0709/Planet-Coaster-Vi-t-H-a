@@ -402,7 +402,7 @@
 		<entry key="BuildingPartDesc_FAD_ChiefBeefNeonSign" translation="Khi bạn thực sự cần được nhìn thấy.\nBộ đầu bếp thịt bò"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefPatrolLight" translation="Đèn tuần tra.\nBộ đầu bếp thịt bò"/>
 		<entry key="BuildingPartDesc_FAD_ChiefBeefVerticalSign" translation="Hãy để ánh sáng hướng dẫn bạn đến sự thật, công lý và bánh mì kẹp thịt.\nBộ đầu bếp thịt bò"/>
-		<entry key="BuildingPartDesc_FAD_ChiefBeefGỗenSign" translation="Để có một cái nhìn nướng trên ngọn lửa mộc mạc.\nBộ đầu bếp thịt bò"/>
+		<entry key="BuildingPartDesc_FAD_ChiefBeefWoodenSign" translation="Để có một cái nhìn nướng trên ngọn lửa mộc mạc.\nBộ đầu bếp thịt bò"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBanner" translation="Milkshakes ngoài thế giới này.\nBộ bò vũ trụ"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBannerGlowSign" translation="Sữa rất tốt, nó có vị lạ.\nBộ bò vũ trụ"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowBannerStand" translation="Cả một thiên hà hương vị.\nBộ bò vũ trụ"/>
@@ -414,7 +414,7 @@
 		<entry key="BuildingPartDesc_FAD_CosmicCowUfoGlowSign" translation="Nạp sức mạnh vũ trụ.\nBộ bò vũ trụ"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowUfoStand" translation="Một dấu hiệu tuyệt vời.\nBộ bò vũ trụ"/>
 		<entry key="BuildingPartDesc_FAD_CosmicCowVerticalGlowSign" translation="Từ những con bò tốt nhất trong hệ mặt trời.\nBộ bò vũ trụ"/>
-		<entry key="BuildingPartDesc_FAD_CosmicCowGỗenSign" translation="Cái này đắt một cách đáng ngạc nhiên.\nBộ bò vũ trụ"/>
+		<entry key="BuildingPartDesc_FAD_CosmicCowWoodenSign" translation="Cái này đắt một cách đáng ngạc nhiên.\nBộ bò vũ trụ"/>
 		<entry key="BuildingPartDesc_FAD_HatsFantasticLargeHat" translation="Đối với vấn đề mũ nón khi nào.\nBộ mũ tuyệt vời"/>
 		<entry key="BuildingPartDesc_FAD_HatsFantasticLargeTextSign" translation="Tất cả các đầu đều cần có mũ.\nBộ mũ tuyệt vời"/>
 		<entry key="BuildingPartDesc_FAD_HatsFantasticSmallHat" translation="Đối với những người có một cơ thể nhỏ.\nBộ mũ tuyệt vời"/>
@@ -534,7 +534,7 @@
 		<entry key="BuildingPartDesc_PR_Skull" translation="Thêm bầu không khí rùng rợn cho bất kỳ tòa nhà nào.\nChủ đề cướp biển"/>
 		<entry key="BuildingPartDesc_PR_SkullAndCross" translation="Đánh bật nỗi sợ hãi vào kẻ thù của bạn.\nChủ đề cướp biển"/>
 		<entry key="BuildingPartDesc_PR_Skull_Small" translation="Cướp biển sang trọng trong xương giả.\nChủ đề cướp biển"/>
-		<entry key="BuildingPartDesc_PR_ToiletSignsGỗenSign" translation="Bảng hiệu nhà vệ sinh bằng gỗ.\nChủ đề cướp biển"/>
+		<entry key="BuildingPartDesc_PR_ToiletSignsWoodenSign" translation="Bảng hiệu nhà vệ sinh bằng gỗ.\nChủ đề cướp biển"/>
 		<entry key="BuildingPartDesc_PR_WallCannon" translation="Đi kèm với một BANG!\nChủ đề cướp biển"/>
 		<entry key="BuildingPartDesc_PR_WallHangingSkeleton" translation="Anh ấy thực sự gắn bó với công việc này.\nChủ đề cướp biển"/>
 		<entry key="BuildingPartDesc_RR_Awning_A" translation="Tạo cho một cửa sổ ấn tượng."/>
@@ -622,7 +622,7 @@
 		<entry key="BuildingPartName_FAD_ChiefBeefNeonSign" translation="Đầu bếp thịt bò Neon ký tên"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefPatrolLight" translation="Đầu bếp thịt bò Patrol Light"/>
 		<entry key="BuildingPartName_FAD_ChiefBeefVerticalSign" translation="Đầu bếp thịt bò Tall Lit ký tên"/>
-		<entry key="BuildingPartName_FAD_ChiefBeefGỗenSign" translation="Đầu bếp thịt bò Bằng gỗ Shield ký tên"/>
+		<entry key="BuildingPartName_FAD_ChiefBeefWoodenSign" translation="Đầu bếp thịt bò Bằng gỗ Shield ký tên"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBanner" translation="Cosmic Cow Banner Logo"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBannerGlowSign" translation="Cosmic Cow Lit UFO ký tên"/>
 		<entry key="BuildingPartName_FAD_CosmicCowBannerStand" translation="Cosmic Cow Milkshakes Banner"/>
@@ -634,7 +634,7 @@
 		<entry key="BuildingPartName_FAD_CosmicCowUfoGlowSign" translation="Cosmic Cow lớn Lit ký tên"/>
 		<entry key="BuildingPartName_FAD_CosmicCowUfoStand" translation="Cosmic Cow UFO ký tên"/>
 		<entry key="BuildingPartName_FAD_CosmicCowVerticalGlowSign" translation="Cosmic Cow ký tên theo chiều dọc"/>
-		<entry key="BuildingPartName_FAD_CosmicCowGỗenSign" translation="Bằng gỗ Cosmic Cow ký tên"/>
+		<entry key="BuildingPartName_FAD_CosmicCowWoodenSign" translation="Bằng gỗ Cosmic Cow ký tên"/>
 		<entry key="BuildingPartName_FAD_HatsFantasticLargeHat" translation="Hat's Fantastic ký tên lớn"/>
 		<entry key="BuildingPartName_FAD_HatsFantasticLargeTextSign" translation="Hat's Fantastic ký tên Extra lớn"/>
 		<entry key="BuildingPartName_FAD_HatsFantasticSmallHat" translation="Hat's Fantastic ký tên nhỏ"/>
@@ -754,7 +754,7 @@
 		<entry key="BuildingPartName_PR_Skull" translation="Large Skull"/>
 		<entry key="BuildingPartName_PR_SkullAndCross" translation="Skull and Crossbones"/>
 		<entry key="BuildingPartName_PR_Skull_Small" translation="Small Skull"/>
-		<entry key="BuildingPartName_PR_ToiletSignsGỗenSign" translation="Bằng gỗ Toilet ký tên"/>
+		<entry key="BuildingPartName_PR_ToiletSignsWoodenSign" translation="Bằng gỗ Toilet ký tên"/>
 		<entry key="BuildingPartName_PR_WallCannon" translation="Tường Mounted Cannon"/>
 		<entry key="BuildingPartName_PR_WallHangingSkeleton" translation="Hanging Skeleton"/>
 		<entry key="BuildingPartName_RR_Awning_A" translation="Stone Awning"/>
@@ -843,185 +843,187 @@
 		<entry key="BuildingPartName_ST_Wall_A_Slope_Corner_4m" translation="Sa thạch Fascia Corner dốc"/>
 		<entry key="BuildingPartName_ST_Wall_A_Slope_Thick_4m" translation="Sa thạch Fascia dốc"/>
 		<!--Camera-->
-		<entry key="CameraOptionsMenu_DefaultPitch" translation="Default Pitch"/>
-		<entry key="CameraOptionsMenu_DefaultPitch_ToolTip" translation="The default pitch of the Camera. Used when you load a park and with Automatic Pitch."/>
-		<entry key="CameraOptionsMenu_EdgePan" translation="Edge Scrolling"/>
-		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Edge Scroll Speed"/>
-		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Moves the camera when the cursor is at the edge of the screen."/>
-		<entry key="CameraOptionsMenu_FixedPitch" translation="Automatic Pitch"/>
-		<entry key="CameraOptionsMenu_FixedPitch_ToolTip" translation="Returns to the default pitch when you're not actively controlling the camera."/>
-		<entry key="CameraOptionsMenu_FreelookToggle" translation="Freelook"/>
-		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Allows the camera to fly freely around your park. Useful in tight areas or for taking screenshots.\n\nYou can use [T] to toggle Freelook from within the game.\n\n[Q] and [E] will raise and lower the camera height in Freelook."/>
-		<entry key="CameraOptionsMenu_InvertY" translation="Invert Y Axis"/>
-		<entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Inverts Y axis in Freelook and first person ride cameras."/>
-		<entry key="CameraOptionsMenu_MiscLabel" translation="Camera Behaviour"/>
-		<entry key="CameraOptionsMenu_Presets" translation="Presets"/>
-		<entry key="CameraOptionsMenu_Presets_Centre" translation="Simple"/>
-		<entry key="CameraOptionsMenu_Presets_Centre_ToolTip" translation="This preset uses Centre Focused options and is most similiar to stratagy and management games. It works best in flat parks.\n\nDefault setting."/>
-		<entry key="CameraOptionsMenu_Presets_Cursor" translation="Alternate"/>
-		<entry key="CameraOptionsMenu_Presets_Cursor_ToolTip" translation="This preset uses Mouse Focused options. It works best in parks with complex terrain."/>
-		<entry key="CameraOptionsMenu_Presets_Custom" translation="Custom"/>
-		<entry key="CameraOptionsMenu_Presets_Hybrid" translation="Advanced"/>
-		<entry key="CameraOptionsMenu_Presets_Hybrid_ToolTip" translation="This preset uses a mix of options. It offers precise control but requires careful handling."/>
-		<entry key="CameraOptionsMenu_RMBDrag" translation="Right Mouse Drag"/>
-		<entry key="CameraOptionsMenu_RMBDrag_Grab" translation="Grab Drag"/>
-		<entry key="CameraOptionsMenu_RMBDrag_Grab_ToolTip" translation="Grabs a point in the park and move around that."/>
-		<entry key="CameraOptionsMenu_RMBDrag_InvertedSimple" translation="Simple Drag Inverted"/>
-		<entry key="CameraOptionsMenu_RMBDrag_InvertedSimple_ToolTip" translation="Like Simple Drag, but inverted."/>
-		<entry key="CameraOptionsMenu_RMBDrag_Simple" translation="Simple Drag"/>
-		<entry key="CameraOptionsMenu_RMBDrag_Simple_ToolTip" translation="Pans the camera based only on the mouse movement."/>
-		<entry key="CameraOptionsMenu_RMBDrag_SuperGrab" translation="Grab and Focus"/>
-		<entry key="CameraOptionsMenu_RMBDrag_SuperGrab_ToolTip" translation="Grabs a point in the park and moves, rotates, and zooms around the grab point."/>
-		<entry key="CameraOptionsMenu_RMBDrag_ToolTip" translation="Determines the behaviour of RMB-drag."/>
-		<entry key="CameraOptionsMenu_RotateFocus" translation="Rotation Behaviour"/>
-		<entry key="CameraOptionsMenu_RotateFocus_Centre" translation="Centre Focused"/>
-		<entry key="CameraOptionsMenu_RotateFocus_Cursor" translation="Mouse Focused"/>
-		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Determine what the camera rotates around."/>
-		<entry key="CameraOptionsMenu_SensitivityKey" translation="Key Sensitivity"/>
-		<entry key="CameraOptionsMenu_SensitivityLabel" translation="Sensitivities"/>
-		<entry key="CameraOptionsMenu_SensitivityMouse" translation="Mouse Sensitivity"/>
-		<entry key="CameraOptionsMenu_SensitivityWheel" translation="Zoom Sensitivity"/>
-		<entry key="CameraOptionsMenu_WindowTitle" translation="Camera"/>
-		<entry key="CameraOptionsMenu_YawIncrement" translation="Yaw Increments"/>
-		<entry key="CameraOptionsMenu_YawIncrement_Off" translation="Continuous"/>
-		<entry key="CameraOptionsMenu_YawIncrement_ToolTip" translation="The [Q] and [E] keys rotate the camera continuously while held, or rotate by a fixed amount per press."/>
-		<entry key="CameraOptionsMenu_ZoomFocus" translation="Zoom Behaviour"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_Centre" translation="Centre Focused"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_Cursor" translation="Mouse Focused"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_Mixed" translation="Mouse In, Centre Out"/>
-		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Determine where the camera moves as you zoom in and out."/>
+		<entry key="CameraOptionsMenu_DefaultPitch" translation="Quảng cáo chiêu hàng mặc định" />
+		<entry key="CameraOptionsMenu_DefaultPitch_ToolTip" translation="Cao độ mặc định của Máy ảnh. Được sử dụng khi bạn tải một công viên và với Pitch tự động." />
+		<entry key="CameraOptionsMenu_EdgePan" translation="Cuộn cạnh" />
+		<entry key="CameraOptionsMenu_EdgePanSpeed" translation="Cuộn nhanh cạnh" />
+		<entry key="CameraOptionsMenu_EdgePan_ToolTip" translation="Di chuyển camera khi con trỏ ở cạnh màn hình." />
+		<entry key="CameraOptionsMenu_FixedPitch" translation="Quảng cáo chiêu hàng tự động" />
+		<entry key="CameraOptionsMenu_FixedPitch_ToolTip" translation="Trở về cao độ mặc định khi bạn không chủ động điều khiển máy ảnh." />
+		<entry key="CameraOptionsMenu_FreelookToggle" translation="Freelook" />
+		<entry key="CameraOptionsMenu_FreelookToggle_ToolTip" translation="Cho phép máy ảnh bay tự do quanh công viên của bạn. Hữu ích ở những khu vực chật hẹp hoặc để chụp ảnh màn hình. \ n \ nBạn có thể sử dụng [T] để chuyển đổi Freelook từ trong trò chơi. \ n \ n [Q] và [E] sẽ tăng và giảm chiều cao camera trong Freelook. "/>
+		<entry key="CameraOptionsMenu_InvertY" translation="Đảo Y Trục" />
+		<entry key="CameraOptionsMenu_InvertY_ToolTip" translation="Đảo ngược trục Y trong Freelook và máy ảnh đi xe góc nhìn thứ nhất." />
+		<entry key="CameraOptionsMenu_MiscLabel" translation="Hành vi của Máy ảnh" />
+		<entry key="CameraOptionsMenu_Presets" translation="Cài đặt sẵn" />
+		<entry key="CameraOptionsMenu_Presets_Centre" translation="Đơn giản" />
+		<entry key="CameraOptionsMenu_Presets_Centre_ToolTip" translation="Giá trị đặt trước này sử dụng các tùy chọn Center Focused và giống nhất với các trò chơi quản lý và mưu mẹo. Nó hoạt động tốt nhất trong các công viên bằng phẳng. \ n \ n Cài đặt mặc định." />
+		<entry key="CameraOptionsMenu_Presets_Cursor" translation="Thay thế" />
+		<entry key="CameraOptionsMenu_Presets_Cursor_ToolTip" translation="Giá trị đặt trước này sử dụng các tùy chọn Tiêu điểm bằng Chuột. Nó hoạt động tốt nhất ở những công viên có địa hình phức tạp." />
+		<entry key="CameraOptionsMenu_Presets_Custom" translation="Tùy chỉnh" />
+		<entry key="CameraOptionsMenu_Presets_Hybrid" translation="Nâng cao" />
+		<entry key="CameraOptionsMenu_Presets_Hybrid_ToolTip" translation="Giá trị đặt trước này sử dụng kết hợp các tùy chọn. Nó cung cấp khả năng kiểm soát chính xác nhưng yêu cầu xử lý cẩn thận." />
+		<entry key="CameraOptionsMenu_RMBDrag" translation="Kéo chuột phải" />
+		<entry key="CameraOptionsMenu_RMBDrag_Grab" translation="Kéo Kéo" />
+		<entry key="CameraOptionsMenu_RMBDrag_Grab_ToolTip" translation="Nắm lấy một điểm trong công viên và di chuyển xung quanh đó." />
+		<entry key="CameraOptionsMenu_RMBDrag_InvertedSimple" translation="Kéo ngược đơn giản" />
+		<entry key="CameraOptionsMenu_RMBDrag_InvertedSimple_ToolTip" translation="Giống như Kéo đơn giản, nhưng bị đảo ngược." />
+		<entry key="CameraOptionsMenu_RMBDrag_Simple" translation="Kéo đơn giản" />
+		<entry key="CameraOptionsMenu_RMBDrag_Simple_ToolTip" translation="Xoay camera chỉ dựa trên chuyển động của chuột." />
+		<entry key="CameraOptionsMenu_RMBDrag_SuperGrab" translation="Nắm bắt và Lấy nét" />
+		<entry key="CameraOptionsMenu_RMBDrag_SuperGrab_ToolTip" translation="Nắm lấy một điểm trong công viên và di chuyển, xoay và thu phóng xung quanh điểm lấy." />
+		<entry key="CameraOptionsMenu_RMBDrag_ToolTip" translation="Xác định hành vi kéo RMB." />
+		<entry key="CameraOptionsMenu_RotateFocus" translation="Rotation Behavior" />
+		<entry key="CameraOptionsMenu_RotateFocus_Centre" translation="Center Focused" />
+		<entry key="CameraOptionsMenu_RotateFocus_Cursor" translation="Mouse Focused" />
+		<entry key="CameraOptionsMenu_RotateFocus_ToolTip" translation="Xác định những gì camera quay xung quanh." />
+		<entry key="CameraOptionsMenu_SensinityKey" translation="Độ nhạy phím" />
+		<entry key="CameraOptionsMenu_SenshesiaLabel" translation="Độ nhạy" />
+		<entry key="CameraOptionsMenu_SensualityMouse" translation="Độ nhạy của Chuột" />
+		<entry key="CameraOptionsMenu_SensinityWheel" translation="Độ nhạy thu phóng" />
+		<entry key="CameraOptionsMenu_WindowTitle" translation="Máy ảnh" />
+		<entry key="CameraOptionsMenu_YawIncrement" translation="Tăng hàm" />
+		<entry key="CameraOptionsMenu_YawIncrement_Off" translation="Liên tục" />
+		<entry key="CameraOptionsMenu_YawIncrement_ToolTip" translation="Phím [Q] và [E] xoay máy ảnh liên tục khi giữ hoặc xoay theo một mức cố định mỗi lần nhấn." />
+		<entry key="CameraOptionsMenu_ZoomFocus" translation="Zoom Behavior" />
+		<entry key="CameraOptionsMenu_ZoomFocus_Centre" translation="Trung tâm Tiêu điểm" />
+		<entry key="CameraOptionsMenu_ZoomFocus_Cursor" translation="Mouse Focused" />
+		<entry key="CameraOptionsMenu_ZoomFocus_Mixed" translation="Chuột vào, giữa ra" />
+		<entry key="CameraOptionsMenu_ZoomFocus_ToolTip" translation="Xác định vị trí máy ảnh di chuyển khi bạn phóng to và thu nhỏ." />
+
 		<!--CoasterEditor-->
-		<entry key="CoasterEditor_AttachedAndRotateCamera" translation="Attach and rotate"/>
-		<entry key="CoasterEditor_AttachedCamera" translation="Attach"/>
-		<entry key="CoasterEditor_Autocomplete" translation="Autocomplete"/>
-		<entry key="CoasterEditor_AutocompleteCalculating" translation="Autocomplete calculating..."/>
-		<entry key="CoasterEditor_AutocompleteFailed" translation="Autocomplete failed"/>
-		<entry key="CoasterEditor_Camera" translation="Camera"/>
-		<entry key="CoasterEditor_CarColor" translation="Car colour"/>
-		<entry key="CoasterEditor_Delete" translation="Delete"/>
-		<entry key="CoasterEditor_FreeCamera" translation="Free"/>
-		<entry key="CoasterEditor_Loops" translation="Loops"/>
-		<entry key="CoasterEditor_NonInverted" translation="Non-inverted"/>
-		<entry key="CoasterEditor_ReverseDirection" translation="Reverse direction"/>
-		<entry key="CoasterEditor_Rolls" translation="Rolls"/>
-		<entry key="CoasterEditor_Scenery" translation="Scenery"/>
-		<entry key="CoasterEditor_ShowBank" translation="Show bank"/>
-		<entry key="CoasterEditor_Smooth" translation="Smooth"/>
-		<entry key="CoasterEditor_Speed" translation="Speed"/>
-		<entry key="CoasterEditor_Station" translation="Station"/>
-		<entry key="CoasterEditor_StationPlatform" translation="Platform"/>
-		<entry key="CoasterEditor_StopTest" translation="Stop Test"/>
-		<entry key="CoasterEditor_SupportColor" translation="Support colour"/>
-		<entry key="CoasterEditor_Test" translation="Test"/>
-		<entry key="CoasterEditor_Tools" translation="Tools"/>
-		<entry key="CoasterEditor_Tooltip_Autocomplete" translation="Autocomplete"/>
-		<entry key="CoasterEditor_Tooltip_Build" translation="Build"/>
-		<entry key="CoasterEditor_Tooltip_Camera" translation="Camera"/>
-		<entry key="CoasterEditor_Tooltip_Delete" translation="Delete"/>
-		<entry key="CoasterEditor_Tooltip_Test" translation="Test"/>
-		<entry key="CoasterEditor_Track" translation="Track"/>
-		<entry key="CoasterEditor_TrackColor" translation="Track colour"/>
-		<entry key="CoasterEditor_Trains" translation="Trains"/>
-		<entry key="CoasterEditor_TunnelWidth" translation="Tunnel width"/>
-		<entry key="CoasterEditor_Utilities" translation="Utilities"/>
-		<entry key="CoasterEditor_station_left_left" translation="Entry Left/ Exit Left"/>
-		<entry key="CoasterEditor_station_left_right" translation="Entry Left/ Exit Right"/>
-		<entry key="CoasterEditor_station_right_left" translation="Entry Right/ Exit Left"/>
-		<entry key="CoasterEditor_station_right_right" translation="Entry Right/ Exit Right"/>
+		<entry key="CoasterEditor_AttachedAndRotateCamera" translation="Đính kèm và xoay" />
+		<entry key="CoasterEditor_AttachedCamera" translation="Đính kèm" />
+		<entry key="CoasterEditor_Autocomplete" translation="Tự động hoàn thành" />
+		<entry key="CoasterEditor_AutocompleteCalculating" translation="Tự động hoàn thành tính toán ..." />
+		<entry key="CoasterEditor_AutocompleteFailed" translation="Tự động hoàn thành không thành công" />
+		<entry key="CoasterEditor_Camera" translation="Máy ảnh" />
+		<entry key="CoasterEditor_CarColor" translation="Màu xe" />
+		<entry key="CoasterEditor_Delete" translation="Xóa" />
+		<entry key="CoasterEditor_FreeCamera" translation="Miễn phí" />
+		<entry key="CoasterEditor_Loops" translation="Vòng lặp" />
+		<entry key="CoasterEditor_NonInverted" translation="Không đảo ngược" />
+		<entry key="CoasterEditor_ReverseDirection" translation="Hướng ngược" />
+		<entry key="CoasterEditor_Rolls" translation="Cuộn" />
+		<entry key="CoasterEditor_Scenery" translation="Phong cảnh" />
+		<entry key="CoasterEditor_ShowBank" translation="Hiển thị ngân hàng" />
+		<entry key="CoasterEditor_Smooth" translation="Smooth" />
+		<entry key="CoasterEditor_Speed" translation="Tốc độ" />
+		<entry key="CoasterEditor_Station" translation="Trạm" />
+		<entry key="CoasterEditor_StationPlatform" translation="Nền tảng" />
+		<entry key="CoasterEditor_StopTest" translation="Dừng kiểm tra" />
+		<entry key="CoasterEditor_SupportColor" translation="Màu hỗ trợ" />
+		<entry key="CoasterEditor_Test" translation="Kiểm tra" />
+		<entry key="CoasterEditor_Tools" translation="Công cụ" />
+		<entry key="CoasterEditor_Tooltip_Autocomplete" translation="Tự động hoàn thành" />
+		<entry key="CoasterEditor_Tooltip_Build" translation="Xây dựng" />
+		<entry key="CoasterEditor_Tooltip_Camera" translation="Máy ảnh" />
+		<entry key="CoasterEditor_Tooltip_Delete" translation="Xóa" />
+		<entry key="CoasterEditor_Tooltip_Test" translation="Kiểm tra" />
+		<entry key="CoasterEditor_Track" translation="Theo dõi" />
+		<entry key="CoasterEditor_TrackColor" translation="Màu theo dõi" />
+		<entry key="CoasterEditor_Trains" translation="Tàu" />
+		<entry key="CoasterEditor_TunnelWidth" translation="Chiều rộng đường hầm" />
+		<entry key="CoasterEditor_Utilities" translation="Tiện ích" />
+		<entry key="CoasterEditor_station_left_left" translation="Vào trái / Thoát trái" />
+		<entry key="CoasterEditor_station_left_right" translation="Vào Trái / Thoát Phải" />
+		<entry key="CoasterEditor_station_right_left" translation="Vào Phải / Thoát Trái" />
+		<entry key="CoasterEditor_station_right_right" translation="Vào đúng / Thoát ngay" />
 		<!--Coasters-->
-		<entry key="Coaster_Aethon" translation="Aethon"/>
-		<entry key="Coaster_Aethon_Desc" translation="Vertical drop coaster using wide, high capacity floorless cars for an extra feeling of rider vulnerability."/>
-		<entry key="Coaster_Anubis" translation="Anubis"/>
-		<entry key="Coaster_Anubis_Desc" translation="Hypercoaster that's all about airtime and high vertical G forces."/>
-		<entry key="Coaster_Boa" translation="Boa"/>
-		<entry key="Coaster_Boa_Desc" translation="Inverted Coaster that lends itself to twisting, snaking track designs."/>
-		<entry key="Coaster_CloudR" translation="Cloud Runner"/>
-		<entry key="Coaster_CloudR_Desc" translation="Positions riders either side of the track, with nothing above or below them, giving an unparalleled sense of freedom."/>
-		<entry key="Coaster_Enigma" translation="Enigma"/>
-		<entry key="Coaster_Enigma_Desc" translation="Secures riders in a standing position as they travel along the track."/>
-		<entry key="Coaster_Equalizer" translation="Equalizer"/>
-		<entry key="Coaster_Equalizer_Desc" translation="Hypercoaster with 80's styled trains."/>
-		<entry key="Coaster_GASM" translation="The American Arrow"/>
-		<entry key="Coaster_GASM_Desc" translation="Specially designed for inversions."/>
-		<entry key="Coaster_Rage" translation="Rage"/>
-		<entry key="Coaster_Rage_Desc" translation="Capable of dizzying heights and drops."/>
-		<entry key="Coaster_Rival" translation="Rival"/>
-		<entry key="Coaster_Rival_Desc" translation="Inverted Coaster where riders are secured below the track."/>
-		<entry key="Coaster_SRay" translation="Stingray"/>
-		<entry key="Coaster_SRay_Desc" translation="Restrains riders in a suspended, head first prone position, giving them the sensation of flying along the track."/>
-		<entry key="Coaster_Sp500" translation="Sprint 500"/>
-		<entry key="Coaster_Sp500_Desc" translation="Accelerates faster than a racing car thanks to a hydraulic launch system."/>
-		<entry key="Coaster_Type_CustomLooping" translation="Custom Looping"/>
-		<entry key="Coaster_Type_Dive" translation="Dive"/>
-		<entry key="Coaster_Type_Floorless" translation="Floorless"/>
-		<entry key="Coaster_Type_Flying" translation="Flying"/>
-		<entry key="Coaster_Type_GigaRage" translation="Giga"/>
-		<entry key="Coaster_Type_HypercoasterAnubis" translation="Hypercoaster"/>
-		<entry key="Coaster_Type_HypercoasterEqualizer" translation="Hypercoaster"/>
-		<entry key="Coaster_Type_InvertedBoa" translation="Inverted"/>
-		<entry key="Coaster_Type_InvertedRival" translation="Inverted"/>
-		<entry key="Coaster_Type_Junior" translation="Junior"/>
-		<entry key="Coaster_Type_LaunchedSprint500" translation="Launched"/>
-		<entry key="Coaster_Type_StandupCoaster" translation="Standup"/>
-		<entry key="Coaster_Type_WingCoaster" translation="Wing"/>
-		<entry key="Coaster_WWolf" translation="Werewolf"/>
-		<entry key="Coaster_WWolf_Desc" translation="Restrains riders in a seated position, with no floor so their legs dangle freely above the track."/>
-		<entry key="Coaster_Wend" translation="Wendigo"/>
-		<entry key="Coaster_Wend_Desc" translation="A Coaster to thrill both adults and children."/>
+		<entry key="Coaster_Aethon" translation="Aethon" />
+		<entry key="Coaster_Aethon_Desc" translation="Tàu trượt thả thẳng đứng sử dụng ô tô không số sàn có sức chứa lớn, tăng thêm cảm giác dễ bị tổn thương cho người lái." />
+		<entry key="Coaster_Anubis" translation="Anubis" />
+		<entry key="Coaster_Anubis_Desc" translation="Hypercoaster là tất cả về thời gian phát sóng và lực G theo phương thẳng đứng cao." />
+		<entry key="Coaster_Boa" translation="Boa" />
+		<entry key="Coaster_Boa_Desc" translation="Đảo ngược Coaster tự sử dụng để thiết kế đường ray xoắn, ngoằn ngoèo." />
+		<entry key="Coaster_CloudR" translation="Cloud Runner" />
+		<entry key="Coaster_CloudR_Desc" translation="Vị trí của người lái ở hai bên đường đua, không có gì ở trên hoặc dưới họ, mang lại cảm giác tự do vô song." />
+		<entry key="Coaster_Enigma" translation="Enigma" />
+		<entry key="Coaster_Enigma_Desc" translation="Bảo vệ người lái ở tư thế đứng khi họ di chuyển dọc theo đường đua." />
+		<entry key="Coaster_Equalizer" translation="Bộ chỉnh âm" />
+		<entry key="Coaster_Equalizer_Desc" translation="Tàu siêu tốc với các đoàn tàu kiểu dáng của thập niên 80." />
+		<entry key="Coaster_GASM" translation="Mũi tên Hoa Kỳ" />
+		<entry key="Coaster_GASM_Desc" translation="Được thiết kế đặc biệt để đảo ngược." />
+		<entry key="Coaster_Rage" translation="Rage" />
+		<entry key="Coaster_Rage_Desc" translation="Có khả năng hạ độ cao và hạ thấp chóng mặt." />
+		<entry key="Coaster_Rival" translation="Đối thủ" />
+		<entry key="Coaster_Rival_Desc" translation="Đảo ngược Coaster, nơi các tay đua được đảm bảo an toàn bên dưới đường đua." />
+		<entry key="Coaster_SRay" translation="Stingray" />
+		<entry key="Coaster_SRay_Desc" translation="Hạn chế người lái ở tư thế lơ lửng, nằm sấp trước, tạo cho họ cảm giác như đang bay dọc theo đường đua." />
+		<entry key="Coaster_Sp500" translation="Sprint 500" />
+		<entry key="Coaster_Sp500_Desc" translation="Tăng tốc nhanh hơn xe đua nhờ hệ thống phóng thủy lực." />
+		<entry key="Coaster_Type_CustomLooping" translation="Custom Looping" />
+		<entry key="Coaster_Type_Dive" translation="Dive" />
+		<entry key="Coaster_Type_Floorless" translation="Không có tầng" />
+		<entry key="Coaster_Type_Flying" translation="Flying" />
+		<entry key="Coaster_Type_GigaRage" translation="Giga" />
+		<entry key="Coaster_Type_HypercoasterAnubis" translation="Hypercoaster" />
+		<entry key="Coaster_Type_HypercoasterEqualizer" translation="Hypercoaster" />
+		<entry key="Coaster_Type_InvertedBoa" translation="Inverted" />
+		<entry key="Coaster_Type_InvertedRival" translation="Đảo ngược" />
+		<entry key="Coaster_Type_Junior" translation="Junior" />
+		<entry key="Coaster_Type_LaunchedSprint500" translation="Đã khởi chạy" />
+		<entry key="Coaster_Type_StandupCoaster" translation="Standup" />
+		<entry key="Coaster_Type_WingCoaster" translation="Cánh" />
+		<entry key="Coaster_WWolf" translation="Người sói" />
+		<entry key="Coaster_WWolf_Desc" translation="Hạn chế người lái ở tư thế ngồi, không có sàn để chân của họ lơ lửng tự do phía trên đường đua." />
+		<entry key="Coaster_Wend" translation="Wendigo" />
+		<entry key="Coaster_Wend_Desc" translation="Một chuyến đi thú vị cho cả người lớn và trẻ em." />
+
 		<!--CommunityTranslation-->
 		<entry key="CommunityTranslation_Name" translation="David Bamber - Pirate!"/>
 		<!--Facilities-->
-		<entry key="BuildingPartDesc_FlatRideEntranceBooth" translation="Place at the front of queues to open rides.\nChủ đề hiện đại"/>
-		<entry key="BuildingPartDesc_PC_Shop_Drink_02" translation="A place for khách to buy Milkshakes.\nFacility"/>
-		<entry key="BuildingPartDesc_PC_Shop_Food_01" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_PC_Shop_Food_02" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_PC_Shop_Hats_01" translation="A place for khách to buy Hats.\nFacility"/>
-		<entry key="BuildingPartDesc_PC_Toilets_A" translation="A place for khách to go to the bathroom.\nFacility"/>
-		<entry key="BuildingPartDesc_PC_Turnstile" translation="PC Turnstile"/>
-		<entry key="BuildingPartDesc_PC_Turnstile_NoSpawner" translation="Turnstile\nBộ tường hiện đại"/>
-		<entry key="BuildingPartDesc_RR_FirstAid" translation="A place for nauseous khách to recover.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_ParkEntrance" translation="In case you delete the old one.\nWhere khách spawn.\nChủ đề hiện đại"/>
-		<entry key="BuildingPartDesc_RR_ShopDrinks" translation="A place for khách to buy Milkshakes.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_ShopFood" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_ShopHats" translation="A place for khách to buy Hats.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Shop_Drink_02" translation="A place for khách to buy Milkshakes.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Shop_Food_01" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Shop_Food_02" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Shop_Hats_01" translation="A place for khách to buy Hats.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_TicketKiosk" translation="The entry point for khách to get onto Rides.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Toilets" translation="A place for khách to go to the bathroom.\nFacility"/>
-		<entry key="BuildingPartDesc_RR_Turnstile" translation="Ride Entrance.\nFacility"/>
-		<entry key="BuildingPartDesc_ST_Shop_Drink_02" translation="A place for khách to buy Milkshakes.\nFacility"/>
-		<entry key="BuildingPartDesc_ST_Shop_Food_01" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_ST_Shop_Food_02" translation="A place for khách to buy Burgers.\nFacility"/>
-		<entry key="BuildingPartDesc_ST_Shop_Hats_01" translation="A place for khách to buy Hats.\nFacility"/>
-		<entry key="BuildingPartDesc_ST_Toilets" translation="A place for khách to go to the bathroom.\nFacility"/>
-		<entry key="BuildingPartName_FlatRideEntranceBooth" translation="Ride Entrance"/>
-		<entry key="BuildingPartName_PC_Shop_Drink_02" translation="Ván Premium Drink Shop"/>
-		<entry key="BuildingPartName_PC_Shop_Food_01" translation="Cửa hàng Food"/>
-		<entry key="BuildingPartName_PC_Shop_Food_02" translation="Ván Premium Food Shop"/>
-		<entry key="BuildingPartName_PC_Shop_Hats_01" translation="Ván Hats Shop"/>
-		<entry key="BuildingPartName_PC_Toilets_A" translation="Planet Coaster Toilets"/>
-		<entry key="BuildingPartName_PC_Turnstile" translation="PC Turnstile"/>
-		<entry key="BuildingPartName_PC_Turnstile_NoSpawner" translation="Planet Coaster Turnstile"/>
-		<entry key="BuildingPartName_RR_FirstAid" translation="First Aid"/>
-		<entry key="BuildingPartName_RR_ParkEntrance" translation="Park Entrance"/>
-		<entry key="BuildingPartName_RR_ShopDrinks" translation="Cửa hàng Drinks"/>
-		<entry key="BuildingPartName_RR_ShopFood" translation="Cửa hàng Food"/>
-		<entry key="BuildingPartName_RR_ShopHats" translation="Cửa hàng Hat"/>
-		<entry key="BuildingPartName_RR_Shop_Drink_02" translation="Vữa Premium Drink Shop"/>
+		<entry key="BuildingPartDesc_FlatRideEntranceBooth" translation="Đặt ở đầu hàng đợi để mở các chuyến đi.\nChủ đề hiện đại"/>
+		<entry key="BuildingPartDesc_PC_Shop_Drink_02" translation="Một nơi cho khách để mua sữa lắc.\nCơ sở"/>
+		<entry key="BuildingPartDesc_PC_Shop_Food_01" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_PC_Shop_Food_02" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_PC_Shop_Hats_01" translation="Một nơi cho khách để mua nón.\nCơ sở"/>
+		<entry key="BuildingPartDesc_PC_Toilets_A" translation="Một nơi cho khách đi vệ sinh.\nCơ sở"/>
+		<entry key="BuildingPartDesc_PC_Turnstile" translation="PC cửa quay"/>
+		<entry key="BuildingPartDesc_PC_Turnstile_NoSpawner" translation="Cửa quay\nBộ tường hiện đại"/>
+		<entry key="BuildingPartDesc_RR_FirstAid" translation="Một nơi cho khách đi nôn.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_ParkEntrance" translation="Trong trường hợp bạn xóa cái cũ.\nở đâu khách tạo mới.\nChủ đề hiện đại"/>
+		<entry key="BuildingPartDesc_RR_ShopDrinks" translation="Một nơi cho khách để mua sữa lắc.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_ShopFood" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_ShopHats" translation="Một nơi cho khách để mua nón.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Shop_Drink_02" translation="Một nơi cho khách để mua sữa lắc.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Shop_Food_01" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Shop_Food_02" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Shop_Hats_01" translation="Một nơi cho khách để mua Hats.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_TicketKiosk" translation="Điểm vào cho khách để lên Rides.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Toilets" translation="Một nơi cho khách đi vệ sinh.\nCơ sở"/>
+		<entry key="BuildingPartDesc_RR_Turnstile" translation="Lối vào Ride.\nCơ sở"/>
+		<entry key="BuildingPartDesc_ST_Shop_Drink_02" translation="Một nơi cho khách để mua sữa lắc.\nCơ sở"/>
+		<entry key="BuildingPartDesc_ST_Shop_Food_01" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_ST_Shop_Food_02" translation="Một nơi cho khách để mua Burgers.\nCơ sở"/>
+		<entry key="BuildingPartDesc_ST_Shop_Hats_01" translation="Một nơi cho khách để mua nón.\nCơ sở"/>
+		<entry key="BuildingPartDesc_ST_Toilets" translation="Một nơi cho khách đi vệ sinh.\nCơ sở"/>
+		<entry key="BuildingPartName_FlatRideEntranceBooth" translation="Lối vào Ride"/>
+		<entry key="BuildingPartName_PC_Shop_Drink_02" translation="Ván Cửa hàng đồ uống cao cấp"/>
+		<entry key="BuildingPartName_PC_Shop_Food_01" translation="Cửa hàng thức ăn"/>
+		<entry key="BuildingPartName_PC_Shop_Food_02" translation="Ván Cửa hàng thức ăn cao cấp"/>
+		<entry key="BuildingPartName_PC_Shop_Hats_01" translation="Ván Cửa hàng nón"/>
+		<entry key="BuildingPartName_PC_Toilets_A" translation="Planet Coaster nhà vệ sinh"/>
+		<entry key="BuildingPartName_PC_Turnstile" translation="PC cửa quay"/>
+		<entry key="BuildingPartName_PC_Turnstile_NoSpawner" translation="Planet Coaster cửa quay"/>
+		<entry key="BuildingPartName_RR_FirstAid" translation="Sơ cứu"/>
+		<entry key="BuildingPartName_RR_ParkEntrance" translation="Cổng vào công viên"/>
+		<entry key="BuildingPartName_RR_ShopDrinks" translation="Cửa hàng thức uống"/>
+		<entry key="BuildingPartName_RR_ShopFood" translation="Cửa hàng thức ăn"/>
+		<entry key="BuildingPartName_RR_ShopHats" translation="Cửa hàng nón"/>
+		<entry key="BuildingPartName_RR_Shop_Drink_02" translation="Vữa cửa hàng đồ uống cao cấp"/>
 		<entry key="BuildingPartName_RR_Shop_Food_01" translation="Cửa hàng Food"/>
-		<entry key="BuildingPartName_RR_Shop_Food_02" translation="Vữa Premium Food Shop"/>
-		<entry key="BuildingPartName_RR_Shop_Hats_01" translation="Vữa Hats Shop"/>
-		<entry key="BuildingPartName_RR_TicketKiosk" translation="Ticket Kiosk"/>
-		<entry key="BuildingPartName_RR_Toilets" translation="Vữa Toilets"/>
-		<entry key="BuildingPartName_RR_Turnstile" translation="Turnstile"/>
-		<entry key="BuildingPartName_ST_Shop_Drink_02" translation="Sa thạch Premium Drink Shop"/>
-		<entry key="BuildingPartName_ST_Shop_Food_01" translation="Cửa hàng Food"/>
-		<entry key="BuildingPartName_ST_Shop_Food_02" translation="Sa thạch Premium Food Shop"/>
-		<entry key="BuildingPartName_ST_Shop_Hats_01" translation="Sa thạch Hats Shop"/>
-		<entry key="BuildingPartName_ST_Toilets" translation="Sa thạch Toilets"/>
-		<entry key="GenericFacilityPrefix" translation="Facility"/>
+		<entry key="BuildingPartName_RR_Shop_Food_02" translation="Vữa cửa hàng thức ăn cao cấp"/>
+		<entry key="BuildingPartName_RR_Shop_Hats_01" translation="Vữa cửa hàng nón"/>
+		<entry key="BuildingPartName_RR_TicketKiosk" translation="Kiốt bán vé"/>
+		<entry key="BuildingPartName_RR_Toilets" translation="Vữa nhà vệ sinh"/>
+		<entry key="BuildingPartName_RR_Turnstile" translation="Cửa quay"/>
+		<entry key="BuildingPartName_ST_Shop_Drink_02" translation="Sa thạch cửa hàng đồ uống cao cấp"/>
+		<entry key="BuildingPartName_ST_Shop_Food_01" translation="Cửa hàng thức ăn"/>
+		<entry key="BuildingPartName_ST_Shop_Food_02" translation="Sa thạch Cửa hàng thức ăn cao cấp"/>
+		<entry key="BuildingPartName_ST_Shop_Hats_01" translation="Sa thạch Cửa hàng nón"/>
+		<entry key="BuildingPartName_ST_Toilets" translation="Sa thạch nhà vệ sinh"/>
+		<entry key="GenericFacilityPrefix" translation="Cơ sở"/>
 		<entry key="ShopItem_Drink_Cola" translation="Cosmic Shake"/>
 		<entry key="ShopItem_Food_Burger" translation="Chiefburger"/>
 		<entry key="ShopItem_Hat_Baseball" translation="Baseball Cap"/>
@@ -1089,21 +1091,21 @@
 		<!--FrontEndMenu-->
 		<entry key="FrontEndMenu_AutosaveNumber" translation="Autosave {Number:int:minDigits=1}"/>
 		<entry key="FrontEndMenu_AvatarOkButton" translation="Aye!"/>
-		<entry key="FrontEndMenu_Back" translation="Back"/>
+		<entry key="FrontEndMenu_Back" translation="Quay lại"/>
 		<entry key="FrontEndMenu_Credits" translation="Credits"/>
 		<entry key="FrontEndMenu_CreditsButton" translation="Credits"/>
-		<entry key="FrontEndMenu_DeleteButton" translation="Destroy World"/>
-		<entry key="FrontEndMenu_Exit" translation="Quit Planet Coaster"/>
-		<entry key="FrontEndMenu_ExitButton" translation="Quit Planet Coaster"/>
+		<entry key="FrontEndMenu_DeleteButton" translation="Phá hủy thế giới"/>
+		<entry key="FrontEndMenu_Exit" translation="Thoát Planet Coaster"/>
+		<entry key="FrontEndMenu_ExitButton" translation="Thoát Planet Coaster"/>
 		<entry key="FrontEndMenu_ExitPrompt_ConfirmCancel" translation="Nay!"/>
 		<entry key="FrontEndMenu_ExitPrompt_ConfirmOK" translation="Aye!"/>
-		<entry key="FrontEndMenu_ExitPrompt_Header" translation="Quit"/>
-		<entry key="FrontEndMenu_ExitPrompt_Label" translation="Quit Planet Coaster?"/>
-		<entry key="FrontEndMenu_Load" translation="Load"/>
+		<entry key="FrontEndMenu_ExitPrompt_Header" translation="Thoát"/>
+		<entry key="FrontEndMenu_ExitPrompt_Label" translation="Thoát Planet Coaster?"/>
+		<entry key="FrontEndMenu_Load" translation="Tải"/>
 		<entry key="FrontEndMenu_LoadDate" translation="{Hour:int}:{Minute:int:minDigits=2} {AMPM} - {DateString}"/>
 		<entry key="FrontEndMenu_LoadDate_AM" translation="AM"/>
 		<entry key="FrontEndMenu_LoadDate_PM" translation="PM"/>
-		<entry key="FrontEndMenu_MyParks" translation="My Parks"/>
+		<entry key="FrontEndMenu_MyParks" translation="Công viên của tôi"/>
 		<entry key="FrontEndMenu_ParkCreator1" translation="James Taylor"/>
 		<entry key="FrontEndMenu_ParkCreator10" translation="Matthew Preece"/>
 		<entry key="FrontEndMenu_ParkCreator11" translation="Dean Searle"/>
@@ -1115,66 +1117,66 @@
 		<entry key="FrontEndMenu_ParkCreator7" translation="James Taylor"/>
 		<entry key="FrontEndMenu_ParkCreator8" translation="Radoslaw Walachnia"/>
 		<entry key="FrontEndMenu_ParkCreator9" translation="Radoslaw Walachnia"/>
-		<entry key="FrontEndMenu_ParkDetails1" translation="A wide open and flattened off area.\nFill the field to your heart's content."/>
-		<entry key="FrontEndMenu_ParkDetails10" translation="The approach to this park will not be easy."/>
-		<entry key="FrontEndMenu_ParkDetails11" translation="Many people consider it to be one of the eight wonders of the natural world."/>
-		<entry key="FrontEndMenu_ParkDetails12" translation="Coaster King's secret lair."/>
-		<entry key="FrontEndMenu_ParkDetails13" translation="Avast ye sky dogs, there be coasters-a-coming!"/>
-		<entry key="FrontEndMenu_ParkDetails14" translation="Fun with monuments. What can you build?"/>
-		<entry key="FrontEndMenu_ParkDetails15" translation="Don't feed the wildlife."/>
-		<entry key="FrontEndMenu_ParkDetails2" translation="This sprawling Pirate area surrounds a dried up riverbed. Shore up new excitement for this ship out of water."/>
-		<entry key="FrontEndMenu_ParkDetails3" translation="This pocket sized Pirate park circles the cantankerous Kraken, as the formidable feature creature's reach breeches the beach."/>
-		<entry key="FrontEndMenu_ParkDetails4" translation="Planet Coaster’s first fledgling park. There’s plenty of room to expand and make something amazing!"/>
-		<entry key="FrontEndMenu_ParkDetails5" translation="A pair of intertwined coasters link the stylish hình vuông with the pirate plaza. Which theme will you expand with your park?"/>
-		<entry key="FrontEndMenu_ParkDetails6" translation="Unspoiled furrows of trees and rocks feature through this woodland sandbox area, with plenty of space for expansion."/>
-		<entry key="FrontEndMenu_ParkDetails7" translation="A dried out lake with a centerpiece rollercoaster. Build your park around and amidst the spread of twisting tracks."/>
-		<entry key="FrontEndMenu_ParkDetails8" translation="Visitors venture far afield to soak up the sight of the mystical tree. Can your park do justice to such a spectacle?"/>
-		<entry key="FrontEndMenu_ParkDetails9" translation="A hulking stone monstrosity grew from the mountains and now looms over the valley."/>
-		<entry key="FrontEndMenu_ParkLocation1" translation="Sandbox Field"/>
-		<entry key="FrontEndMenu_ParkLocation10" translation="Stay On Target"/>
-		<entry key="FrontEndMenu_ParkLocation11" translation="The lớn Ravine"/>
-		<entry key="FrontEndMenu_ParkLocation12" translation="Coaster King"/>
-		<entry key="FrontEndMenu_ParkLocation13" translation="That's Impossible!"/>
-		<entry key="FrontEndMenu_ParkLocation14" translation="A bit of a Rushmore"/>
-		<entry key="FrontEndMenu_ParkLocation15" translation="Kraken Pit"/>
-		<entry key="FrontEndMenu_ParkLocation2" translation="Swashbuckling Shore"/>
-		<entry key="FrontEndMenu_ParkLocation3" translation="Kraken Kingdom"/>
-		<entry key="FrontEndMenu_ParkLocation4" translation="King Planet's Pleasure Park"/>
-		<entry key="FrontEndMenu_ParkLocation5" translation="Saltlake Valley"/>
-		<entry key="FrontEndMenu_ParkLocation6" translation="Forest Sandbox"/>
-		<entry key="FrontEndMenu_ParkLocation7" translation="Coaster Plains"/>
-		<entry key="FrontEndMenu_ParkLocation8" translation="The Great Tree"/>
-		<entry key="FrontEndMenu_ParkLocation9" translation="Golem's Grassland"/>
-		<entry key="FrontEndMenu_PinDate" translation="{DateString}"/>
-		<entry key="FrontEndMenu_Play" translation="Play"/>
-		<entry key="FrontEndMenu_PlayButton" translation="Enter Portal"/>
-		<entry key="FrontEndMenu_Resume" translation="Resume"/>
-		<entry key="FrontEndMenu_Settings" translation="Options"/>
-		<entry key="FrontEndMenu_SettingsButton" translation="Options"/>
-		<entry key="FrontEndMenu_TestDetails" translation="Enjoy the fantastic world of Planet Coaster, discover endless possibilities and make the ultimate theme park."/>
-		<entry key="FrontEndMenu_TestSaveName" translation="Load Park"/>
-		<entry key="FrontEndMenu_Welcome" translation="Ahoy!"/>
-		<entry key="FrontEndMenu_themePark" translation="Captain {Name}'s Coaster Park"/>
+		<entry key="FrontEndMenu_ParkDetails1" translation="Một khu vực rộng mở và phẳng.\nĐiền trường vào nội dung trái tim của bạn." />
+		<entry key="FrontEndMenu_ParkDetails10" translation="Việc tiếp cận công viên này sẽ không dễ dàng." />
+		<entry key="FrontEndMenu_ParkDetails11" translation="Nhiều người coi đây là một trong tám kỳ quan của thế giới tự nhiên." />
+		<entry key="FrontEndMenu_ParkDetails12" dịch="Hang ổ bí mật của Coaster King." />
+		<entry key="FrontEndMenu_ParkDetails13" translation="Hỡi những chú chó trên trời, có đế lót ly sắp tới!" />
+		<entry key="FrontEndMenu_ParkDetails14" translation="Vui vẻ với những tượng đài. Bạn có thể xây những gì?" />
+		<entry key="FrontEndMenu_ParkDetails15" dịch="Không cho động vật hoang dã." />
+		<entry key="FrontEndMenu_ParkDetails2" translation="Khu vực rộng lớn của Hải tặc này bao quanh một đáy sông khô cạn. Hãy khơi dậy niềm phấn khích mới cho con tàu chạy trên mặt nước này." />
+		<entry key="FrontEndMenu_ParkDetails3" translation="Công viên Cướp biển có kích thước bỏ túi này bao quanh Kraken khó coi, khi phạm vi tiếp cận của sinh vật có đặc điểm ghê gớm tóm gọn bãi biển." />
+		<entry key="FrontEndMenu_ParkDetails4" translation="Công viên non trẻ đầu tiên của Planet Coaster. Có rất nhiều chỗ để mở rộng và tạo ra điều gì đó tuyệt vời!" />
+		<entry key="FrontEndMenu_ParkDetails5" translation="Một đôi đế lót ly đan xen nhau liên kết hình vuông sành điệu với quảng trường cướp biển. Bạn sẽ mở rộng chủ đề nào với công viên của mình?" />
+		<entry key="FrontEndMenu_ParkDetails6" translation="Những luống cây và đá hoang sơ nổi bật trong khu vực hộp cát trong rừng này, với nhiều không gian để mở rộng." />
+		<entry key="FrontEndMenu_ParkDetails7" translation="Một hồ nước cạn với một tàu lượn siêu tốc ở giữa. Hãy xây dựng công viên của bạn xung quanh và giữa những đường ray ngoằn ngoèo." />
+		<entry key="FrontEndMenu_ParkDetails8" translation="Du khách hãy mạo hiểm đi xa để đắm mình trong cảnh tượng của cái cây thần bí. Công viên của bạn có thể công bằng trước cảnh tượng như vậy không?" />
+		<entry key="FrontEndMenu_ParkDetails9" translation="Một tảng đá khổng lồ lớn lên từ những ngọn núi và giờ nằm ​​khuất trên thung lũng." />
+		<entry key="FrontEndMenu_ParkLocation1" dịch="Trường hộp cát" />
+		<entry key="FrontEndMenu_ParkLocation10" dịch="Tiếp tục Mục tiêu" />
+		<entry key="FrontEndMenu_ParkLocation11" translation="The Ravine lớn" />
+		<entry key="FrontEndMenu_ParkLocation12" dịch="Coaster King" />
+		<entry key="FrontEndMenu_ParkLocation13" translation="Không thể!" />
+		<entry key="FrontEndMenu_ParkLocation14" translation="Một chút về Rushmore" />
+		<entry key="FrontEndMenu_ParkLocation15" dịch="Kraken Pit" />
+		<entry key="FrontEndMenu_ParkLocation2" dịch="Swashbuckling Shore" />
+		<entry key="FrontEndMenu_ParkLocation3" dịch="Vương quốc Kraken" />
+		<entry key="FrontEndMenu_ParkLocation4" dịch="Công viên Kho báu của Hành tinh Vua" />
+		<entry key="FrontEndMenu_ParkLocation5" dịch="Thung lũng Saltlake" />
+		<entry key="FrontEndMenu_ParkLocation6" dịch="Forest Sandbox" />
+		<entry key="FrontEndMenu_ParkLocation7" translation="Coaster Plains" />
+		<entry key="FrontEndMenu_ParkLocation8" translation="The Great Tree" />
+		<entry key="FrontEndMenu_ParkLocation9" dịch="Đồng cỏ của Golem" />
+		<entry key="FrontEndMenu_PinDate" translation="{DateString}" />
+		<entry key="FrontEndMenu_Play" translation="Chơi" />
+		<entry key="FrontEndMenu_PlayButton" translation="Vào cổng" />
+		<entry key="FrontEndMenu_Resume" translation="Tiếp tục" />
+		<entry key="FrontEndMenu_Settings" dịch="Tùy chọn" />
+		<entry key="FrontEndMenu_SettingsButton" translation="Tùy chọn" />
+		<entry key="FrontEndMenu_TestDetails" dịch="Tận hưởng thế giới tuyệt vời của Planet Coaster, khám phá những khả năng vô tận và tạo nên công viên giải trí tuyệt vời." />
+		<entry key="FrontEndMenu_TestSaveName" translation="Tải công viên" />
+		<entry key="FrontEndMenu_Welcome" translation="Ahoy!" />
+		<entry key="FrontEndMenu_themePark" translation="Đội trưởng {Name}'s Coaster Park" />
 		<!--GUI-->
 		<entry key="ANGLE_DEGREE" translation="{Value:float:decimalPlaces=0}º"/>
-		<entry key="AutosaveName" translation="Autosave"/>
+		<entry key="AutosaveName" translation="Tự động lưu"/>
 		<entry key="BuildingGroupInitialPrefix" translation="Buildin'"/>
-		<entry key="Button" translation="Button"/>
-		<entry key="COMING_SOON" translation="Coming soon"/>
+		<entry key="Button" translation="Nút"/>
+		<entry key="COMING_SOON" translation="Sắp ra mắt"/>
 		<entry key="COST" translation="{Value:currency}"/>
 		<entry key="COST_HINT_TEXT" translation="$ -"/>
 		<entry key="Cancel" translation="Nay!"/>
-		<entry key="Closed" translation="Closed"/>
+		<entry key="Closed" translation="Đóng"/>
 		<entry key="DATE" translation="{Day:int} {Month}, Yr {Year:int}"/>
 		<entry key="DATE_AND_TIME" translation="{Date} {Time}"/>
 		<entry key="DISTANCE_METERS" translation="{Value:float:decimalPlaces=0} m"/>
-		<entry key="DefaultSaveName" translation="My Park"/>
-		<entry key="Error" translation="Error!"/>
-		<entry key="Exit" translation="Exit"/>
+		<entry key="DefaultSaveName" translation="Công viên của tôi"/>
+		<entry key="Error" translation="Lỗi!"/>
+		<entry key="Exit" translation="Thoát"/>
 		<entry key="FlatRidePrefix" translation="Ride"/>
-		<entry key="HiddenPlayerName" translation="Player"/>
-		<entry key="Inaccessible" translation="Inaccessible"/>
-		<entry key="Incomplete" translation="Incomplete"/>
+		<entry key="HiddenPlayerName" translation="Người chơi"/>
+		<entry key="Inaccessible" translation="Không thể tiếp cận"/>
+		<entry key="Incomplete" translation="Chưa hoàn thiện"/>
 		<entry key="METER_PER_SEC" translation="{Value:float:decimalPlaces=0} m/s"/>
 		<entry key="METER_PER_SEC_SQUARED" translation="{Value:float:decimalPlaces=0} m/s&amp;#178;"/>
 		<entry key="MONTH_1" translation="Thg 1"/>
@@ -1202,71 +1204,71 @@
 		<entry key="MONTH_LONG_8" translation="Tháng 8"/>
 		<entry key="MONTH_LONG_9" translation="Tháng 9"/>
 		<entry key="Ok" translation="Ok"/>
-		<entry key="Open" translation="Open"/>
+		<entry key="Open" translation="Mở"/>
 		<entry key="PERCENTAGE" translation="{Value:float:decimalPlaces=0}%"/>
-		<entry key="Redo" translation="Redo"/>
+		<entry key="Redo" translation="Làm lại"/>
 		<entry key="SECOND" translation="{Value:float:decimalPlaces=0}s"/>
 		<entry key="SPEED_KPH" translation="{Value:float:decimalPlaces=0} kph"/>
 		<entry key="SPEED_KPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} kph/s"/>
 		<entry key="SPEED_MPH" translation="{Value:float:decimalPlaces=0} mph"/>
 		<entry key="SPEED_MPH_PER_SECOND" translation="{Value:float:decimalPlaces=0} mph/s"/>
-		<entry key="Settings_Less" translation="Less"/>
-		<entry key="Settings_More" translation="More"/>
-		<entry key="Start" translation="Start"/>
+		<entry key="Settings_Less" translation="Ít hơn"/>
+		<entry key="Settings_More" translation="Nhiều hơn"/>
+		<entry key="Start" translation="Bắt đầu"/>
 		<entry key="TIME" translation="{Hours:int}:{Minutes:int}"/>
 		<entry key="Testing" translation="Testing"/>
 		<entry key="TrackedRidePrefix" translation="Coaster"/>
-		<entry key="Undo" translation="Undo"/>
+		<entry key="Undo" translation="Hoàn tác"/>
 		<entry key="VALUE" translation="{Value:float:decimalPlaces=0}"/>
 		<entry key="decimal_separator" translation="."/>
 		<entry key="thousands_separator" translation=","/>
 		<entry key="time_separator" translation=":"/>
 		<!--GameMenu-->
-		<entry key="MainMenu_Build" translation="Build"/>
-		<entry key="MainMenu_Build_Coasters" translation="Coasters"/>
-		<entry key="MainMenu_Build_Facilities" translation="Facilities"/>
-		<entry key="MainMenu_Build_FlatRides" translation="Flat Rides"/>
-		<entry key="MainMenu_Build_Paths" translation="Paths"/>
-		<entry key="MainMenu_Build_Rides" translation="Rides"/>
-		<entry key="MainMenu_Build_Scenery" translation="Scenery"/>
-		<entry key="MainMenu_Build_Scenery_Development" translation="Development"/>
-		<entry key="MainMenu_Build_Scenery_Modular" translation="Modular"/>
-		<entry key="MainMenu_Build_Scenery_Nature" translation="Nature"/>
-		<entry key="MainMenu_Build_Scenery_Props" translation="Props"/>
-		<entry key="MainMenu_Build_Scenery_Standalone" translation="Standalone"/>
-		<entry key="MainMenu_Build_Scenery_Test" translation="Test"/>
-		<entry key="MainMenu_Build_Scenery_WallDecorations" translation="Tường Decorations"/>
-		<entry key="MainMenu_Build_Terrain" translation="Terrain"/>
-		<entry key="MainMenu_Confirm_Confirm" translation="Confirm"/>
-		<entry key="MainMenu_Confirm_Header" translation="Keep these changes?"/>
-		<entry key="MainMenu_Confirm_Label" translation="Reverting in {Value:int}..."/>
-		<entry key="MainMenu_Confirm_Revert" translation="Revert"/>
-		<entry key="MainMenu_Manage" translation="Manage"/>
-		<entry key="MainMenu_Manage_Finance" translation="Finance"/>
-		<entry key="MainMenu_Manage_Guests" translation="Guests"/>
-		<entry key="MainMenu_Manage_Staff" translation="Staff"/>
-		<entry key="MainMenu_Menu" translation="Menu"/>
-		<entry key="MainMenu_Menu_Quit" translation="Quit Planet Coaster"/>
-		<entry key="MainMenu_Menu_QuitPark_ConfirmCancel" translation="Nay!"/>
-		<entry key="MainMenu_Menu_QuitPark_ConfirmOK" translation="Aye!"/>
-		<entry key="MainMenu_Menu_Quit_ConfirmHeader" translation="Quit Planet Coaster"/>
-		<entry key="MainMenu_Menu_Quit_ConfirmLabel" translation="Quit Planet Coaster?  You will lose any unsaved changes."/>
-		<entry key="MainMenu_Menu_Return_To_StartScreen" translation="Exit to Main Menu"/>
-		<entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmHeader" translation="Exit to Main Menu"/>
-		<entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmLabel" translation="Exit to Main Menu?  You will lose any unsaved changes."/>
-		<entry key="MainMenu_Menu_Save" translation="Save"/>
-		<entry key="MainMenu_Settings" translation="Settings"/>
+		<entry key="MainMenu_Build" translation="Xây dựng" />
+		<entry key="MainMenu_Build_Coasters" translation="Coasters" />
+		<entry key="MainMenu_Build_Facilities" translation="Cơ sở vật chất" />
+		<entry key="MainMenu_Build_FlatRides" translation="Flat Rides" />
+		<entry key="MainMenu_Build_Paths" translation="Đường dẫn" />
+		<entry key="MainMenu_Build_Rides" translation="Rides" />
+		<entry key="MainMenu_Build_Scenery" translation="Phong cảnh" />
+		<entry key="MainMenu_Build_Scenery_Development" translation="Phát triển" />
+		<entry key="MainMenu_Build_Scenery_Modular" translation="Mô-đun" />
+		<entry key="MainMenu_Build_Scenery_Nature" translation="Thiên nhiên" />
+		<entry key="MainMenu_Build_Scenery_Props" translation="Đạo cụ" />
+		<entry key="MainMenu_Build_Scenery_Standalone" translation="Độc lập" />
+		<entry key="MainMenu_Build_Scenery_Test" translation="Thử nghiệm" />
+		<entry key="MainMenu_Build_Scenery_WallDecaries" translation="Tường trang trí" />
+		<entry key="MainMenu_Build_Terrain" translation="Địa hình" />
+		<entry key="MainMenu_Confirm_Confirm" translation="Xác nhận" />
+		<entry key="MainMenu_Confirm_Header" translation="Giữ những thay đổi này?" />
+		<entry key="MainMenu_Confirm_Label" translation="Hoàn nguyên trong {Giá trị: int} ..." />
+		<entry key="MainMenu_Confirm_Revert" translation="Hoàn nguyên" />
+		<entry key="MainMenu_Manage" translation="Quản lý" />
+		<entry key="MainMenu_Manage_Finance" translation="Tài chính" />
+		<entry key="MainMenu_Manage_Guests" translation="Khách" />
+		<entry key="MainMenu_Manage_Staff" translation="Nhân viên" />
+		<entry key="MainMenu_Menu" translation="Trình đơn" />
+		<entry key="MainMenu_Menu_Quit" translation="Thoát Planet Coaster" />
+		<entry key="MainMenu_Menu_QuitPark_ConfirmCancel" translation="Không!" />
+		<entry key="MainMenu_Menu_QuitPark_ConfirmOK" translation="Đúng!" />
+		<entry key="MainMenu_Menu_Quit_ConfirmHeader" translation="Thoát Planet Coaster" />
+		<entry key="MainMenu_Menu_Quit_ConfirmLabel" translation="Thoát Planet Coaster? Bạn sẽ mất mọi thay đổi chưa được lưu." />
+		<entry key="MainMenu_Menu_Return_To_StartScreen" translation="Thoát đến Trình đơn Chính" />
+		<entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmHeader" translation="Thoát ra Menu Chính" />
+		<entry key="MainMenu_Menu_Return_To_StartScreen_ConfirmLabel" translation="Thoát khỏi Menu chính? Bạn sẽ mất mọi thay đổi chưa được lưu." />
+		<entry key="MainMenu_Menu_Save" translation="Lưu" />
+		<entry key="MainMenu_Settings" translation="Cài đặt" />
 		<!--GlobalToolBox-->
-		<entry key="GlobalToolBox_Title" translation="Tools"/>
-		<entry key="GlobalToolBox_ToolTip_ColorPicker" translation="Open Colourpicker"/>
-		<entry key="GlobalToolBox_ToolTip_Copy" translation="Copy selection"/>
-		<entry key="GlobalToolBox_ToolTip_Delete" translation="Delete selection"/>
-		<entry key="GlobalToolBox_ToolTip_Multiselect_Active" translation="Deactivate multi selection"/>
-		<entry key="GlobalToolBox_ToolTip_Multiselect_Inactive" translation="Activate multi selection"/>
-		<entry key="GlobalToolBox_ToolTip_Paste" translation="Paste item"/>
-		<entry key="GlobalToolBox_ToolTip_Redo" translation="Redo last action"/>
-		<entry key="GlobalToolBox_ToolTip_SaveBlueprint" translation="Save blueprint"/>
-		<entry key="GlobalToolBox_ToolTip_Undo" translation="Undo last action"/>
+		<entry key="GlobalToolBox_Title" translation="Công cụ" />
+		<entry key="GlobalToolBox_ToolTip_ColorPicker" translation="Mở bảng chọn màu" />
+		<entry key="GlobalToolBox_ToolTip_Copy" translation="Sao chép lựa chọn" />
+		<entry key="GlobalToolBox_ToolTip_Delete" translation="Xóa lựa chọn" />
+		<entry key="GlobalToolBox_ToolTip_Multiselect_Active" translation="Hủy kích hoạt nhiều lựa chọn" />
+		<entry key="GlobalToolBox_ToolTip_Multiselect_Inactive" translation="Kích hoạt nhiều lựa chọn" />
+		<entry key="GlobalToolBox_ToolTip_Paste" translation="Dán mục" />
+		<entry key="GlobalToolBox_ToolTip_Redo" translation="Làm lại hành động cuối cùng" />
+		<entry key="GlobalToolBox_ToolTip_SaveBlueprint" translation="Lưu bản thiết kế" />
+		<entry key="GlobalToolBox_ToolTip_Undo" translation="Hoàn tác hành động cuối cùng" />
 		<!--GraphicsOptionsMenu-->
 		<entry key="GraphicsOptionsMenu_Adapter" translation="Adapter"/>
 		<entry key="GraphicsOptionsMenu_AdapterOption" translation="{ADAPTER}"/>
@@ -1864,142 +1866,141 @@
 		<entry key="Guests_Status_LeavePark" translation="Về nhà"/>
 		<entry key="Guests_Status_Wander" translation="Lang thang"/>
 		<!--HUD-->
-		<entry key="HUD_Date" translation="{Day} {MonthName}, Năm {Year}"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Use Handles"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_02" translation="Build Track Piece"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Delete Track Piece"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Select Track Piece"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Cancel/Close"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_01" translation="[MouseLeft] + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_02" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_03" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_04" translation="[MouseLeft] on Placed Piece"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Input_05" translation="Esc"/>
-		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Coaster Edit Mode"/>
-		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_EntranceExit_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_EntranceExit_Input_02" translation="Esc or [MouseRight]"/>
-		<entry key="HUD_HelpPopup_EntranceExit_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_Paths_Command_01" translation="Place Path"/>
-		<entry key="HUD_HelpPopup_Paths_Command_02" translation="Delete Path"/>
-		<entry key="HUD_HelpPopup_Paths_Command_03" translation="Raise/Lower Path"/>
-		<entry key="HUD_HelpPopup_Paths_Command_04" translation="Rotate Junction Angle"/>
-		<entry key="HUD_HelpPopup_Paths_Command_05" translation="Disable Path Joins"/>
-		<entry key="HUD_HelpPopup_Paths_Command_06" translation="Close Path Tool"/>
-		<entry key="HUD_HelpPopup_Paths_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_Paths_Input_02" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_Paths_Input_03" translation="[MouseLeft] + [MouseMoveV]"/>
-		<entry key="HUD_HelpPopup_Paths_Input_04" translation="Z + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_Paths_Input_05" translation="Left Ctrl (Hold)"/>
-		<entry key="HUD_HelpPopup_Paths_Input_06" translation="Esc"/>
-		<entry key="HUD_HelpPopup_Paths_Title" translation="Path Controls"/>
-		<entry key="HUD_HelpPopup_Ping" translation="Click here for control help"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Command_03" translation="Rotate"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Command_04" translation="Rotate 90-degrees"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Command_05" translation="Raise/Lower"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Input_02" translation="Esc or [MouseRight]"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Input_03" translation="Z + [MouseMoveH]"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Input_04" translation="Z"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Input_05" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="HUD_HelpPopup_RidePlacement_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_03" translation="Toggle Advanced Move/Rotate"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_04" translation="Switch to Standard Move"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_02" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_03" translation="X"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_04" translation="M"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_03" translation="Rotate"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_04" translation="Rotate 90-degrees"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_05" translation="Raise/Lower"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_06" translation="Lock To Surface Axes"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_02" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_03" translation="Z + [MouseMoveH]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_04" translation="Z"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_05" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_06" translation="Ctrl + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_03" translation="Rotate 90-degrees"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_04" translation="Raise/Lower"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_05" translation="Lock To Surface Axes"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_02" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_03" translation="Z"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_04" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_05" translation="Ctrl + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_01" translation="Confirm Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_02" translation="Cancel Placement"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_03" translation="Rotate"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_04" translation="Rotate 90-degrees"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_05" translation="Raise/Lower"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_06" translation="Lock To Surface Axes"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_02" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_03" translation="Z + [MouseMoveH]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_04" translation="Z"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_05" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_06" translation="Ctrl + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Placement Controls"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Select Piece"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Multi-Select"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Delete Selection"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Add/Remove Selection (Toggle)"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Input_02" translation="[MouseLeft] + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Input_03" translation="[MouseRight]"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Input_04" translation="Ctrl (Hold)"/>
-		<entry key="HUD_HelpPopup_ScenerySelect_Title" translation="Edit Building Controls"/>
-		<entry key="HUD_HelpPopup_Select_Command_01" translation="Select"/>
-		<entry key="HUD_HelpPopup_Select_Command_02" translation="Cancel/Close"/>
-		<entry key="HUD_HelpPopup_Select_Command_03" translation="Pan Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_04" translation="Zoom Camera"/>
-		<entry key="HUD_HelpPopup_Select_Command_05" translation="Rotate Camera"/>
-		<entry key="HUD_HelpPopup_Select_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_Select_Input_02" translation="Esc"/>
-		<entry key="HUD_HelpPopup_Select_Input_03" translation="[MouseRight] + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_Select_Input_04" translation="[MouseMiddle] (Scroll)"/>
-		<entry key="HUD_HelpPopup_Select_Input_05" translation="[MouseMiddle] + [MouseMove]"/>
-		<entry key="HUD_HelpPopup_Select_Title" translation="Basic Controls"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Apply Brush"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Apply Inverse Brush\n(Push/Pull Brushes)"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Brush Intensity"/>
-		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Brush Size"/>
-		<entry key="HUD_HelpPopup_Terrain_Input_01" translation="[MouseLeft]"/>
-		<entry key="HUD_HelpPopup_Terrain_Input_02" translation="Ctrl + [MouseLeft]"/>
-		<entry key="HUD_HelpPopup_Terrain_Input_03" translation="- or ="/>
-		<entry key="HUD_HelpPopup_Terrain_Input_04" translation="[ or ]"/>
-		<entry key="HUD_HelpPopup_Terrain_Title" translation="Edit Terrain Controls"/>
-		<entry key="HUD_MangementMenu_Manage" translation="Governance"/>
-		<entry key="HUD_Month01" translation="Jan"/>
-		<entry key="HUD_Month02" translation="Feb"/>
-		<entry key="HUD_Month03" translation="Mar"/>
-		<entry key="HUD_Month04" translation="Apr"/>
-		<entry key="HUD_Month05" translation="May"/>
-		<entry key="HUD_Month06" translation="Jun"/>
-		<entry key="HUD_Month07" translation="Jul"/>
-		<entry key="HUD_Month08" translation="Aug"/>
-		<entry key="HUD_Month09" translation="Sep"/>
-		<entry key="HUD_Month10" translation="Oct"/>
-		<entry key="HUD_Month11" translation="Nov"/>
-		<entry key="HUD_Month12" translation="Dec"/>
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_01" translation="Sử dụng xử lý" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_02" translation="Bản dựng theo dõi" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_03" translation="Xóa đoạn bản nhạc" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_04" translation="Chọn Đoạn theo dõi" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Command_05" translation="Hủy / Đóng" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_01" translation="[MouseLeft] + [MouseMove]" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_02" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_03" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_04" translation="[MouseLeft] on Placed Piece" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Input_05" translation="Esc" />
+		<entry key="HUD_HelpPopup_CoasterEdit_Title" translation="Chế độ chỉnh sửa tàu lượn" />
+		<entry key="HUD_HelpPopup_EntranceExit_Command_01" translation="Xác nhận Vị trí" />
+		<entry key="HUD_HelpPopup_EntranceExit_Command_02" translation="Hủy vị trí" />
+		<entry key="HUD_HelpPopup_EntranceExit_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_EntranceExit_Input_02" translation="Esc hoặc [MouseRight]" />
+		<entry key="HUD_HelpPopup_EntranceExit_Title" translation="Kiểm soát Vị trí" />
+		<entry key="HUD_HelpPopup_Paths_Command_01" translation="Đường dẫn Địa điểm" />
+		<entry key="HUD_HelpPopup_Paths_Command_02" translation="Delete Path" />
+		<entry key="HUD_HelpPopup_Paths_Command_03" translation="Raise / Lower Path" />
+		<entry key="HUD_HelpPopup_Paths_Command_04" translation="Xoay Góc giao nhau" />
+		<entry key="HUD_HelpPopup_Paths_Command_05" translation="Vô hiệu hóa tham gia đường dẫn" />
+		<entry key="HUD_HelpPopup_Paths_Command_06" translation="Close Path Tool" />
+		<entry key="HUD_HelpPopup_Paths_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_Paths_Input_02" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_Paths_Input_03" translation="[MouseLeft] + [MouseMoveV]" />
+		<entry key="HUD_HelpPopup_Paths_Input_04" translation="Z + [MouseMove]" />
+		<entry key="HUD_HelpPopup_Paths_Input_05" translation="Trái Ctrl (Giữ)" />
+		<entry key="HUD_HelpPopup_Paths_Input_06" translation="Esc" />
+		<entry key="HUD_HelpPopup_Paths_Title" translation="Kiểm soát Đường dẫn" />
+		<entry key="HUD_HelpPopup_Ping" translation="Nhấp vào đây để được trợ giúp kiểm soát" />
+		<entry key="HUD_HelpPopup_RidePlacement_Command_01" translation="Xác nhận Vị trí" />
+		<entry key="HUD_HelpPopup_RidePlacement_Command_02" translation="Hủy Vị trí" />
+		<entry key="HUD_HelpPopup_RidePlacement_Command_03" translation="Xoay" />
+		<entry key="HUD_HelpPopup_RidePlacement_Command_04" translation="Xoay 90 độ" />
+		<entry key="HUD_HelpPopup_RidePlacement_Command_05" translation="Nâng / Hạ" />
+		<entry key="HUD_HelpPopup_RidePlacement_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_RidePlacement_Input_02" translation="Esc hoặc [MouseRight]" />
+		<entry key="HUD_HelpPopup_RidePlacement_Input_03" translation="Z + [MouseMoveH]" />
+		<entry key="HUD_HelpPopup_RidePlacement_Input_04" translation="Z" />
+		<entry key="HUD_HelpPopup_RidePlacement_Input_05" translation="[Shift] + [MouseMoveV]" />
+		<entry key="HUD_HelpPopup_RidePlacement_Title" translation="Kiểm soát Vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_01" translation="Xác nhận vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_02" translation="Hủy vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_03" translation="Chuyển đổi di chuyển nâng cao / xoay" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Command_04" translation="Chuyển sang di chuyển chuẩn" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_02" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_03" translation="X" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Input_04" translation="M" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_AdvancedMove_Title" translation="Kiểm soát vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_01" translation="Xác nhận vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_02" translation="Huỷ vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_03" translation="Xoay" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_04" translation="Xoay 90 độ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_05" translation="Nâng / Hạ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Command_06" translation="Lock To Surface Axes" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_02" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_03" translation="Z + [MouseMoveH]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_04" translation="Z" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_05" translation="[Shift] + [MouseMoveV]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Input_06" translation="Ctrl + [MouseMove]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOffGrid_Title" translation="Kiểm soát vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_01" translation="Xác nhận vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_02" translation="Hủy vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_03" translation="Xoay 90 độ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_04" translation="Nâng / Hạ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Command_05" translation="Lock To Surface Axes" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_02" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_03" translation="Z" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_04" translation="[Shift] + [MouseMoveV]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Input_05" translation="Ctrl + [MouseMove]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_GridObjectOnGrid_Title" translation="Kiểm soát Vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_01" translation="Xác nhận Vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_02" translation="Huỷ Vị trí" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_03" translation="Xoay" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_04" translation="Xoay 90 độ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_05" translation="Nâng / Hạ" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Command_06" translation="Lock To Surface Axes" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_02" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_03" translation="Z + [MouseMoveH]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_04" translation="Z" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_05" translation="[Shift] + [MouseMoveV]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Input_06" translation="Ctrl + [MouseMove]" />
+		<entry key="HUD_HelpPopup_SceneryPlacement_NonGridObject_Title" translation="Kiểm soát Vị trí" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_01" translation="Chọn mảnh" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_02" translation="Multi-Select" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_03" translation="Xóa lựa chọn" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Command_04" translation="Thêm / Xóa lựa chọn (Chuyển đổi)" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Input_02" translation="[MouseLeft] + [MouseMove]" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Input_03" translation="[MouseRight]" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Input_04" translation="Ctrl (Giữ)" />
+		<entry key="HUD_HelpPopup_ScenerySelect_Title" translation="Chỉnh sửa Điều khiển Tòa nhà" />
+		<entry key="HUD_HelpPopup_Select_Command_01" translation="Chọn" />
+		<entry key="HUD_HelpPopup_Select_Command_02" translation="Hủy / Đóng" />
+		<entry key="HUD_HelpPopup_Select_Command_03" translation="Pan Camera" />
+		<entry key="HUD_HelpPopup_Select_Command_04" translation="Zoom Camera" />
+		<entry key="HUD_HelpPopup_Select_Command_05" translation="Xoay Máy ảnh" />
+		<entry key="HUD_HelpPopup_Select_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_Select_Input_02" translation="Esc" />
+		<entry key="HUD_HelpPopup_Select_Input_03" translation="[MouseRight] + [MouseMove]" />
+		<entry key="HUD_HelpPopup_Select_Input_04" translation="[MouseMiddle] (Scroll)" />
+		<entry key="HUD_HelpPopup_Select_Input_05" translation="[MouseMiddle] + [MouseMove]" />
+		<entry key="HUD_HelpPopup_Select_Title" translation="Điều khiển Cơ bản" />
+		<entry key="HUD_HelpPopup_Terrain_Command_01" translation="Áp dụng Brush" />
+		<entry key="HUD_HelpPopup_Terrain_Command_02" translation="Áp dụng Inverse Brush \ n (Push / Pull Brushes)" />
+		<entry key="HUD_HelpPopup_Terrain_Command_03" translation="Brush Intensity" />
+		<entry key="HUD_HelpPopup_Terrain_Command_04" translation="Brush Size" />
+		<entry key="HUD_HelpPopup_Terrain_Input_01" translation="[MouseLeft]" />
+		<entry key="HUD_HelpPopup_Terrain_Input_02" translation="Ctrl + [MouseLeft]" />
+		<entry key="HUD_HelpPopup_Terrain_Input_03" translation="- hoặc =" />
+		<entry key="HUD_HelpPopup_Terrain_Input_04" translation="[hoặc]" />
+		<entry key="HUD_HelpPopup_Terrain_Title" translation="Chỉnh sửa Kiểm soát Địa hình" />
+		<entry key="HUD_MangementMenu_Manage" translation="Quản trị" />
+		<entry key="HUD_Month01" translation="Tháng 1" />
+		<entry key="HUD_Month02" translation="Tháng 2" />
+		<entry key="HUD_Month03" translation="Tháng 3" />
+		<entry key="HUD_Month04" translation="Tháng 4" />
+		<entry key="HUD_Month05" translation="Tháng 5" />
+		<entry key="HUD_Month06" translation="Tháng 6" />
+		<entry key="HUD_Month07" translation="Tháng 7" />
+		<entry key="HUD_Month08" translation="Tháng 8" />
+		<entry key="HUD_Month09" translation="Tháng 9" />
+		<entry key="HUD_Month10" translation="Tháng 10" />
+		<entry key="HUD_Month11" translation="Tháng 11" />
+		<entry key="HUD_Month12" translation="Tháng 12" />
 		<entry key="HUD_ParkInfo_Finances" translation="{Value:currency}"/>
-		<entry key="HUD_ParkInfo_PlayerNamePark" translation="Captain {PLAYERNAME}'s Coaster Park"/>
-		<entry key="HUD_ParkInfo_Rating" translation="Rating: {Value:float:decimalPlaces=0}"/>
+		<entry key="HUD_ParkInfo_PlayerNamePark" translation="Đội trưởng {PLAYERNAME}'s Coaster Park"/>
+		<entry key="HUD_ParkInfo_Rating" translation="Xếp hạng: {Value:float:decimalPlaces=0}"/>
 		<entry key="HUD_ParkInfo_VisitorsCount" translation="{Value:separatedFloat:decimalPlaces=0}"/>
 		<entry key="HUD_SettingsMenu_CommunityTranslationVersion" translation="Community Translation by {Name}  Build {Version}"/>
-		<entry key="HUD_SettingsMenu_SettingsToolTip" translation="Options"/>
+		<entry key="HUD_SettingsMenu_SettingsToolTip" translation="Tùy chọn"/>
 		<entry key="HUD_SettingsMenu_Version" translation="Build {Version}"/>
 		<entry key="HUD_ShopMenu_Blueprints" translation="Plans!"/>
 		<entry key="HUD_ShopMenu_Buildings" translation="Buildin's"/>
@@ -2007,116 +2008,117 @@
 		<entry key="HUD_ShopMenu_Rides" translation="Contraptions"/>
 		<entry key="HUD_ShopMenu_Scenery" translation="Pretty Stuff"/>
 		<entry key="HUD_ShopMenu_Shops" translation="Merchants"/>
-		<entry key="HUD_TimeAM" translation="{Hour12}:{Minute} am"/>
-		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} pm"/>
-		<entry key="HUD_ToolTip_AttractionsLists" translation="Attractions List"/>
-		<entry key="HUD_ToolTip_Delete" translation="Delete Mode (Coming Soon)"/>
-		<entry key="HUD_ToolTip_GameSpeed" translation="Change Simulation Speed [O]"/>
-		<entry key="HUD_ToolTip_HelpPopup" translation="Help [F1]"/>
-		<entry key="HUD_ToolTip_MultiSelect" translation="Multi Selection (Coming Soon)"/>
-		<entry key="HUD_ToolTip_ParkManagement" translation="Coming Soon"/>
-		<entry key="HUD_ToolTip_Pause" translation="Toggle Pause [P]"/>
-		<entry key="HUD_ToolTip_Redo" translation="Redo [Ctrl+Y]"/>
-		<entry key="HUD_ToolTip_SelectMode" translation="Selection Mode"/>
-		<entry key="HUD_ToolTip_Terrain" translation="Coming Soon"/>
-		<entry key="HUD_ToolTip_Undo" translation="Undo [Ctrl+Z]"/>
-		<entry key="HUD_ToolsMenu_Path" translation="Trails"/>
-		<entry key="HUD_ToolsMenu_Terrain" translation="Land"/>
+		<entry key="HUD_TimeAM" translation="{Hour12}:{Minute} sáng"/>
+		<entry key="HUD_TimePM" translation="{Hour12}:{Minute} chiều"/>
+		<entry key="HUD_ToolTip_AttariesLists" translation="Danh sách điểm du lịch" />
+		<entry key="HUD_ToolTip_Delete" translation="Chế độ Xóa (Sắp có)" />
+		<entry key="HUD_ToolTip_GameSpeed" translation="Thay đổi tốc độ mô phỏng [O]" />
+		<entry key="HUD_ToolTip_HelpPopup" translation="Trợ giúp [F1]" />
+		<entry key="HUD_ToolTip_MultiSelect" translation="Nhiều lựa chọn (Sắp có)" />
+		<entry key="HUD_ToolTip_ParkManagement" translation="Sắp có" />
+		<entry key="HUD_ToolTip_Pause" translation="Chuyển sang Tạm dừng [P]" />
+		<entry key="HUD_ToolTip_Redo" translation="Làm lại [Ctrl + Y]" />
+		<entry key="HUD_ToolTip_SelectMode" translation="Chế độ lựa chọn" />
+		<entry key="HUD_ToolTip_Terrain" translation="Sắp có" />
+		<entry key="HUD_ToolTip_Undo" translation="Hoàn tác [Ctrl + Z]" />
+		<entry key="HUD_ToolsMenu_Path" translation="Đường mòn" />
+		<entry key="HUD_ToolsMenu_Terrain" translation="Đất" />
 		<!--HelperTooltips-->
-		<entry key="HelperTooltips_ActiveGroup" translation="Editing {NAME}"/>
-		<entry key="HelperTooltips_AddToGroup" translation="Add To {NAME}"/>
-		<entry key="HelperTooltips_AlignToSurfaceBuildings" translation="Align To Surface"/>
-		<entry key="HelperTooltips_AlignToSurfaceScenery" translation="Align To Surface"/>
-		<entry key="HelperTooltips_AllowAutoStack" translation="Auto-Stacking"/>
-		<entry key="HelperTooltips_AllowOverlapping" translation="Allow overlapping"/>
-		<entry key="HelperTooltips_ChangeGroup" translation="Edit {NAME}"/>
-		<entry key="HelperTooltips_CloseGroup" translation="Done"/>
-		<entry key="HelperTooltips_Elevate" translation="Elevate [Shift]"/>
-		<entry key="HelperTooltips_Rotate" translation="Rotate [Z]"/>
-		<entry key="HelperTooltips_StepRotation" translation="Rotation Snap"/>
+		<entry key="HelperTooltips_ActiveGroup" translation="Chỉnh sửa {NAME}" />
+		<entry key="HelperTooltips_AddToGroup" translation="Thêm vào {NAME}" />
+		<entry key="HelperTooltips_AlignToSurfaceBuildings" translation="Align To Surface" />
+		<entry key="HelperTooltips_AlignToSurfaceScenery" translation="Align To Surface" />
+		<entry key="HelperTooltips_AllowAutoStack" translation="Tự động xếp chồng" />
+		<entry key="HelperTooltips_AllowOverlapping" translation="Cho phép chồng chéo" />
+		<entry key="HelperTooltips_ChangeGroup" translation="Chỉnh sửa {NAME}" />
+		<entry key="HelperTooltips_CloseGroup" translation="Xong" />
+		<entry key="HelperTooltips_Elevate" translation="Nâng cao [Shift]" />
+		<entry key="HelperTooltips_Rotate" translation="Xoay [Z]" />
+		<entry key="HelperTooltips_StepRotation" translation="Xoay vòng" />
+
 		<!--InWorldPopUp-->
-		<entry key="PopUp_Customise" translation="Customise"/>
-		<entry key="PopUp_End_Test" translation="End test"/>
-		<entry key="PopUp_Overview" translation="Overview"/>
-		<entry key="PopUp_Peeps_HeadingTo" translation="Heading to: {LOCATIONNAME}"/>
-		<entry key="PopUp_Peeps_Needs_Energy" translation="Energy"/>
-		<entry key="PopUp_Peeps_Needs_Happiness" translation="Happiness"/>
-		<entry key="PopUp_Peeps_Needs_Header" translation="{PEEPNAME}'s Needs"/>
-		<entry key="PopUp_Peeps_Needs_Hunger" translation="Hunger"/>
-		<entry key="PopUp_Peeps_Needs_Nausea" translation="Nausea"/>
-		<entry key="PopUp_Peeps_Needs_TabName" translation="Needs"/>
-		<entry key="PopUp_Peeps_Needs_ThinksHeader" translation="{PEEPNAME} thinks..."/>
-		<entry key="PopUp_Peeps_Needs_Thirst" translation="Thirst"/>
-		<entry key="PopUp_Peeps_Needs_Toilet" translation="Toilet"/>
-		<entry key="PopUp_Peeps_PeepName" translation="{PEEPNAME}"/>
+		<entry key="PopUp_Customise" translation="Tùy chỉnh" />
+		<entry key="PopUp_End_Test" translation="Kết thúc kiểm tra" />
+		<entry key="PopUp_Overview" translation="Tổng quan" />
+		<entry key="PopUp_Peeps_HeadingTo" translation="Hướng tới: {LOCATIONNAME}" />
+		<entry key="PopUp_Peeps_Needs_Energy" translation="Năng lượng" />
+		<entry key="PopUp_Peeps_Needs_Happiness" translation="Hạnh phúc" />
+		<entry key="PopUp_Peeps_Needs_Header" translation="Nhu cầu của {PEEPNAME}" />
+		<entry key="PopUp_Peeps_Needs_Hunger" translation="Đói" />
+		<entry key="PopUp_Peeps_Needs_Naranty" translation="Buồn nôn" />
+		<entry key="PopUp_Peeps_Needs_TabName" translation="Cần" />
+		<entry key="PopUp_Peeps_Needs_ThinksHeader" translation="{PEEPNAME} cho rằng ..." />
+		<entry key="PopUp_Peeps_Needs_Thirst" translation="Khát" />
+		<entry key="PopUp_Peeps_Needs_Toilet" translation="Nhà vệ sinh" />
+		<entry key="PopUp_Peeps_PeepName" translation="{PEEPNAME}" />
 		<entry key="PopUp_Peeps_Thought" translation="&quot;{THOUGHT}&quot;"/>
-		<entry key="PopUp_RidePlacement_AttachQueue" translation="Add queue to entrance"/>
-		<entry key="PopUp_RidePlacement_AttachTicketBooth" translation="Add ticket booth to queue"/>
-		<entry key="PopUp_RidePlacement_CheckListHeader" translation="To open this ride, you need to:"/>
-		<entry key="PopUp_RidePlacement_PlaceEntrance" translation="Place entrance"/>
-		<entry key="PopUp_RidePlacement_PlaceExit" translation="Place exit"/>
-		<entry key="PopUp_Ride_Analytics" translation="Ride analytics coming soon"/>
-		<entry key="PopUp_Ride_Overview" translation="Ride overview coming soon"/>
-		<entry key="PopUp_Rides_Guests" translation="Guests"/>
-		<entry key="PopUp_Rides_GuestsThoughts" translation="Guests think... &quot;{THOUGHT}&quot;"/>
-		<entry key="PopUp_Rides_Guests_Stat" translation="{STAT}"/>
-		<entry key="PopUp_Rides_Guests_StatsHeader" translation="Guests statistics"/>
-		<entry key="PopUp_Rides_Guests_ThoughtsPing" translation="Ping guest thoughts"/>
-		<entry key="PopUp_Rides_Profit" translation="Total profit"/>
-		<entry key="PopUp_Rides_RideName" translation="{RIDENAME}"/>
-		<entry key="PopUp_Start_Test" translation="Initialise test"/>
-		<entry key="PopUp_Testing_Button" translation="Testing (Coming Soon)"/>
-		<entry key="PopUp_TitleStatus" translation="Ride status: {STATUS}"/>
-		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Cannot open incomplete ride"/>
+		<entry key="PopUp_RidePlacement_AttachQueue" translation="Thêm hàng đợi vào cửa" />
+		<entry key="PopUp_RidePlacement_AttachTicketBooth" translation="Thêm quầy bán vé vào hàng đợi" />
+		<entry key="PopUp_RidePlacement_CheckListHeader" translation="Để mở chuyến đi này, bạn cần:" />
+		<entry key="PopUp_RidePlacement_PlaceEntrance" translation="Địa điểm vào" />
+		<entry key="PopUp_RidePlacement_PlaceExit" translation="Địa điểm thoát" />
+		<entry key="PopUp_Ride_Analytics" translation="Phân tích chuyến đi sắp ra mắt" />
+		<entry key="PopUp_Ride_Overview" translation="Tổng quan về chuyến đi sắp ra mắt" />
+		<entry key="PopUp_Rides_Guests" translation="Khách" />
+		<entry key="PopUp_Rides_GuestsThoughts" translation="Khách suy nghĩ... &quot;{THOUGHT}&quot;"/>
+		<entry key="PopUp_Rides_Guests_Stat" translation="{STAT}" />
+		<entry key="PopUp_Rides_Guests_StatsHeader" translation="Thống kê khách" />
+		<entry key="PopUp_Rides_Guests_ThoughtsPing" translation="Ping suy nghĩ của khách" />
+		<entry key="PopUp_Rides_Profit" translation="Tổng lợi nhuận" />
+		<entry key="PopUp_Rides_RideName" translation="{RIDENAME}" />
+		<entry key="PopUp_Start_Test" translation="Kiểm tra ban đầu" />
+		<entry key="PopUp_Testing_Button" translation="Đang thử nghiệm (Sắp có)" />
+		<entry key="PopUp_TitleStatus" translation="Trạng thái chuyến đi: {STATUS}" />
+		<entry key="PopUp_Unable_To_Open_Incomplete_ToolTip" translation="Không thể mở chuyến xe chưa hoàn thành" />
 		<!--InfoPanel-->
-		<entry key="InfoPanel_Close" translation="X"/>
-		<entry key="InfoPanel_Title" translation="Information"/>
-		<entry key="InfoPanel_Tooltip_AdvancedMove" translation="Toggle Advanced Move/Rotate [X]"/>
-		<entry key="InfoPanel_Tooltip_Destroy" translation="Demolish [DEL]"/>
-		<entry key="InfoPanel_Tooltip_Duplicate" translation="Duplicate [Ctrl+D]"/>
-		<entry key="InfoPanel_Tooltip_Move" translation="Move [M]"/>
+		<entry key="InfoPanel_Close" translation="X" />
+		<entry key="InfoPanel_Title" translation="Thông tin" />
+		<entry key="InfoPanel_Tooltip_AdvancedMove" translation="Chuyển đổi Xoay / Di chuyển Nâng cao [X]" />
+		<entry key="InfoPanel_Tooltip_Destroy" translation="Phá hủy [DEL]" />
+		<entry key="InfoPanel_Tooltip_Duplicate" translation="Nhân bản [Ctrl + D]" />
+		<entry key="InfoPanel_Tooltip_Move" translation="Di chuyển [M]" />
 		<!--InfoPanel_Facility-->
-		<entry key="InfoPanel_Facility_Name" translation="Facility"/>
-		<entry key="InfoPanel_Facility_Prices" translation="Prices"/>
+		<entry key="InfoPanel_Facility_Name" translation="Cơ sở" />
+		<entry key="InfoPanel_Facility_Prices" translation="Giá" />
 		<!--InfoPanel_FlatRide-->
-		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Cabin Front Look Camera"/>
-		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Cabin Look Back Camera"/>
-		<entry key="InfoPanel_FlatRide_CinematicCamera" translation="Cinematic Camera"/>
-		<entry key="InfoPanel_FlatRide_Entrance" translation="Entrance"/>
-		<entry key="InfoPanel_FlatRide_Exit" translation="Exit"/>
-		<entry key="InfoPanel_FlatRide_GuestCamera" translation="Guest Camera"/>
-		<entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Look At khách Camera"/>
-		<entry key="InfoPanel_FlatRide_Move" translation="Move"/>
-		<entry key="InfoPanel_FlatRide_MoveEntrance" translation="Move entrance"/>
-		<entry key="InfoPanel_FlatRide_MoveExit" translation="Move exit"/>
-		<entry key="InfoPanel_FlatRide_Name" translation="Flat Ride"/>
-		<entry key="InfoPanel_FlatRide_Start" translation="Start"/>
-		<entry key="InfoPanel_FlatRide_Stop" translation="Stop"/>
+		<entry key="InfoPanel_FlatRide_CabinFrontLookCamera" translation="Camera nhìn trước cabin" />
+		<entry key="InfoPanel_FlatRide_CabinLookBackCamera" translation="Camera nhìn sau cabin" />
+		<entry key="InfoPanel_FlatRide_CinematicCamera" translation="Máy ảnh điện ảnh" />
+		<entry key="InfoPanel_FlatRide_Entrance" translation="Lối vào" />
+		<entry key="InfoPanel_FlatRide_Exit" translation="Thoát" />
+		<entry key="InfoPanel_FlatRide_GuestCamera" translation="Máy ảnh khách" />
+		<entry key="InfoPanel_FlatRide_LookAtGuestCamera" translation="Nhìn vào khách Máy ảnh" />
+		<entry key="InfoPanel_FlatRide_Move" translation="Di chuyển" />
+		<entry key="InfoPanel_FlatRide_MoveEntrance" translation="Di chuyển lối vào" />
+		<entry key="InfoPanel_FlatRide_MoveExit" translation="Di chuyển thoát" />
+		<entry key="InfoPanel_FlatRide_Name" translation="Flat Ride" />
+		<entry key="InfoPanel_FlatRide_Start" translation="Bắt đầu" />
+		<entry key="InfoPanel_FlatRide_Stop" translation="Dừng" />
 		<!--InfoPanel_Guest-->
-		<entry key="InfoPanel_Guest_Demographic_0" translation="Single Teen"/>
-		<entry key="InfoPanel_Guest_Demographic_1" translation="Single Adult"/>
-		<entry key="InfoPanel_Guest_Demographic_2" translation="Teen Couple"/>
-		<entry key="InfoPanel_Guest_Demographic_3" translation="Adult Couple"/>
-		<entry key="InfoPanel_Guest_Demographic_4" translation="Teen Group"/>
-		<entry key="InfoPanel_Guest_Demographic_5" translation="Adult Group"/>
-		<entry key="InfoPanel_Guest_Demographic_6" translation="Family Group"/>
-		<entry key="InfoPanel_Guest_GroupCash" translation="{hand:currency}"/>
-		<entry key="InfoPanel_Guest_GroupID" translation="Group #{group:int}"/>
-		<entry key="InfoPanel_Guest_GuestName" translation="{name}"/>
-		<entry key="InfoPanel_Guest_Manage" translation="Guest Management"/>
+		<entry key="InfoPanel_Guest_Demographic_0" translation="Thanh thiếu niên độc thân" />
+		<entry key="InfoPanel_Guest_Demographic_1" translation="Người lớn độc thân" />
+		<entry key="InfoPanel_Guest_Demographic_2" translation="Cặp đôi thanh thiếu niên" />
+		<entry key="InfoPanel_Guest_Demographic_3" translation="Cặp đôi người lớn" />
+		<entry key="InfoPanel_Guest_Demographic_4" translation="Nhóm thanh thiếu niên" />
+		<entry key="InfoPanel_Guest_Demographic_5" translation="Nhóm Người lớn" />
+		<entry key="InfoPanel_Guest_Demographic_6" translation="Nhóm gia đình" />
+		<entry key="InfoPanel_Guest_GroupCash" translation="{hand:currency}" />
+		<entry key="InfoPanel_Guest_GroupID" translation="Nhóm #{group:int}" />
+		<entry key="InfoPanel_Guest_GuestName" translation="{name}" />
+		<entry key="InfoPanel_Guest_Manage" translation="Quản lý Khách" />
 		<!--InfoPanel_GuestThoughts-->
-		<entry key="InfoPanel_GuestThoughts_Name" translation="Thoughts"/>
+		<entry key="InfoPanel_GuestThoughts_Name" translation="Suy nghĩ"/>
 		<!--InfoPanel_ModularScenery-->
-		<entry key="InfoPanel_EditModularScenery_TitleMulti" translation="Selection ({Count:separatedFloat:decimalPlaces=0})"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_AdvancedMoveSingle" translation="Advanced Move [X]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_DeleteMulti" translation="Delete Selection [Delete]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_DeleteSingle" translation="Delete [Delete]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_DuplicateMulti" translation="Duplicate Selection [Ctrl+D]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_DuplicateSingle" translation="Duplicate [Ctrl+D]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveMulti" translation="Move Selection [M]"/>
-		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveSingle" translation="Move [M]"/>
+		<entry key="InfoPanel_EditModularScenery_TitleMulti" translation="Lựa chọn ({Count:separatedFloat:decimalPlaces=0})"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_AdvancedMoveSingle" translation="Di chuyển nâng cao [X]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_DeleteMulti" translation="Xóa lựa chọn [Delete]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_DeleteSingle" translation="Xóa [Delete]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_DuplicateMulti" translation="Nhân bản lựa chọn [Ctrl+D]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_DuplicateSingle" translation="Nhân bản [Ctrl+D]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveMulti" translation="Di chuyển lựa chọn [M]"/>
+		<entry key="InfoPanel_EditModularScenery_Tooltip_MoveSingle" translation="Di chuyển [M]"/>
 		<entry key="InfoPanel_ModularScenery_TitleGroup" translation="{NAME}"/>
-		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Edit Building [R]"/>
+		<entry key="InfoPanel_ModularScenery_Tooltip_Edit" translation="Chỉnh sửa xây dựng [R]"/>
 		<!--InfoPanel_Ride-->
 		<entry key="InfoPanel_Ride_Close" translation="Close"/>
 		<entry key="InfoPanel_Ride_Delete" translation="Delete"/>
@@ -2144,151 +2146,152 @@
 		<entry key="InfoPanel_Track_Tooltip_Edit" translation="Edit Building"/>
 		<entry key="InfoPanel_Track_TrainType" translation="Train"/>
 		<!--LoadingScreen-->
-		<entry key="LoadingScreen_Loading" translation="Conjuring..."/>
-		<entry key="LoadingScreen_Tooltip_1" translation="Wider paths can help reduce landlubber congestion"/>
-		<entry key="LoadingScreen_Tooltip_10" translation="Decorations and Building Attachments can be added to most surfaces, not just walls"/>
-		<entry key="LoadingScreen_Tooltip_11" translation="You can hold the middle mouse button to look around in some Ride Cameras"/>
-		<entry key="LoadingScreen_Tooltip_12" translation="The camera buttons in the Path tool will help you to lay paths quickly and smoothly"/>
-		<entry key="LoadingScreen_Tooltip_13" translation="Angle Snap options in the Path tool allow for smooth cong paths or sharper angles"/>
-		<entry key="LoadingScreen_Tooltip_14" translation="Select a ride and click the Ride Camera button to experience the ride from different perspectives"/>
-		<entry key="LoadingScreen_Tooltip_15" translation="You can press 't' to toggle the Freelook camera on and off"/>
-		<entry key="LoadingScreen_Tooltip_16" translation="Holding the 'Shift' key will make the Freelook camera move much faster"/>
-		<entry key="LoadingScreen_Tooltip_17" translation="When building paths, hold 'z' to create góc junctions or join to paths at more acute angles"/>
-		<entry key="LoadingScreen_Tooltip_18" translation="When editing a building, left-click and drag to select multiple objects"/>
-		<entry key="LoadingScreen_Tooltip_19" translation="When building paths, you can toggle on cong Elevation to create cong slopes and stairs"/>
-		<entry key="LoadingScreen_Tooltip_2" translation="Build slopes and elevated walkways by dragging the mouse up or down when laying paths"/>
-		<entry key="LoadingScreen_Tooltip_20" translation="You can access the building grid of a Coaster station from the Coaster's info panel"/>
-		<entry key="LoadingScreen_Tooltip_21" translation="When building a coaster, left-click anywhere to lay a track piece"/>
-		<entry key="LoadingScreen_Tooltip_22" translation="Each coaster type has different utilities and special pieces available"/>
-		<entry key="LoadingScreen_Tooltip_23" translation="Surface Lock ensures terrain edits are relative to the surface initially clicked on"/>
-		<entry key="LoadingScreen_Tooltip_24" translation="Hold 'Ctrl' to temporarily apply the Pull brush instead of Push, and vice-versa"/>
-		<entry key="LoadingScreen_Tooltip_25" translation="You can get ideas on how to improve your park by reading guest thoughts"/>
-		<entry key="LoadingScreen_Tooltip_3" translation="You can adjust camera settings in the Settings menu"/>
-		<entry key="LoadingScreen_Tooltip_4" translation="You can change the colour of the user interface in the Settings menu"/>
-		<entry key="LoadingScreen_Tooltip_5" translation="The Duplicate button will clone a selected object or building"/>
-		<entry key="LoadingScreen_Tooltip_6" translation="Walls will Auto-Stack when building. Untick this option for precision control"/>
-		<entry key="LoadingScreen_Tooltip_7" translation="You can hold 'Shift' while building to raise most objects into the air"/>
-		<entry key="LoadingScreen_Tooltip_8" translation="The Ride Entrance can be decorated just like a building"/>
-		<entry key="LoadingScreen_Tooltip_9" translation="Use Decorations and Building Attachments to make your buildings more attractive"/>
+		<entry key="LoadingScreen_Loading" translation="Đang tải ..." />
+		<entry key="LoadingScreen_Tooltip_1" translation="Đường dẫn rộng hơn có thể giúp khách thoải mái đi lại hơn" />
+		<entry key="LoadingScreen_Tooltip_10" translation="Đồ trang trí và tệp đính kèm của tòa nhà có thể được thêm vào hầu hết các bề mặt, không chỉ tường" />
+		<entry key="LoadingScreen_Tooltip_11" translation="Bạn có thể giữ nút chuột giữa để quan sát xung quanh một số máy ảnh đi xe" />
+		<entry key="LoadingScreen_Tooltip_12" translation="Các nút camera trong công cụ đường dẫn sẽ giúp bạn tạo đường dẫn nhanh chóng và thuận lợi" />
+		<entry key="LoadingScreen_Tooltip_13" translation="Các tùy chọn góc chụp trong công cụ tạo con đường cho phép tạo đường cong mượt mà hoặc góc sắc nét hơn" />
+		<entry key="LoadingScreen_Tooltip_14" translation="Chọn một chuyến đi và nhấp vào nút quay phim để trải nghiệm chuyến đi từ các góc độ khác nhau" />
+		<entry key="LoadingScreen_Tooltip_15" translation="Bạn có thể nhấn 't' để bật và tắt camera Freelook" />
+		<entry key="LoadingScreen_Tooltip_16" translation="Giữ phím 'Shift' sẽ giúp camera Freelook di chuyển nhanh hơn nhiều" />
+		<entry key="LoadingScreen_Tooltip_17" translation="Khi xây dựng đường dẫn, hãy giữ 'z' để tạo góc nối hoặc nối với đường dẫn ở các góc nhọn hơn" />
+		<entry key="LoadingScreen_Tooltip_18" translation="Khi chỉnh sửa một tòa nhà, hãy nhấp chuột trái và kéo để chọn nhiều đối tượng" />
+		<entry key="LoadingScreen_Tooltip_19" translation="Khi xây dựng đường đi, bạn có thể bật Độ cao cong để tạo dốc cong và cầu thang" />
+		<entry key="LoadingScreen_Tooltip_2" translation="Dựng dốc và lối đi trên cao bằng cách kéo chuột lên hoặc xuống khi đặt đường" />
+		<entry key="LoadingScreen_Tooltip_20" translation="Bạn có thể truy cập lưới xây dựng của ga tàu lượn từ bảng thông tin của tàu lượn" />
+		<entry key="LoadingScreen_Tooltip_21" translation="Khi xây dựng một chiếc xe trượt, hãy nhấp chuột trái vào bất kỳ đâu để đặt một đoạn đường đua" />
+		<entry key="LoadingScreen_Tooltip_22" translation="Mỗi loại lót ly có các tiện ích khác nhau và các phần đặc biệt có sẵn" />
+		<entry key="LoadingScreen_Tooltip_23" translation="Surface Lock đảm bảo các chỉnh sửa địa hình liên quan đến bề mặt được nhấp vào ban đầu" />
+		<entry key="LoadingScreen_Tooltip_24" translation="Giữ 'Ctrl' để tạm thời áp dụng bàn chải Kéo thay vì Đẩy và ngược lại" />
+		<entry key="LoadingScreen_Tooltip_25" translation="Bạn có thể lấy ý tưởng về cách cải thiện công viên của mình bằng cách đọc suy nghĩ của khách" />
+		<entry key="LoadingScreen_Tooltip_3" translation="Bạn có thể điều chỉnh cài đặt máy ảnh trong menu Cài đặt" />
+		<entry key="LoadingScreen_Tooltip_4" translation="Bạn có thể thay đổi màu sắc của giao diện người dùng trong menu Cài đặt" />
+		<entry key="LoadingScreen_Tooltip_5" translation="Nút Nhân bản sẽ sao chép đối tượng hoặc tòa nhà đã chọn" />
+		<entry key="LoadingScreen_Tooltip_6" translation="Tường sẽ Tự động Xếp chồng khi xây dựng. Bỏ chọn tùy chọn này để kiểm soát độ chính xác" />
+		<entry key="LoadingScreen_Tooltip_7" translation="Bạn có thể giữ 'Shift' trong khi xây dựng để nâng hầu hết các vật thể lên không trung" />
+		<entry key="LoadingScreen_Tooltip_8" translation="Lối vào Ride có thể được trang trí giống như một tòa nhà" />
+		<entry key="LoadingScreen_Tooltip_9" translation="Sử dụng Đồ trang trí và Tệp đính kèm của Tòa nhà để làm cho các tòa nhà của bạn hấp dẫn hơn" />
+
 		<!--ObjectBrowser-->
-		<entry key="ObjectBrowser_Amusements" translation="Contraptions"/>
-		<entry key="ObjectBrowser_Ascending" translation="Ascending"/>
-		<entry key="ObjectBrowser_Coaster" translation="Fancy Trains"/>
-		<entry key="ObjectBrowser_Descending" translation="Descending"/>
-		<entry key="ObjectBrowser_Drink" translation="Drink Stalls"/>
-		<entry key="ObjectBrowser_Facility" translation="Facilities"/>
-		<entry key="ObjectBrowser_FilterAccept" translation="Apply"/>
-		<entry key="ObjectBrowser_FilterPirate" translation="Pirate"/>
-		<entry key="ObjectBrowser_FilterReset" translation="Reset"/>
-		<entry key="ObjectBrowser_FilterTags" translation="Tags"/>
-		<entry key="ObjectBrowser_FilterTheme" translation="Theme"/>
-		<entry key="ObjectBrowser_FilterTitle" translation="Filter"/>
-		<entry key="ObjectBrowser_Food" translation="Food Stalls"/>
-		<entry key="ObjectBrowser_Help" translation="Help"/>
-		<entry key="ObjectBrowser_PriceHigh" translation="Price High"/>
-		<entry key="ObjectBrowser_PriceLow" translation="Price Low"/>
-		<entry key="ObjectBrowser_Settings" translation="Settings"/>
-		<entry key="ObjectBrowser_SortBy" translation="Sort By"/>
-		<entry key="ObjectBrowser_SortBy_Name" translation="Name"/>
-		<entry key="ObjectBrowser_TestDescription" translation="A place holder for future informative item descriptions."/>
-		<entry key="ObjectBrowser_TestStat" translation="Grid Size"/>
-		<entry key="ObjectBrowser_TestTitle" translation="A lovely Item"/>
-		<entry key="ObjectBrowser_TestValue" translation="Actual Size"/>
-		<entry key="ObjectBrowser_Tooltip_Filter" translation="Filter"/>
-		<entry key="ObjectBrowser_Tooltip_Search" translation="Search"/>
-		<entry key="ObjectBrowser_Tooltip_SortBy" translation="Sort By"/>
-		<entry key="ObjectBrowser_Tooltip_ViewMode" translation="View Mode (Coming Soon)"/>
-		<entry key="ObjectBrowser_Transport" translation="Ferryin'"/>
+		<entry key="ObjectBrowser_Amusements" translation="Các gói" />
+		<entry key="ObjectBrowser_Ascending" translation="Tăng dần" />
+		<entry key="ObjectBrowser_Coaster" translation="Chuyến tàu lạ mắt" />
+		<entry key="ObjectBrowser_Descending" translation="Giảm dần" />
+		<entry key="ObjectBrowser_Drink" translation="Quầy bán đồ uống" />
+		<entry key="ObjectBrowser_Facility" translation="Cơ sở vật chất" />
+		<entry key="ObjectBrowser_FilterAccept" translation="Áp dụng" />
+		<entry key="ObjectBrowser_FilterPirate" translation="Cướp biển" />
+		<entry key="ObjectBrowser_FilterReset" translation="Đặt lại" />
+		<entry key="ObjectBrowser_FilterTags" translation="Thẻ" />
+		<entry key="ObjectBrowser_FilterTheme" translation="Chủ đề" />
+		<entry key="ObjectBrowser_FilterTitle" translation="Bộ lọc" />
+		<entry key="ObjectBrowser_Food" translation="Quầy hàng thực phẩm" />
+		<entry key="ObjectBrowser_Help" translation="Trợ giúp" />
+		<entry key="ObjectBrowser_PriceHigh" translation="Giá cao" />
+		<entry key="ObjectBrowser_PriceLow" translation="Giá thấp" />
+		<entry key="ObjectBrowser_Settings" translation="Cài đặt" />
+		<entry key="ObjectBrowser_SortBy" translation="Sắp xếp theo" />
+		<entry key="ObjectBrowser_SortBy_Name" translation="Tên" />
+		<entry key="ObjectBrowser_TestDescription" translation="Một nơi lưu giữ các mô tả mặt hàng có nhiều thông tin trong tương lai." />
+		<entry key="ObjectBrowser_TestStat" translation="Kích thước lưới" />
+		<entry key="ObjectBrowser_TestTitle" translation="Một vật phẩm đáng yêu" />
+		<entry key="ObjectBrowser_TestValue" translation="Kích thước thực" />
+		<entry key="ObjectBrowser_Tooltip_Filter" translation="Bộ lọc" />
+		<entry key="ObjectBrowser_Tooltip_Search" translation="Tìm kiếm" />
+		<entry key="ObjectBrowser_Tooltip_SortBy" translation="Sắp xếp Theo" />
+		<entry key="ObjectBrowser_Tooltip_ViewMode" translation="Chế độ xem (Sắp có)" />
+		<entry key="ObjectBrowser_Transport" translation="Ferryin '" />
 		<!--OptionsMenu-->
-		<entry key="OptionsMenu_Audio" translation="Audio"/>
-		<entry key="OptionsMenu_Audio_Mute" translation="Mute"/>
-		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="Mute All"/>
-		<entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Mute GUI Sounds"/>
-		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Mute Menu Music"/>
-		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Mute Ride Music"/>
-		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Mute Sound Effects"/>
-		<entry key="OptionsMenu_Audio_Volume" translation="Volume"/>
-		<entry key="OptionsMenu_Audio_Volume_Entry" translation="Adjust Volume"/>
-		<entry key="OptionsMenu_Camera" translation="Camera"/>
-		<entry key="OptionsMenu_CameraType" translation="Type"/>
-		<entry key="OptionsMenu_CameraType_Advanced" translation="Advanced"/>
-		<entry key="OptionsMenu_CameraType_Debug" translation="Debug"/>
-		<entry key="OptionsMenu_CameraType_Freelock" translation="Freelock"/>
-		<entry key="OptionsMenu_CameraType_Normal" translation="Normal"/>
-		<entry key="OptionsMenu_Camera_FieldOfView" translation="FoV"/>
-		<entry key="OptionsMenu_Camera_FixedTilt" translation="Fixed Tilt"/>
-		<entry key="OptionsMenu_Camera_FocusOnCursor" translation="Focus On Cursor"/>
-		<entry key="OptionsMenu_Camera_Forward" translation="Camera forward"/>
-		<entry key="OptionsMenu_Camera_InvertPan" translation="Invert pan"/>
-		<entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Invert swivel pitch"/>
-		<entry key="OptionsMenu_Camera_KeySensitivity" translation="Key Sensitivity"/>
-		<entry key="OptionsMenu_Camera_Left" translation="Camera left"/>
-		<entry key="OptionsMenu_Camera_MouseSensitivity" translation="Mouse Sensitivity"/>
-		<entry key="OptionsMenu_Camera_Pan" translation="Camera pan"/>
-		<entry key="OptionsMenu_Camera_Right" translation="Camera right"/>
-		<entry key="OptionsMenu_Camera_Speed" translation="Camera speed"/>
-		<entry key="OptionsMenu_Camera_Speed_Fast" translation="Fast"/>
-		<entry key="OptionsMenu_Camera_Speed_Medium" translation="Medium"/>
-		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Slow"/>
-		<entry key="OptionsMenu_Camera_Up" translation="Camera up"/>
-		<entry key="OptionsMenu_Camera_WheelSensitivity" translation="Wheel Sensitivity"/>
-		<entry key="OptionsMenu_ColorPickerPreview" translation="Preview"/>
-		<entry key="OptionsMenu_ColorPickerTitle" translation="Interface Colour"/>
-		<entry key="OptionsMenu_Controls" translation="Controls"/>
-		<entry key="OptionsMenu_Controls_Building_Edit" translation="Building Edit Mode"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Place Piece\nSelect Piece\nSelect Another Building"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Cancel Placement\nDelete Piece under cursor"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Select Multiple Pieces"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Rotate (Attachments &amp; Decorations)"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Rotate 90-degrees"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Toggle Advanced Move/Rotate\n(Attachments &amp; Decorations)"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Adjust theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Reset theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Lock to Surface Axes"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Snap Attachment/Decoration to tường Piece Centre"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Toggle Rotation Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Toggle Align to Surface On/Off"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_01" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_02" translation="[MouseRight]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_03" translation="Ctrl + [MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_04" translation="Z + [MouseMoveH]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_05" translation="Z"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_06" translation="X"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_07" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_08" translation="[Shift]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_09" translation="Ctrl + [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_10" translation="F"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_11" translation="[Space]"/>
-		<entry key="OptionsMenu_Controls_Building_Edit_Input_12" translation="V"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit" translation="Coaster Edit Mode"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Use handles"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Delete Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Select Track Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Cancel/Close"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Toggle Angle Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_01" translation="[MouseLeft] + [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_02" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_03" translation="[MouseRight]"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] on Placed Piece"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_05" translation="Esc"/>
-		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_06" translation="[Space]"/>
-		<entry key="OptionsMenu_Controls_General" translation="General Shortcuts"/>
-		<entry key="OptionsMenu_Controls_General_Command_01" translation="Controls Help (Show/Hide)"/>
-		<entry key="OptionsMenu_Controls_General_Command_02" translation="Pan Camera"/>
-		<entry key="OptionsMenu_Controls_General_Command_03" translation="Rotate Camera"/>
-		<entry key="OptionsMenu_Controls_General_Command_04" translation="Zoom Camera"/>
-		<entry key="OptionsMenu_Controls_General_Command_05" translation="Toggle Freelook Camera On/Off"/>
-		<entry key="OptionsMenu_Controls_General_Command_06" translation="Increase Freelook Camera Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_07" translation="Cancel Placement, Close Browser, Deselect Object, mở Options Menu"/>
-		<entry key="OptionsMenu_Controls_General_Command_08" translation="Delete Selected Object"/>
-		<entry key="OptionsMenu_Controls_General_Command_09" translation="Change Simulation Speed"/>
-		<entry key="OptionsMenu_Controls_General_Command_10" translation="Pause Simulation"/>
-		<entry key="OptionsMenu_Controls_General_Command_11" translation="Undo"/>
-		<entry key="OptionsMenu_Controls_General_Command_12" translation="Redo"/>
-		<entry key="OptionsMenu_Controls_General_Command_13" translation="Duplicate Object/Building"/>
-		<entry key="OptionsMenu_Controls_General_Command_14" translation="Move Selection"/>
-		<entry key="OptionsMenu_Controls_General_Command_15" translation="Edit Building"/>
+		<entry key="OptionsMenu_Audio" translation="Âm thanh" />
+		<entry key="OptionsMenu_Audio_Mute" translation="Tắt tiếng" />
+		<entry key="OptionsMenu_Audio_MuteAllEntry" translation="Tắt tiếng Tất cả" />
+		<entry key="OptionsMenu_Audio_MuteGUIEntry" translation="Tắt âm GUI" />
+		<entry key="OptionsMenu_Audio_MuteMenuMusicEntry" translation="Tắt tiếng menu" />
+		<entry key="OptionsMenu_Audio_MuteRideMusicEntry" translation="Tắt tiếng Ride" />
+		<entry key="OptionsMenu_Audio_MuteSFXEntry" translation="Tắt tiếng Hiệu ứng Âm thanh" />
+		<entry key="OptionsMenu_Audio_Volume" translation="Âm lượng" />
+		<entry key="OptionsMenu_Audio_Volume_Entry" translation="Điều chỉnh Âm lượng" />
+		<entry key="OptionsMenu_Camera" translation="Máy ảnh" />
+		<entry key="OptionsMenu_CameraType" translation="Loại" />
+		<entry key="OptionsMenu_CameraType_Advanced" translation="Nâng cao" />
+		<entry key="OptionsMenu_CameraType_Debug" translation="Gỡ lỗ" />
+		<entry key="OptionsMenu_CameraType_Freelock" translation="Freelock" />
+		<entry key="OptionsMenu_CameraType_Normal" translation="Bình thường" />
+		<entry key="OptionsMenu_Camera_FieldOfView" translation="FoV" />
+		<entry key="OptionsMenu_Camera_FixedTilt" translation="Độ nghiêng cố định" />
+		<entry key="OptionsMenu_Camera_FocusOnCursor" translation="Tập trung vào con trỏ" />
+		<entry key="OptionsMenu_Camera_Forward" translation="Chuyển tiếp camera" />
+		<entry key="OptionsMenu_Camera_InvertPan" translation="Invert pan" />
+		<entry key="OptionsMenu_Camera_InvertSwivelPitch" translation="Invert swivel pitch" />
+		<entry key="OptionsMenu_Camera_KeySensibility" translation="Độ nhạy phím" />
+		<entry key="OptionsMenu_Camera_Left" translation="Camera trái" />
+		<entry key="OptionsMenu_Camera_MouseSensibility" translation="Độ nhạy của chuột" />
+		<entry key="OptionsMenu_Camera_Pan" translation="Xoay camera" />
+		<entry key="OptionsMenu_Camera_Right" translation="Camera phải" />
+		<entry key="OptionsMenu_Camera_Speed" translation="Tốc độ camera" />
+		<entry key="OptionsMenu_Camera_Speed_Fast" translation="Nhanh" />
+		<entry key="OptionsMenu_Camera_Speed_Medium" translation="Phương tiện" />
+		<entry key="OptionsMenu_Camera_Speed_Slow" translation="Chậm" />
+		<entry key="OptionsMenu_Camera_Up" translation="Camera up" />
+		<entry key="OptionsMenu_Camera_WheelSensibility" translation="Độ nhạy con lăn" />
+		<entry key="OptionsMenu_ColorPickerPreview" translation="Xem trước" />
+		<entry key="OptionsMenu_ColorPickerTitle" translation="Màu giao diện" />
+		<entry key="OptionsMenu_Controls" translation="Kiểm soát" />
+		<entry key="OptionsMenu_Controls_Building_Edit" translation="Chế độ chỉnh sửa tòa nhà" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_01" translation="Địa điểm\nChọn mảnh\nChọn một tòa nhà khác"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_02" translation="Hủy vị trí\nXóa mảnh dưới con trỏ"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_03" translation="Chọn nhiều mảnh"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_04" translation="Xoay (Tệp đính kèm &amp; Đồ trang trí)"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_05" translation="Xoay 90-độ"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_06" translation="Xoay nâng cao di chuyển/xoay\n(Tệp đính kèm &amp; Đồ trang trí)"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_07" translation="Điều chỉnh theo chiều dọc cao"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_08" translation="Cài lại theo chiều dọc cao"/>
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_09" translation="Lock to Surface Axes" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_10" translation="Gắn Đính kèm / Trang trí vào tường Mảnh Trung tâm" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_11" translation="Bật / Tắt Xoay Xoay" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Command_12" translation="Toggle Align to Surface On / Off" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_01" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_02" translation="[MouseRight]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_03" translation="Ctrl + [MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_04" translation="Z + [MouseMoveH]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_05" translation="Z" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_06" translation="X" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_07" translation="[Shift] + [MouseMoveV]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_08" translation="[Shift]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_09" translation="Ctrl + [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_10" translation="F" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_11" translation="[Dấu cách]" />
+		<entry key="OptionsMenu_Controls_Building_Edit_Input_12" translation="V" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit" translation="Coaster Edit Mode" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_01" translation="Sử dụng tay cầm" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_02" translation="Build Track Piece" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_03" translation="Delete Track Piece" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_04" translation="Chọn đoạn nhạc" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_05" translation="Hủy / Đóng" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Command_06" translation="Bật / Tắt Góc Chụp" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_01" translation="[MouseLeft] + [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_02" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_03" translation="[MouseRight]" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_04" translation="[MouseLeft] on Placed Piece" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_05" translation="Esc" />
+		<entry key="OptionsMenu_Controls_Coaster_Edit_Input_06" translation="[Dấu cách]" />
+		<entry key="OptionsMenu_Controls_General" translation="Phím tắt Chung" />
+		<entry key="OptionsMenu_Controls_General_Command_01" translation="Controls Help (Show / Hide)" />
+		<entry key="OptionsMenu_Controls_General_Command_02" translation="Pan Camera" />
+		<entry key="OptionsMenu_Controls_General_Command_03" translation="Xoay Camera" />
+		<entry key="OptionsMenu_Controls_General_Command_04" translation="Zoom Camera" />
+		<entry key="OptionsMenu_Controls_General_Command_05" translation="Bật / Tắt Freelook Camera" />
+		<entry key="OptionsMenu_Controls_General_Command_06" translation="Tăng tốc độ camera Freelook" />
+		<entry key="OptionsMenu_Controls_General_Command_07" translation="Hủy Vị trí, Đóng Trình duyệt, Bỏ chọn Đối tượng, Mở Menu Tùy chọn" />
+		<entry key="OptionsMenu_Controls_General_Command_08" translation="Xóa đối tượng đã chọn" />
+		<entry key="OptionsMenu_Controls_General_Command_09" translation="Thay đổi tốc độ mô phỏng" />
+		<entry key="OptionsMenu_Controls_General_Command_10" translation="Tạm dừng mô phỏng" />
+		<entry key="OptionsMenu_Controls_General_Command_11" translation="Hoàn tác" />
+		<entry key="OptionsMenu_Controls_General_Command_12" translation="Làm lại" />
+		<entry key="OptionsMenu_Controls_General_Command_13" translation="Đối tượng / Tòa nhà trùng lặp" />
+		<entry key="OptionsMenu_Controls_General_Command_14" translation="Di chuyển Lựa chọn" />
+		<entry key="OptionsMenu_Controls_General_Command_15" translation="Chỉnh sửa Tòa nhà" />
 		<entry key="OptionsMenu_Controls_General_Input_01" translation="F1"/>
 		<entry key="OptionsMenu_Controls_General_Input_02" translation="W, A, S, D"/>
 		<entry key="OptionsMenu_Controls_General_Input_03" translation="Q, E"/>
@@ -2304,147 +2307,147 @@
 		<entry key="OptionsMenu_Controls_General_Input_13" translation="Ctrl + D"/>
 		<entry key="OptionsMenu_Controls_General_Input_14" translation="M"/>
 		<entry key="OptionsMenu_Controls_General_Input_15" translation="R"/>
-		<entry key="OptionsMenu_Controls_Mouse" translation="Mouse Controls"/>
-		<entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Move Cursor"/>
-		<entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Activate Button\nSelect Object"/>
-		<entry key="OptionsMenu_Controls_Mouse_Command_03" translation="Camera Pan"/>
-		<entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Camera Tilt/Rotate"/>
-		<entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Camera Zoom"/>
-		<entry key="OptionsMenu_Controls_Mouse_Input_01" translation="[MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Mouse_Input_02" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Mouse_Input_03" translation="[MouseRight] + [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Mouse_Input_04" translation="[MouseMiddle] + [MouseMove]\n[MouseLeft] + [MouseRight] + [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Mouse_Input_05" translation="[MouseMiddle](Scroll)"/>
-		<entry key="OptionsMenu_Controls_Object_Placement" translation="Object Placement Controls"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Place Object"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Cancel Placement"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_03" translation="Rotate"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Rotate 90-degrees"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Adjust theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_06" translation="Reset theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Lock to Surface Axes"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_08" translation="Toggle Rotation Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Toggle Align to Surface On/Off"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_01" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_02" translation="[MouseRight]\nEsc"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_03" translation="Z + [MouseMoveH]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_04" translation="Z"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_05" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_06" translation="[Shift]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_07" translation="Ctrl + [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_08" translation="[Space]"/>
-		<entry key="OptionsMenu_Controls_Object_Placement_Input_09" translation="V"/>
-		<entry key="OptionsMenu_Controls_Path_Edit" translation="Path Edit Mode"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Place Path"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Delete Path"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Raise/Lower Path"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Raise/Lower Path (without placing)"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Rotate Junction Angle"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Acute Angle Join"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Adjust theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Reset theo chiều dọc Height"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Disable Path Joins"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Toggle Angle Snap On/Off"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Path Length"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Path Width"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_01" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_02" translation="[MouseRight]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="[MouseLeft] on Path preview, then [MouseMoveV]"/>
+		<entry key="OptionsMenu_Controls_Mouse" translation="Điều khiển chuột" />
+		<entry key="OptionsMenu_Controls_Mouse_Command_01" translation="Di chuyển con trỏ" />
+		<entry key="OptionsMenu_Controls_Mouse_Command_02" translation="Kích hoạt Nút \ nChọn đối tượng" />
+		<entry key="OptionsMenu_Controls_Mouse_Command_03" translation="Camera Pan" />
+		<entry key="OptionsMenu_Controls_Mouse_Command_04" translation="Camera Nghiêng / Xoay" />
+		<entry key="OptionsMenu_Controls_Mouse_Command_05" translation="Camera Zoom" />
+		<entry key="OptionsMenu_Controls_Mouse_Input_01" translation="[MouseMove]" />
+		<entry key="OptionsMenu_Controls_Mouse_Input_02" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Mouse_Input_03" translation="[MouseRight] + [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Mouse_Input_04" translation="[MouseMiddle] + [MouseMove] \ n [MouseLeft] + [MouseRight] + [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Mouse_Input_05" translation="[MouseMiddle] (Scroll)" />
+		<entry key="OptionsMenu_Controls_Object_Placement" translation="Kiểm soát Vị trí Đối tượng" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_01" translation="Place Object" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_02" translation="Hủy vị trí" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_03" translation="Xoay" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_04" translation="Xoay 90 độ" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_05" translation="Điều chỉnh theo chiều cao chiều dọc" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_06" translation="Đặt lại theo chiều cao chiều dọc" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_07" translation="Lock to Surface Axes" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_08" translation="Bật / Tắt Xoay Xoay" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Command_09" translation="Chuyển đổi Căn chỉnh để Bật / Tắt bề mặt" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_01" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_02" translation="[MouseRight] \ nEsc" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_03" translation="Z + [MouseMoveH]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_04" translation="Z" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_05" translation="[Shift] + [MouseMoveV]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_06" translation="[Shift]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_07" translation="Ctrl + [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_08" translation="[Space]" />
+		<entry key="OptionsMenu_Controls_Object_Placement_Input_09" translation="V" />
+		<entry key="OptionsMenu_Controls_Path_Edit" translation="Path Edit Mode" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_01" translation="Place Path" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_02" translation="Xóa đường dẫn" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_03" translation="Raise / Lower Path" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_04" translation="Raise / Lower Path (không đặt)" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_05" translation="Xoay góc giao nhau" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_06" translation="Acute Angle Join" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_07" translation="Điều chỉnh theo chiều cao chiều dọc" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_08" translation="Đặt lại theo chiều cao chiều dọc" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_09" translation="Tắt Path Joins" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_10" translation="Bật / Tắt Góc Chụp" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_11" translation="Độ dài Đường dẫn" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Command_12" translation="Chiều rộng đường dẫn" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_01" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_02" translation="[MouseRight]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_03" translation="[MouseLeft] trên Path preview, rồi đến [MouseMoveV]" />
 		<entry key="OptionsMenu_Controls_Path_Edit_Input_04" translation="U, J"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_05" translation="Z on Junction preview, then [MouseMove]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="Z, when path preview joins to a path."/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="[Shift] + [MouseMoveV]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_08" translation="[Shift]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_09" translation="Left Ctrl during Path placement"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="[Space]"/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_11" translation="- or ="/>
-		<entry key="OptionsMenu_Controls_Path_Edit_Input_12" translation="[ or ]"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Terrain Edit Mode"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Apply Brush"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Apply Inverse Brush (Push/Pull Brushes)"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Brush Intensity"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Brush Size"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_01" translation="[MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_02" translation="Ctrl + [MouseLeft]"/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_03" translation="- or ="/>
-		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_04" translation="[ or ]"/>
-		<entry key="OptionsMenu_Exit" translation="Exit to Main Menu"/>
-		<entry key="OptionsMenu_Gameplay" translation="Gameplay"/>
-		<entry key="OptionsMenu_GameplaySettings" translation="Gameplay Settings"/>
-		<entry key="OptionsMenu_Graphics" translation="Graphics"/>
-		<entry key="OptionsMenu_HidePlayerName" translation="Hide Player Name"/>
-		<entry key="OptionsMenu_Interface" translation="Interface"/>
-		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Interface Scale"/>
-		<entry key="OptionsMenu_Keybindings" translation="Keybindings"/>
-		<entry key="OptionsMenu_Options" translation="Options"/>
-		<entry key="OptionsMenu_OtherInterfaceOptions" translation="Other Interface Options"/>
-		<entry key="OptionsMenu_Preview" translation="Preview"/>
-		<entry key="OptionsMenu_Resume" translation="Resume"/>
-		<entry key="OptionsMenu_SaveAs" translation="Save as..."/>
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_05" translation="Z trên bản xem trước Junction, rồi đến [MouseMove]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_06" translation="Z, ​​khi xem trước đường dẫn kết hợp với một đường dẫn." />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_07" translation="[Shift] + [MouseMoveV]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_08" translation="[Shift]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_09" translation="Ctrl trái khi đặt đường dẫn" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_10" translation="[Dấu cách]" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_11" translation="- hoặc =" />
+		<entry key="OptionsMenu_Controls_Path_Edit_Input_12" translation="[hoặc]" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit" translation="Chế độ Chỉnh sửa Địa hình" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_01" translation="Áp dụng chải" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_02" translation="Áp dụng chải ngược (Chải Đẩy / Kéo)" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_03" translation="Cường độ chải" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Command_04" translation="Kích thước chải" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_01" translation="[MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_02" translation="Ctrl + [MouseLeft]" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_03" translation="- hoặc =" />
+		<entry key="OptionsMenu_Controls_Terrain_Edit_Input_04" translation="[hoặc]" />
+		<entry key="OptionsMenu_Exit" translation="Thoát ra Menu chính" />
+		<entry key="OptionsMenu_Gameplay" translation="Gameplay" />
+		<entry key="OptionsMenu_GameplaySettings" translation="Cài đặt Gameplay" />
+		<entry key="OptionsMenu_Graphics" translation="Đồ họa" />
+		<entry key="OptionsMenu_HidePlayerName" translation="Ẩn tên người chơi" />
+		<entry key="OptionsMenu_Interface" translation="Giao diện" />
+		<entry key="OptionsMenu_InterfaceScaleTitle" translation="Quy mô giao diện" />
+		<entry key="OptionsMenu_Keybindings" translation="Keybindings" />
+		<entry key="OptionsMenu_Options" translation="Tùy chọn" />
+		<entry key="OptionsMenu_OtherInterfaceOptions" translation="Tùy chọn Giao diện Khác" />
+		<entry key="OptionsMenu_Preview" translation="Xem trước" />
+		<entry key="OptionsMenu_Resume" translation="Tiếp tục" />
+		<entry key="OptionsMenu_SaveAs" translation="Lưu dưới dạng ..." />
 		<entry key="OptionsMenu_SaveMenu_LoadDate" translation="{Hour:int}:{Minute:int:minDigits=2} {AMPM} - {DateString}"/>
-		<entry key="OptionsMenu_SaveMenu_LoadDate_AM" translation="AM"/>
-		<entry key="OptionsMenu_SaveMenu_LoadDate_PM" translation="PM"/>
-		<entry key="OptionsMenu_SaveMenu_NewSaveGame" translation="New Save Game"/>
-		<entry key="OptionsMenu_SaveMenu_NoSavedParks" translation="No saved parks"/>
-		<entry key="OptionsMenu_SaveMenu_ParkName" translation="Park name:"/>
-		<entry key="OptionsMenu_SaveMenu_SaveToken" translation="{Name}"/>
-		<entry key="OptionsMenu_SaveMenu_SavesDateHeader" translation="Modified Date"/>
-		<entry key="OptionsMenu_SaveMenu_SavesNameHeader" translation="Name"/>
-		<entry key="OptionsMenu_SaveMenu_Saving" translation="Saving..."/>
-		<entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Nay!"/>
-		<entry key="OptionsMenu_SavePrompt_EraseHeader" translation="Erase save"/>
-		<entry key="OptionsMenu_SavePrompt_EraseLabel" translation="Erase save '{Name}'?"/>
-		<entry key="OptionsMenu_SavePrompt_EraseOk" translation="Aye!"/>
-		<entry key="OptionsMenu_SavePrompt_OverwriteCancel" translation="Nay!"/>
-		<entry key="OptionsMenu_SavePrompt_OverwriteHeader" translation="Overwrite existing save"/>
-		<entry key="OptionsMenu_SavePrompt_OverwriteLabel" translation="Overwrite save '{Name}'?"/>
-		<entry key="OptionsMenu_SavePrompt_OverwriteOk" translation="Aye!"/>
-		<entry key="OptionsMenu_ScaleInfo" translation="Text Size"/>
-		<entry key="OptionsMenu_ScaleInterface" translation="Scale Interface"/>
-		<entry key="OptionsMenu_ScaleMenuEntry" translation="Adjust UI Scale"/>
-		<entry key="OptionsMenu_Settings" translation="Settings"/>
-		<entry key="OptionsMenu_ShowParkBoundary" translation="Show Park Boundary"/>
-		<entry key="OptionsMenu_apply" translation="Apply"/>
-		<entry key="OptionsMenu_back" translation="Back"/>
-		<entry key="OptionsMenu_cancel" translation="Nay!"/>
-		<entry key="OptionsMenu_load" translation="Load"/>
-		<entry key="OptionsMenu_ok" translation="Aye!"/>
-		<entry key="OptionsMenu_quit" translation="Quit Planet Coaster"/>
-		<entry key="OptionsMenu_save" translation="Save"/>
-		<entry key="OptionsMenu_windowTitle" translation="Options"/>
+		<entry key="OptionsMenu_SaveMenu_LoadDate_AM" translation="AM" />
+		<entry key="OptionsMenu_SaveMenu_LoadDate_PM" translation="PM" />
+		<entry key="OptionsMenu_SaveMenu_NewSaveGame" translation="New Save Game" />
+		<entry key="OptionsMenu_SaveMenu_NoSavedParks" translation="Không có công viên đã lưu" />
+		<entry key="OptionsMenu_SaveMenu_ParkName" translation="Tên công viên:" />
+		<entry key="OptionsMenu_SaveMenu_SaveToken" translation="{Name}" />
+		<entry key="OptionsMenu_SaveMenu_SavesDateHeader" translation="Ngày sửa đổi" />
+		<entry key="OptionsMenu_SaveMenu_SavesNameHeader" translation="Tên" />
+		<entry key="OptionsMenu_SaveMenu_Saving" translation="Đang lưu ..." />
+		<entry key="OptionsMenu_SavePrompt_EraseCancel" translation="Không!" />
+		<entry key="OptionsMenu_SavePrompt_EraseHeader" translation="Xóa lưu" />
+		<entry key="OptionsMenu_SavePrompt_EraseLabel" translation="Xóa lưu '{Name}'?" />
+		<entry key="OptionsMenu_SavePrompt_EraseOk" translation="Aye!" />
+		<entry key="OptionsMenu_SavePrompt_OverwriteCancel" translation="Không!" />
+		<entry key="OptionsMenu_SavePrompt_OverwriteHeader" translation="Ghi đè lưu hiện có" />
+		<entry key="OptionsMenu_SavePrompt_OverwriteLabel" translation="Ghi đè lưu '{Name}'?" />
+		<entry key="OptionsMenu_SavePrompt_OverwriteOk" translation="Aye!" />
+		<entry key="OptionsMenu_ScaleInfo" translation="Kích thước Văn bản" />
+		<entry key="OptionsMenu_ScaleInterface" translation="Giao diện quy mô" />
+		<entry key="OptionsMenu_ScaleMenuEntry" translation="Điều chỉnh Quy mô Giao diện Người dùng" />
+		<entry key="OptionsMenu_Settings" translation="Cài đặt" />
+		<entry key="OptionsMenu_ShowParkBoundary" translation="Show Park Boundary" />
+		<entry key="OptionsMenu_apply" translation="Áp dụng" />
+		<entry key="OptionsMenu_back" translation="Quay lại" />
+		<entry key="OptionsMenu_cancel" translation="Không!" />
+		<entry key="OptionsMenu_load" translation="Tải" />
+		<entry key="OptionsMenu_ok" translation="Đúng!" />
+		<entry key="OptionsMenu_quit" translation="Thoát Planet Coaster" />
+		<entry key="OptionsMenu_save" translation="Lưu" />
+		<entry key="OptionsMenu_windowTitle" translation="Tùy chọn" />
 		<!--PathEdit-->
-		<entry key="PathEdit_AngleSnap" translation="Angle Snap"/>
-		<entry key="PathEdit_Build" translation="Build"/>
-		<entry key="PathEdit_Camera" translation="Camera"/>
-		<entry key="PathEdit_CurvedElevated" translation="cong Elevation"/>
-		<entry key="PathEdit_Delete" translation="Delete"/>
-		<entry key="PathEdit_Down" translation="Down"/>
-		<entry key="PathEdit_Elevation" translation="Elevation"/>
-		<entry key="PathEdit_FollowRotate" translation="Camera: Follow + Rotate"/>
-		<entry key="PathEdit_HardLeft" translation="Hard Left"/>
-		<entry key="PathEdit_HardRight" translation="Hard Right"/>
-		<entry key="PathEdit_KeepCurve" translation="Keep đường cong"/>
-		<entry key="PathEdit_Left" translation="Left"/>
-		<entry key="PathEdit_Mode" translation="Mode"/>
-		<entry key="PathEdit_Natural" translation="Natural"/>
-		<entry key="PathEdit_NoFollow" translation="Camera: Free"/>
-		<entry key="PathEdit_Nudge" translation="Camera: Follow"/>
-		<entry key="PathEdit_NudgeJump" translation="Camera: Follow + Center"/>
-		<entry key="PathEdit_Path" translation="Path"/>
-		<entry key="PathEdit_Queue" translation="Queue"/>
-		<entry key="PathEdit_RadioButtonValue" translation="{Value:string}"/>
-		<entry key="PathEdit_Redo" translation="Redo"/>
-		<entry key="PathEdit_Right" translation="Right"/>
-		<entry key="PathEdit_SetAngle" translation="Set Angle:"/>
-		<entry key="PathEdit_Slope" translation="Slope"/>
-		<entry key="PathEdit_Step" translation="Length"/>
-		<entry key="PathEdit_TJunctions" translation="T-Junctions"/>
-		<entry key="PathEdit_Title" translation="Path Editor"/>
-		<entry key="PathEdit_Tunnel" translation="Tunneling"/>
-		<entry key="PathEdit_Turn" translation="Turn"/>
-		<entry key="PathEdit_Undo" translation="Undo"/>
-		<entry key="PathEdit_Up" translation="Up"/>
-		<entry key="PathEdit_Width" translation="Width"/>
+		<entry key="PathEdit_AngleSnap" translation="Góc chụp" />
+		<entry key="PathEdit_Build" translation="Xây dựng" />
+		<entry key="PathEdit_Camera" translation="Máy ảnh" />
+		<entry key="PathEdit_CurvedEleised" translation="Độ cao cong" />
+		<entry key="PathEdit_Delete" translation="Xóa" />
+		<entry key="PathEdit_Down" translation="Xuống" />
+		<entry key="PathEdit_Elevation" translation="Độ cao" />
+		<entry key="PathEdit_FollowRotate" translation="Máy ảnh: Theo dõi + Xoay" />
+		<entry key="PathEdit_HardLeft" translation="Cứng trái" />
+		<entry key="PathEdit_HardRight" translation="Cứng phải" />
+		<entry key="PathEdit_KeepCurve" translation="Giữ đường cong" />
+		<entry key="PathEdit_Left" translation="Trái" />
+		<entry key="PathEdit_Mode" translation="Chế độ" />
+		<entry key="PathEdit_Natural" translation="Tự nhiên" />
+		<entry key="PathEdit_NoFollow" translation="Máy ảnh: Miễn phí" />
+		<entry key="PathEdit_Nudge" translation="Máy ảnh: Theo dõi" />
+		<entry key="PathEdit_NudgeJump" translation="Máy ảnh: Theo dõi + Trung tâm" />
+		<entry key="PathEdit_Path" translation="Đường dẫn" />
+		<entry key="PathEdit_Queue" translation="Hàng đợi" />
+		<entry key="PathEdit_RadioButtonValue" translation="{Value: string}" />
+		<entry key="PathEdit_Redo" translation="Làm lại" />
+		<entry key="PathEdit_Right" translation="Phải" />
+		<entry key="PathEdit_SetAngle" translation="Đặt Góc:" />
+		<entry key="PathEdit_Slope" translation="Độ dốc" />
+		<entry key="PathEdit_Step" translation="Độ dài" />
+		<entry key="PathEdit_TJunctions" translation="T-Junctions" />
+		<entry key="PathEdit_Title" translation="Trình chỉnh sửa Đường dẫn" />
+		<entry key="PathEdit_Tunnel" translation="Đường hầm" />
+		<entry key="PathEdit_Turn" translation="Xoay" />
+		<entry key="PathEdit_Undo" translation="Hoàn tác" />
+		<entry key="PathEdit_Up" translation="Lên" />
+		<entry key="PathEdit_Width" translation="Chiều rộng" />
 		<!--PathResources-->
 		<entry key="PathResource_Path_01_Description" translation="Your standard path piece with a nice kerb"/>
 		<entry key="PathResource_Path_01_Title" translation="Path"/>
@@ -2461,31 +2464,31 @@
 		<entry key="PathResource_Queue_02_Description" translation="A queue with a pretty rail"/>
 		<entry key="PathResource_Queue_02_Title" translation="Queue"/>
 		<!--RideCam-->
-		<entry key="RideCam_Cabin" translation="Cabin"/>
-		<entry key="RideCam_CabinOrbit" translation="Cabin Orbit"/>
-		<entry key="RideCam_Car" translation="Car"/>
-		<entry key="RideCam_CarFrontBumper" translation="Front Bumper"/>
-		<entry key="RideCam_CarFrontLook" translation="Look Forward"/>
-		<entry key="RideCam_CarLookBack" translation="Look Back"/>
-		<entry key="RideCam_ChaseTrack" translation="Chase"/>
-		<entry key="RideCam_Cinematic" translation="Cinematic"/>
-		<entry key="RideCam_CinematicCabin" translation="Cinematic"/>
-		<entry key="RideCam_CinematicTrack" translation="Cinematic"/>
-		<entry key="RideCam_FirstPerson" translation="First Person"/>
-		<entry key="RideCam_Guest" translation="Guest"/>
-		<entry key="RideCam_GuestCamera" translation="Guest camera"/>
-		<entry key="RideCam_GuestPOV" translation="Guest View"/>
-		<entry key="RideCam_Interest" translation="Interest"/>
-		<entry key="RideCam_LookAtCabin" translation="Cabin Facing"/>
-		<entry key="RideCam_LookAtGuest" translation="Guest Facing"/>
-		<entry key="RideCam_Orbit" translation="Orbit"/>
-		<entry key="RideCam_RideCamera" translation="Ride camera"/>
-		<entry key="RideCam_Row" translation="Row"/>
-		<entry key="RideCam_Seat" translation="Seat"/>
-		<entry key="RideCam_Side" translation="Side"/>
-		<entry key="RideCam_ThirdPerson" translation="Third Person"/>
-		<entry key="RideCam_Train" translation="Train"/>
-		<entry key="RideCam_Wing" translation="Wing"/>
+		<entry key="RideCam_Cabin" translation="Cabin" />
+		<entry key="RideCam_CabinOrbit" translation="Cabin Orbit" />
+		<entry key="RideCam_Car" translation="Car" />
+		<entry key="RideCam_CarFrontBumper" translation="Front Bumper" />
+		<entry key="RideCam_CarFrontLook" translation="Nhìn về phía trước" />
+		<entry key="RideCam_CarLookBack" translation="Nhìn lại" />
+		<entry key="RideCam_ChaseTrack" translation="Chase" />
+		<entry key="RideCam_Cinematic" translation="Cinematic" />
+		<entry key="RideCam_CinematicCabin" translation="Cinematic" />
+		<entry key="RideCam_CinematicTrack" translation="Cinematic" />
+		<entry key="RideCam_FirstPerson" translation="Người đầu tiên" />
+		<entry key="RideCam_Guest" translation="Khách" />
+		<entry key="RideCam_GuestCamera" translation="Máy ảnh của khách" />
+		<entry key="RideCam_GuestPOV" translation="Chế độ xem của khách" />
+		<entry key="RideCam_Interest" translation="Sở thích" />
+		<entry key="RideCam_LookAtCabin" translation="Đối mặt với cabin" />
+		<entry key="RideCam_LookAtGuest" translation="Đối mặt với Khách" />
+		<entry key="RideCam_Orbit" translation="Quỹ đạo" />
+		<entry key="RideCam_RideCamera" translation="Lái máy ảnh" />
+		<entry key="RideCam_Row" translation="Row" />
+		<entry key="RideCam_Seat" translation="Chỗ ngồi" />
+		<entry key="RideCam_Side" translation="Side" />
+		<entry key="RideCam_ThirdPerson" translation="Người thứ ba" />
+		<entry key="RideCam_Train" translation="Tàu" />
+		<entry key="RideCam_Wing" translation="Wing" />
 		<!--Scenery-->
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerBottom" translation="A burger bun.\nBasic Food Set"/>
 		<entry key="BuildingPartDesc_FAD_BasicBurger_BurgerPatty" translation="Now made with real Beef!\nBasic Food Set"/>
@@ -2765,62 +2768,63 @@
 		<entry key="BuildingPartDesc_Sycamore_02" translation="A tree with a broad, domed crown of leaves.\nDeciduous"/>
 		<entry key="BuildingPartDesc_Sycamore_03" translation="A tree with a broad, domed crown of leaves.\nDeciduous"/>
 		<entry key="BuildingPartDesc_Sycamore_mesh" translation="A tree with a broad, domed crown of leaves.\nDeciduous"/>
-		<entry key="BuildingPartName_Beach_Tree_01" translation="Beach Tree 1"/>
-		<entry key="BuildingPartName_Beach_Tree_02" translation="Beach Tree 2"/>
-		<entry key="BuildingPartName_Beach_Tree_03" translation="Beach Tree 3"/>
-		<entry key="BuildingPartName_Cypress_01" translation="Tuscan Cypress Tree 1"/>
-		<entry key="BuildingPartName_Cypress_02" translation="Tuscan Cypress Tree 2"/>
-		<entry key="BuildingPartName_Floral_Bush_01" translation="Red Floral Bush"/>
-		<entry key="BuildingPartName_MapleBowhall_01" translation="Maple Tree"/>
-		<entry key="BuildingPartName_PC_Bush_01" translation="Red Leafy Bush"/>
-		<entry key="BuildingPartName_PC_Bush_02" translation="Green Leafy Bush"/>
-		<entry key="BuildingPartName_PC_Bush_03" translation="White Floral Bush"/>
-		<entry key="BuildingPartName_PC_Bush_04" translation="Yellow Floral Bush"/>
-		<entry key="BuildingPartName_PC_Bush_05" translation="Miniature Conifer"/>
-		<entry key="BuildingPartName_PR_Rock_01" translation="Rock 1"/>
-		<entry key="BuildingPartName_PR_Rock_02" translation="Rock 2"/>
-		<entry key="BuildingPartName_PR_Rock_03" translation="Rock 3"/>
-		<entry key="BuildingPartName_PR_Rock_04" translation="Rock 4"/>
-		<entry key="BuildingPartName_PR_Rock_05" translation="Rock 5"/>
-		<entry key="BuildingPartName_PR_Rock_06" translation="Rock 6"/>
-		<entry key="BuildingPartName_PR_Rock_07" translation="Rock 7"/>
-		<entry key="BuildingPartName_Palm_Banana_01" translation="Banana Palm Tree"/>
-		<entry key="BuildingPartName_Palm_ShortLow_01" translation="Palm Short 1"/>
-		<entry key="BuildingPartName_Palm_Short_01" translation="Palm Short 2"/>
-		<entry key="BuildingPartName_Palm_Tree_02" translation="Palm Tree 2"/>
-		<entry key="BuildingPartName_Palm_Tree_03" translation="Palm Tree 3"/>
-		<entry key="BuildingPartName_Palm_tree" translation="Palm Tree 1"/>
-		<entry key="BuildingPartName_Rhodedendron_01" translation="Rhododendron"/>
-		<entry key="BuildingPartName_Scaevola_01" translation="Scaevola"/>
-		<entry key="BuildingPartName_SeaweedClump_01" translation="Seaweed 3"/>
-		<entry key="BuildingPartName_Seaweed_01" translation="Seaweed 1"/>
-		<entry key="BuildingPartName_Seaweed_02" translation="Seaweed 2"/>
-		<entry key="BuildingPartName_Sycamore_02" translation="Sycamore Tree 2"/>
-		<entry key="BuildingPartName_Sycamore_03" translation="Sycamore Tree 3"/>
-		<entry key="BuildingPartName_Sycamore_mesh" translation="Sycamore Tree 1"/>
+		<entry key="BuildingPartName_Beach_Tree_01" translation="Beach Tree 1" />
+		<entry key="BuildingPartName_Beach_Tree_02" translation="Beach Tree 2" />
+		<entry key="BuildingPartName_Beach_Tree_03" translation="Beach Tree 3" />
+		<entry key="BuildingPartName_Cypress_01" translation="Tuscan Cypress Tree 1" />
+		<entry key="BuildingPartName_Cypress_02" translation="Tuscan Cypress Tree 2" />
+		<entry key="BuildingPartName_Floral_Bush_01" translation="Red Floral Bush" />
+		<entry key="BuildingPartName_MapleBowhall_01" translation="Maple Tree" />
+		<entry key="BuildingPartName_PC_Bush_01" translation="Red Leafy Bush" />
+		<entry key="BuildingPartName_PC_Bush_02" translation="Green Leafy Bush" />
+		<entry key="BuildingPartName_PC_Bush_03" translation="White Floral Bush" />
+		<entry key="BuildingPartName_PC_Bush_04" translation="Yellow Floral Bush" />
+		<entry key="BuildingPartName_PC_Bush_05" translation="Miniature Conifer" />
+		<entry key="BuildingPartName_PR_Rock_01" translation="Rock 1" />
+		<entry key="BuildingPartName_PR_Rock_02" translation="Rock 2" />
+		<entry key="BuildingPartName_PR_Rock_03" translation="Rock 3" />
+		<entry key="BuildingPartName_PR_Rock_04" translation="Rock 4" />
+		<entry key="BuildingPartName_PR_Rock_05" translation="Rock 5" />
+		<entry key="BuildingPartName_PR_Rock_06" translation="Rock 6" />
+		<entry key="BuildingPartName_PR_Rock_07" translation="Rock 7" />
+		<entry key="BuildingPartName_Palm_Banana_01" translation="Banana Palm Tree" />
+		<entry key="BuildingPartName_Palm_ShortLow_01" translation="Palm Short 1" />
+		<entry key="BuildingPartName_Palm_Short_01" translation="Palm Short 2" />
+		<entry key="BuildingPartName_Palm_Tree_02" translation="Palm Tree 2" />
+		<entry key="BuildingPartName_Palm_Tree_03" translation="Palm Tree 3" />
+		<entry key="BuildingPartName_Palm_tree" translation="Palm Tree 1" />
+		<entry key="BuildingPartName_Rhodedendron_01" translation="Rhododendron" />
+		<entry key="BuildingPartName_Scaevola_01" translation="Scaevola" />
+		<entry key="BuildingPartName_SeaweedClump_01" translation="Seaweed 3" />
+		<entry key="BuildingPartName_Seaweed_01" translation="Seaweed 1" />
+		<entry key="BuildingPartName_Seaweed_02" translation="Seaweed 2" />
+		<entry key="BuildingPartName_Sycamore_02" translation="Cây Sycamore 2" />
+		<entry key="BuildingPartName_Sycamore_03" translation="Cây Sycamore 3" />
+		<entry key="BuildingPartName_Sycamore_mesh" translation="Cây Sycamore 1" />
+
 		<!--Scenery_Test-->
-		<entry key="BuildingPartDesc_RR_Planter_A" translation="Planter hình vuông 1m"/>
-		<entry key="BuildingPartDesc_RR_Planter_B" translation="Planter Long 2m"/>
-		<entry key="BuildingPartDesc_RR_Planter_C" translation="Planter Long 4m"/>
-		<entry key="BuildingPartDesc_RR_Planter_D" translation="Planter đường cong 1m"/>
-		<entry key="BuildingPartDesc_RR_Planter_E" translation="Planter Corner 1m"/>
-		<entry key="BuildingPartDesc_RR_Planter_F" translation="Planter hình vuông 4m"/>
-		<entry key="BuildingPartDesc_RR_Planter_G" translation="Planter hình vuông 2m"/>
-		<entry key="BuildingPartDesc_RR_Planter_H" translation="Planter đường cong 2m"/>
-		<entry key="BuildingPartDesc_RR_Planter_I" translation="Planter Circle 4m"/>
-		<entry key="BuildingPartDesc_RR_Planter_J" translation="Planter Circle 2m"/>
-		<entry key="BuildingPartDesc_RR_Planter_K" translation="Planter End"/>
-		<entry key="BuildingPartName_RR_Planter_A" translation="Planter hình vuông 1m"/>
-		<entry key="BuildingPartName_RR_Planter_B" translation="Planter Long 2m"/>
-		<entry key="BuildingPartName_RR_Planter_C" translation="Planter Long 4m"/>
-		<entry key="BuildingPartName_RR_Planter_D" translation="Planter đường cong 1m"/>
-		<entry key="BuildingPartName_RR_Planter_E" translation="Planter Corner 1m"/>
-		<entry key="BuildingPartName_RR_Planter_F" translation="Planter hình vuông 4m"/>
-		<entry key="BuildingPartName_RR_Planter_G" translation="Planter hình vuông 2m"/>
-		<entry key="BuildingPartName_RR_Planter_H" translation="Planter đường cong 2m"/>
-		<entry key="BuildingPartName_RR_Planter_I" translation="Planter Circle 4m"/>
-		<entry key="BuildingPartName_RR_Planter_J" translation="Planter Circle 2m"/>
-		<entry key="BuildingPartName_RR_Planter_K" translation="Planter End"/>
+		<entry key="BuildingPartDesc_RR_Planter_A" translation="Người trồng cây hình vuông 1m"/>
+		<entry key="BuildingPartDesc_RR_Planter_B" translation="Người trồng cây dài 2m"/>
+		<entry key="BuildingPartDesc_RR_Planter_C" translation="Người trồng cây dài 4m"/>
+		<entry key="BuildingPartDesc_RR_Planter_D" translation="Người trồng cây đường cong 1m"/>
+		<entry key="BuildingPartDesc_RR_Planter_E" translation="Người trồng cây góc 1m"/>
+		<entry key="BuildingPartDesc_RR_Planter_F" translation="Người trồng cây hình vuông 4m"/>
+		<entry key="BuildingPartDesc_RR_Planter_G" translation="Người trồng cây hình vuông 2m"/>
+		<entry key="BuildingPartDesc_RR_Planter_H" translation="Người trồng cây đường cong 2m"/>
+		<entry key="BuildingPartDesc_RR_Planter_I" translation="Người trồng cây hình tròn 4m"/>
+		<entry key="BuildingPartDesc_RR_Planter_J" translation="Người trồng cây hình tròn 2m"/>
+		<entry key="BuildingPartDesc_RR_Planter_K" translation="Người trồng cây kết thúc"/>
+		<entry key="BuildingPartName_RR_Planter_A" translation="Người trồng cây hình vuông 1m"/>
+		<entry key="BuildingPartName_RR_Planter_B" translation="Người trồng cây dài 2m"/>
+		<entry key="BuildingPartName_RR_Planter_C" translation="Người trồng cây dài 4m"/>
+		<entry key="BuildingPartName_RR_Planter_D" translation="Người trồng cây đường cong 1m"/>
+		<entry key="BuildingPartName_RR_Planter_E" translation="Người trồng cây góc 1m"/>
+		<entry key="BuildingPartName_RR_Planter_F" translation="Người trồng cây hình vuông 4m"/>
+		<entry key="BuildingPartName_RR_Planter_G" translation="Người trồng cây hình vuông 2m"/>
+		<entry key="BuildingPartName_RR_Planter_H" translation="Người trồng cây đường cong 2m"/>
+		<entry key="BuildingPartName_RR_Planter_I" translation="Người trồng cây góc 4m"/>
+		<entry key="BuildingPartName_RR_Planter_J" translation="Người trồng cây góc 2m"/>
+		<entry key="BuildingPartName_RR_Planter_K" translation="Người trồng cây kết thúc"/>
 		<!--Stalls-->
 		<entry key="Placeholder_Drinks" translation="Đồ uống"/>
 		<entry key="Placeholder_FirstAid" translation="FirSơ cứustAid"/>
@@ -2828,61 +2832,61 @@
 		<entry key="Placeholder_Hats" translation="Mũ"/>
 		<entry key="Placeholder_Toilet" translation="Nhà vệ sinh"/>
 		<!--Tags-->
-		<entry key="Set_Brick" translation="Brick"/>
-		<entry key="Set_Modern" translation="Modern"/>
-		<entry key="Set_RenderWalls" translation="Vữa"/>
-		<entry key="Set_StoneWalls" translation="Sandstone"/>
-		<entry key="Set_Gỗen" translation="Gỗ"/>
-		<entry key="TagGroup_Set" translation="Set"/>
-		<entry key="TagGroup_Theme" translation="Theme"/>
-		<entry key="Tag_Attachment" translation="Attachment"/>
-		<entry key="Tag_Blueprint" translation="Blueprint"/>
-		<entry key="Tag_BuildingAttachments" translation="BuildingAttachments"/>
-		<entry key="Tag_BuildingDecorations" translation="BuildingDecorations"/>
-		<entry key="Tag_BuildingRoofs" translation="Xây dựng mái nhà"/>
-		<entry key="Tag_BuildingSigns" translation="Xây dựng biển báo"/>
-		<entry key="Tag_BuildingSimulations" translation="BuildingSimulations"/>
-		<entry key="Tag_BuildingWallExtras" translation="BuildingWallExtras"/>
-		<entry key="Tag_BuildingWalls" translation="BuildingWalls"/>
-		<entry key="Tag_Decoration" translation="Decoration"/>
-		<entry key="Tag_Roof" translation="Roof"/>
-		<entry key="Tag_SceneryNature" translation="SceneryNature"/>
-		<entry key="Tag_SceneryProps" translation="SceneryProps"/>
-		<entry key="Tag_ScenerySigns" translation="ScenerySigns"/>
-		<entry key="Tag_SceneryVFX" translation="SceneryVFX"/>
-		<entry key="Tag_Simulation" translation="Simulation"/>
-		<entry key="Tag_Test" translation="Test"/>
-		<entry key="Tag_Test_Buidling" translation="Test_Buidling"/>
-		<entry key="Tag_Test_Scenery" translation="Test_Scenery"/>
-		<entry key="Tag_Tree" translation="Tree"/>
-		<entry key="Tag_Wall" translation="Wall"/>
-		<entry key="Theme_PR_Pirate" translation="Pirate"/>
-		<entry key="Theme_PlanetCoaster" translation="Planet Coaster"/>
+		<entry key="Set_Brick" translation="Brick" />
+		<entry key="Set_Modern" translation="Hiện đại" />
+		<entry key="Set_RenderWalls" translation="Vữa" />
+		<entry key="Set_StoneWalls" translation="Sandstone" />
+		<entry key="Set_Wooden" translation="Gỗ" />
+		<entry key="TagGroup_Set" translation="Đặt" />
+		<entry key="TagGroup_Theme" translation="Chủ đề" />
+		<entry key="Tag_Attachment" translation="Tập tin đính kèm" />
+		<entry key="Tag_Blueprint" translation="Blueprint" />
+		<entry key="Tag_BuildingAttachments" translation="BuildingAttachments" />
+		<entry key="Tag_BuildingDecaries" translation="Đồ trang trí tòa nhà" />
+		<entry key="Tag_BuildingRoofs" translation="Dựng mái nhà" />
+		<entry key="Tag_BuildingSigns" translation="Dựng biển báo" />
+		<entry key="Tag_BuildingSimulation" translation="BuildingSimulation" />
+		<entry key="Tag_BuildingWallExtras" translation="BuildingWallExtras" />
+		<entry key="Tag_BuildingWalls" translation="BuildingWalls" />
+		<entry key="Tag_Decoration" translation="Trang trí" />
+		<entry key="Tag_Roof" translation="Mái nhà" />
+		<entry key="Tag_SceneryNature" translation="SceneryNature" />
+		<entry key="Tag_SceneryProps" translation="SceneryProps" />
+		<entry key="Tag_ScenerySigns" translation="ScenerySigns" />
+		<entry key="Tag_SceneryVFX" translation="SceneryVFX" />
+		<entry key="Tag_Simulation" translation="Mô phỏng" />
+		<entry key="Tag_Test" translation="Kiểm tra" />
+		<entry key="Tag_Test_Buidling" translation="Test_Buidling" />
+		<entry key="Tag_Test_Scenery" translation="Test_Scenery" />
+		<entry key="Tag_Tree" translation="Cây" />
+		<entry key="Tag_Wall" translation="Tường" />
+		<entry key="Theme_PR_Pirate" translation="Pirate" />
+		<entry key="Theme_PlanetCoaster" translation="Planet Coaster" />
 		<!--Terrain-->
-		<entry key="Terrain_Edit_Axis_Free" translation="Free"/>
-		<entry key="Terrain_Edit_Axis_Horizontal" translation="Horizontal"/>
-		<entry key="Terrain_Edit_Axis_Lock" translation="Axis Lock"/>
-		<entry key="Terrain_Edit_Axis_Surface" translation="Surface"/>
-		<entry key="Terrain_Edit_Axis_Vertical" translation="Vertical"/>
-		<entry key="Terrain_Edit_BrushLock_Direction" translation="Lock Direction"/>
-		<entry key="Terrain_Edit_BrushLock_Off" translation="Lock Off"/>
-		<entry key="Terrain_Edit_BrushLock_Plane" translation="Lock Plane"/>
-		<entry key="Terrain_Edit_Deformation" translation="Sculpting"/>
-		<entry key="Terrain_Edit_Intensity" translation="Intensity"/>
-		<entry key="Terrain_Edit_Lakes" translation="Ocean"/>
-		<entry key="Terrain_Edit_Painting" translation="Painting"/>
-		<entry key="Terrain_Edit_Radius" translation="Size"/>
-		<entry key="Terrain_Edit_SceneryCollisions" translation="Scenery Lock"/>
-		<entry key="Terrain_Edit_Scenery_Lock" translation="Scenery Lock"/>
-		<entry key="Terrain_Edit_Surface_Lock" translation="Surface Lock"/>
-		<entry key="Terrain_Edit_ToolTip_Chisel" translation="Chisel"/>
-		<entry key="Terrain_Edit_ToolTip_FlattenToFoundation" translation="Flatten to Foundation"/>
-		<entry key="Terrain_Edit_ToolTip_FlattenToSurface" translation="Flatten to Surface"/>
-		<entry key="Terrain_Edit_ToolTip_Pull" translation="Pull"/>
-		<entry key="Terrain_Edit_ToolTip_Push" translation="Push"/>
-		<entry key="Terrain_Edit_ToolTip_SceneryLock" translation="Deformation respects Scenery or not"/>
-		<entry key="Terrain_Edit_ToolTip_Smooth" translation="Smooth"/>
-		<entry key="Terrain_Edit_ToolTip_SurfaceLock" translation="Deformation locks to the surface or not"/>
+		<entry key="Terrain_Edit_Axis_Free" translation="Miễn phí" />
+		<entry key="Terrain_Edit_Axis_Horiz ngang" translation="Ngang" />
+		<entry key="Terrain_Edit_Axis_Lock" translation="Khóa trục" />
+		<entry key="Terrain_Edit_Axis_Surface" translation="Bề mặt" />
+		<entry key="Terrain_Edit_Axis_Vertical" translation="Dọc" />
+		<entry key="Terrain_Edit_BrushLock_Direction" translation="Khóa hướng" />
+		<entry key="Terrain_Edit_BrushLock_Off" translation="Tắt khóa" />
+		<entry key="Terrain_Edit_BrushLock_Plane" translation="Khóa máy bay" />
+		<entry key="Terrain_Edit_Deformation" translation="Điêu khắc" />
+		<entry key="Terrain_Edit_Intensity" translation="Cường độ" />
+		<entry key="Terrain_Edit_Lakes" translation="Đại dương" />
+		<entry key="Terrain_Edit_Painting" translation="Tranh" />
+		<entry key="Terrain_Edit_Radius" translation="Kích thước" />
+		<entry key="Terrain_Edit_SceneryCollisions" translation="Khoá Phong cảnh" />
+		<entry key="Terrain_Edit_Scenery_Lock" translation="Khoá Phong cảnh" />
+		<entry key="Terrain_Edit_Surface_Lock" translation="Khóa bề mặt" />
+		<entry key="Terrain_Edit_ToolTip_Chisel" translation="Đục" />
+		<entry key="Terrain_Edit_ToolTip_FlattenToFoundation" translation="San bằng nền móng" />
+		<entry key="Terrain_Edit_ToolTip_FlattenToSurface" translation="Làm phẳng bề mặt" />
+		<entry key="Terrain_Edit_ToolTip_Pull" translation="Kéo" />
+		<entry key="Terrain_Edit_ToolTip_Push" translation="Đẩy" />
+		<entry key="Terrain_Edit_ToolTip_SceneryLock" translation="Biến dạng có tôn trọng phong cảnh hay không" />
+		<entry key="Terrain_Edit_ToolTip_Smooth" translation="Trơn tru" />
+		<entry key="Terrain_Edit_ToolTip_SurfaceLock" translation="Biến dạng có khóa với bề mặt hay không" />
 		<!--Thoughts-->
 		<entry key="Guest_Thought_ArrivedInPark_Adult_01" translation="Tôi rất vui!" />
 		<entry key="Guest_Thought_ArrivedInPark_Adult_02" translation="Công viên này rất tốt tôi nên đi sớm ..." />
@@ -2926,7 +2930,7 @@
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_01" translation="Chà, {reference} trông thật tuyệt!" />
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_02" translation="{reference} có vẻ thành công!" />
 		<entry key="Guest_Thought_Assessment_GoodRide_Teen_03" translation="Tôi cá rằng {reference} là một chuyến đi tuyệt vời" />
-		<entry key="Guest_Thought_Assessment_QueueTooLong_Adult_01" translate = "{reference} có một hàng đợi lớn!" />
+		<entry key="Guest_Thought_Assessment_QueueTooLong_Adult_01" translation="{reference} có một hàng đợi lớn!" />
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Adult_02" translation="{reference} có một hàng đợi thực sự dài" />
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Adult_03" translation="Tôi không thể tin được là phải xếp hàng dài đến mức nào cho {reference}" />
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Child_01" translation="Hàng đợi cho {reference} quá dài" />
@@ -2935,7 +2939,7 @@
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Common_01" translation="{reference} có một hàng đợi thực sự dài" />
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Teen_01" translation="Tôi sẽ không đợi lâu như vậy cho {reference}" />
 		<entry key="Guest_Thought_Assessment_QueueTooLong_Teen_02" translation="Hàng đợi cho {reference} hiện rất lớn" />
-		<entry key="Guest_Thought_Assessment_QueueTooLong_Teen_03" translation="Tôi không đợi lâu để tiếp tục {tham chiếu}" />
+		<entry key="Guest_Thought_Assessment_QueueTooLong_Teen_03" translation="Tôi không đợi lâu để tiếp tục {reference}" />
 		<entry key="Guest_Thought_Assessment_RideNotIntenseEnough_Adult_01" translation="{reference} quá nhẹ nhàng đối với tôi" />
 		<entry key="Guest_Thought_Assessment_RideNotIntenseEnough_Adult_02" translation="Tôi nghĩ {reference} sẽ làm khổ tôi" />
 		<entry key="Guest_Thought_Assessment_RideNotIntenseEnough_Adult_03" translation="{reference} trông quá chậm đối với tôi" />
@@ -2950,7 +2954,7 @@
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Adult_02" translation="Tôi cá là {reference} rất dữ dội!" />
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Adult_03" translation="{reference} quá căng đối với tôi" />
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Child_01" translation="{reference} trông quá đáng sợ đối với tôi" />
-		<entry key="Guest_Thought_Assessment_RideTooIntense_Child_02" translation="Không đời nào tôi lại tiếp tục {tham chiếu}, thật đáng sợ!" />
+		<entry key="Guest_Thought_Assessment_RideTooIntense_Child_02" translation="Không đời nào tôi lại tiếp tục {reference}, thật đáng sợ!" />
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Child_03" translation="Rất tiếc! {reference} thật đáng sợ!" />
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Common_01" translation="{reference} trông quá căng đối với tôi" />
 		<entry key="Guest_Thought_Assessment_RideTooIntense_Teen_01" translation="{reference} trông cực kỳ dữ dội" />
@@ -2977,7 +2981,7 @@
 		<entry key="Guest_Thought_EnergySatisfied_Destination_Teen_01" translation="Tôi lại tràn đầy năng lượng! - {reference}" />
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_01" translation="{reference} sẽ đẹp hơn với nhiều cảnh quan hơn!" />
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_02" translation="Hầu như không có bất kỳ chủ đề nào trên {reference}!" />
-		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_03" translation="{tham chiếu} có các đề tài xếp hàng khá rác rưởi" />
+		<entry key="Guest_Thought_Fluff_BadQueueTheming_Adult_03" translation="{reference} có các đề tài xếp hàng khá rác rưởi" />
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Child_01" translation="Tôi ước hàng đợi của {reference} tốt hơn" />
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Child_02" translation="Tôi chán xếp hàng chờ {reference}" />
 		<entry key="Guest_Thought_Fluff_BadQueueTheming_Child_03" translation="{reference} có hàng đợi nhàm chán nhất" />
@@ -2995,14 +2999,14 @@
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_01" translation="Nơi này trông nhàm chán" />
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_02" translation="Tôi không thích khu vực này trông như thế nào" />
 		<entry key="Guest_Thought_Fluff_BadTheming_Teen_03" translation="Nên có nhiều cảnh quan xung quanh đây" />
-		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Adult_01" translation = "{reference} trông thật tuyệt vời với tất cả khung cảnh này!" />
+		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Adult_01" translation="{reference} trông thật tuyệt vời với tất cả khung cảnh này!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Adult_02" translation="Chủ đề trên {reference} thật tuyệt vời!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Adult_03" translation="{reference} có chủ đề xếp hàng tuyệt vời" />
-		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Child_01" translate = "Woah, hàng đợi của {reference} thật tuyệt!" />
+		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Child_01" translation="Woah, hàng đợi của {reference} thật tuyệt!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Child_02" translation="{reference} có nhiều thứ tuyệt vời!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Child_03" translation="Có quá nhiều thứ tuyệt vời trên {reference}!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Common_01" translation="{reference} có chủ đề tuyệt vời!" />
-		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Teen_01" translation = "{reference} có chủ đề xếp hàng tốt nhất" />
+		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Teen_01" translation="{reference} có chủ đề xếp hàng tốt nhất" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Teen_02" translation="Đây là phần {reference} yêu thích của tôi!" />
 		<entry key="Guest_Thought_Fluff_GoodQueueTheming_Teen_03" translation="Cảnh đẹp nhất từ ​​trước đến nay! - {reference}" />
 		<entry key="Guest_Thought_Fluff_GoodTheming_Adult_01" translation="Chà! Địa điểm này trông thật tuyệt" />
@@ -3040,7 +3044,7 @@
 		<entry key="Guest_Thought_Fluff_OnRide_Adult_03" translation="Eeeeee! - {reference}!" />
 		<entry key="Guest_Thought_Fluff_OnRide_Child_01" translation="Rất tiếc! {reference}" />
 		<entry key="Guest_Thought_Fluff_OnRide_Child_02" translation="{reference} thật tuyệt vời!" />
-		<entry key="Guest_Thought_Fluff_OnRide_Child_03" translation = "{reference} thật tuyệt!" />
+		<entry key="Guest_Thought_Fluff_OnRide_Child_03" translation="{reference} thật tuyệt!" />
 		<entry key="Guest_Thought_Fluff_OnRide_Common_01" translation="{reference} rất thú vị!" />
 		<entry key="Guest_Thought_Fluff_OnRide_Teen_01" translation="Tôi ước mình có thể chụp ảnh tự sướng - {reference}" />
 		<entry key="Guest_Thought_Fluff_OnRide_Teen_02" translation="Đây là phần yêu thích của tôi trong {reference}!" />
@@ -3122,7 +3126,7 @@
 		<entry key="Guest_Thought_QueueFull_Common_02" translation="Tôi thậm chí không thể xếp hàng cho {reference}" />
 		<entry key="Guest_Thought_QueueFull_Common_03" translation="Có vẻ như {reference} đã đầy" />
 		<entry key="Guest_Thought_QueueFull_Teen_01" translation="Nếu {reference} đã đầy, tôi sẽ thử ở nơi khác" />
-		<entry key="Guest_Thought_QueueFull_Teen_02" translate = "Man! {reference} có đầy đủ hàng đợi!" />
+		<entry key="Guest_Thought_QueueFull_Teen_02" translation="Man! {reference} có đầy đủ hàng đợi!" />
 		<entry key="Guest_Thought_QueueFull_Teen_03" translation="Dòng cho {reference} đã đầy đủ" />
 		<entry key="Guest_Thought_Reference_Invalid_Destination" translation="một số nơi" />
 		<entry key="Guest_Thought_Reference_Invalid_Facility" translation="cơ sở đó" />
@@ -3195,54 +3199,55 @@
 		<entry key="Guest_Thought_Wandering_Common_02" translation="Chúng ta hãy xem xét xung quanh" />
 		<entry key="Guest_Thought_Wandering_Common_03" translation="Nghĩ bây giờ tôi sẽ đi lang thang thôi" />
 		<!--TrackEdit-->
-		<entry key="TrackEditParam_BankPivotRange" translation="BankPivotRange"/>
-		<entry key="TrackEditParam_BankingRangeDegrees" translation="BankingRangeDegrees"/>
-		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BoosterAcceleration" translation="Acceleration Rate"/>
-		<entry key="TrackEditParam_BoosterDirection" translation="Booster Direction"/>
-		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_BrakeDeceleration" translation="Deceleration Rate"/>
-		<entry key="TrackEditParam_BrakeDirection" translation="Brake Direction"/>
-		<entry key="TrackEditParam_BrakeMinSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_ChainLiftSpeed" translation="Chain Speed"/>
-		<entry key="TrackEditParam_CurveRangeDegrees" translation="CurveRangeDegrees"/>
-		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Maximum Drop Delay"/>
-		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Minimum Drop Delay"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Release Acceleration"/>
-		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Release Speed"/>
-		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Stop Location"/>
-		<entry key="TrackEditParam_HydraulicLaunchAcceleration" translation="Acceleration"/>
-		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Launch Delay"/>
-		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Target Speed"/>
-		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Catch Car Return Speed"/>
-		<entry key="TrackEditParam_LengthRangeMetres" translation="LengthRangeMetres"/>
-		<entry key="TrackEditParam_ScaleRange" translation="ScaleRange"/>
-		<entry key="TrackEditParam_SlopeRangeDegrees" translation="SlopeRangeDegrees"/>
-		<entry key="TrackEditParam_StationEntrySpeed" translation="Entry Speed"/>
-		<entry key="TrackEditParam_StationExitSpeed" translation="Exit Speed"/>
-		<entry key="TrackEditParam_StationStopLocation" translation="Train Stop Location"/>
-		<entry key="TrackEdit_AddTestTrain" translation="Add Test Train"/>
-		<entry key="TrackEdit_AngleSnap" translation="Angle Snap"/>
-		<entry key="TrackEdit_AttachCamera" translation="Attach Camera"/>
-		<entry key="TrackEdit_AutoCompleteToolTip" translation="Auto Complete current design"/>
-		<entry key="TrackEdit_AutoTunnel" translation="Auto đường hầm"/>
-		<entry key="TrackEdit_Banking" translation="Banking"/>
-		<entry key="TrackEdit_Build" translation="Build"/>
-		<entry key="TrackEdit_Delete" translation="Delete"/>
-		<entry key="TrackEdit_Elevation" translation="Elevation"/>
-		<entry key="TrackEdit_KeepCurve" translation="Keep đường cong"/>
-		<entry key="TrackEdit_Length" translation="Length"/>
-		<entry key="TrackEdit_NextSelectionToolTip" translation="Move selection to next piece"/>
-		<entry key="TrackEdit_PieceSelection" translation="Piece selection"/>
-		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Move selection to previous piece"/>
-		<entry key="TrackEdit_Redo" translation="Redo"/>
-		<entry key="TrackEdit_RemoveTrains" translation="Remove Trains"/>
-		<entry key="TrackEdit_RollOffset" translation="Bank Pivot Height"/>
-		<entry key="TrackEdit_Scale" translation="Scale"/>
-		<entry key="TrackEdit_Smooth" translation="Smooth"/>
-		<entry key="TrackEdit_Title" translation="Track Options"/>
-		<entry key="TrackEdit_Turn" translation="Turn"/>
-		<entry key="TrackEdit_Undo" translation="Undo"/>
+		<entry key="TrackEditParam_BankPivotRange" translation="BankPivotRange" />
+		<entry key="TrackEditParam_BankingRangeDegrees" translation="BankingRangeDegrees" />
+		<entry key="TrackEditParam_BlockSectionMaxSpeed" translation="Tốc độ Mục tiêu" />
+		<entry key="TrackEditParam_BoosterAcceleration" translation="Tốc độ tăng tốc" />
+		<entry key="TrackEditParam_BoosterDirection" translation="Hướng tăng cường" />
+		<entry key="TrackEditParam_BoosterMaxSpeed" translation="Tốc độ Mục tiêu" />
+		<entry key="TrackEditParam_BrakeDeceleration" translation="Tốc độ giảm tốc" />
+		<entry key="TrackEditParam_BrakeDirection" translation="Hướng phanh" />
+		<entry key="TrackEditParam_BrakeMinSpeed" translation="Tốc độ mục tiêu" />
+		<entry key="TrackEditParam_ChainLiftSpeed" translation="Chain Speed" />
+		<entry key="TrackEditParam_CurveRangeDegrees" translation="CurveRangeDegrees" />
+		<entry key="TrackEditParam_HoldingSectionMaxTime" translation="Độ trễ thả tối đa" />
+		<entry key="TrackEditParam_HoldingSectionMinTime" translation="Độ trễ Giảm tối thiểu" />
+		<entry key="TrackEditParam_HoldingSectionReleaseAcceleration" translation="Phát hành Acceleration" />
+		<entry key="TrackEditParam_HoldingSectionReleaseSpeed" translation="Tốc độ Phát hành" />
+		<entry key="TrackEditParam_HoldingSectionStopLocation" translation="Vị trí Dừng" />
+		<entry key="TrackEditParam_Hy ShuiLaunchAcceleration" translation="Gia tốc" />
+		<entry key="TrackEditParam_HydraulicLaunchDelay" translation="Độ trễ Khởi chạy" />
+		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Tốc độ Mục tiêu" />
+		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Bắt Tốc độ Quay trở lại Xe" />
+		<entry key="TrackEditParam_LengthRangeMetres" translation="LengthRangeMetres" />
+		<entry key="TrackEditParam_ScaleRange" translation="ScaleRange" />
+		<entry key="TrackEditParam_SlopeRangeDegrees" translation="SlopeRangeDegrees" />
+		<entry key="TrackEditParam_StationEntrySpeed" translation="Entry Speed" />
+		<entry key="TrackEditParam_StationExitSpeed" translation="Tốc độ thoát" />
+		<entry key="TrackEditParam_StationStopLocation" translation="Vị trí dừng tàu" />
+		<entry key="TrackEdit_AddTestTrain" translation="Thêm tàu ​​kiểm tra" />
+		<entry key="TrackEdit_AngleSnap" translation="Góc chụp" />
+		<entry key="TrackEdit_AttachCamera" translation="Đính kèm Máy ảnh" />
+		<entry key="TrackEdit_AutoCompleteToolTip" translation="Tự động Hoàn thành thiết kế hiện tại" />
+		<entry key="TrackEdit_AutoTunnel" translation="Đường hầm tự động" />
+		<entry key="TrackEdit_Banking" translation="Ngân hàng" />
+		<entry key="TrackEdit_Build" translation="Xây dựng" />
+		<entry key="TrackEdit_Delete" translation="Xóa" />
+		<entry key="TrackEdit_Elevation" translation="Độ cao" />
+		<entry key="TrackEdit_KeepCurve" translation="Giữ đường cong" />
+		<entry key="TrackEdit_Length" translation="Độ dài" />
+		<entry key="TrackEdit_NextSelectionToolTip" translation="Di chuyển lựa chọn sang phần tiếp theo" />
+		<entry key="TrackEdit_PieceSelection" translation="Lựa chọn mảnh" />
+		<entry key="TrackEdit_PreviousSelectionToolTip" translation="Di chuyển lựa chọn về phần trước" />
+		<entry key="TrackEdit_Redo" translation="Làm lại" />
+		<entry key="TrackEdit_RemoveTrains" translation="Xóa tàu" />
+		<entry key="TrackEdit_RollOffset" translation="Chiều cao xoay vòng ngân hàng" />
+		<entry key="TrackEdit_Scale" translation="Quy mô" />
+		<entry key="TrackEdit_Smooth" translation="Trơn tru" />
+		<entry key="TrackEdit_Title" translation="Tùy chọn Bản nhạc" />
+		<entry key="TrackEdit_Turn" translation="Xoay" />
+		<entry key="TrackEdit_Undo" translation="Hoàn tác" />
+
 		<!--TrackElements-->
 		<entry key="TrackElementDesc_BarrelRollleft" translation="Inline Twist Left Description"/>
 		<entry key="TrackElementDesc_BarrelRollright" translation="Inline Twist Right Description"/>
@@ -3353,26 +3358,26 @@
 		<entry key="TrackElementTool_norwegianloopleft" translation="Norwegian Loop Left"/>
 		<entry key="TrackElementTool_norwegianloopright" translation="Norwegian Loop Right"/>
 		<!--Trains-->
-		<entry key="Train_Aethon" translation="Aethon"/>
-		<entry key="Train_Anubis" translation="Anubis"/>
-		<entry key="Train_Barghest" translation="Barghest"/>
-		<entry key="Train_Boa" translation="Boa"/>
-		<entry key="Train_CloudR" translation="Cloud Runner"/>
-		<entry key="Train_Enigma" translation="Enigma"/>
-		<entry key="Train_Eqlzr" translation="Equalizer"/>
-		<entry key="Train_Fury" translation="Iron Fury"/>
-		<entry key="Train_GASM" translation="The American Arrow"/>
-		<entry key="Train_Hart" translation="Heartliner"/>
-		<entry key="Train_LTurns" translation="Loony Turns"/>
-		<entry key="Train_MUC" translation="Malice Unchained"/>
-		<entry key="Train_Mnstr" translation="Monster"/>
-		<entry key="Train_Rage" translation="Rage"/>
-		<entry key="Train_Riv" translation="Rival"/>
-		<entry key="Train_SRay" translation="Stingray"/>
-		<entry key="Train_Sp500" translation="Sprint 500"/>
-		<entry key="Train_TPil" translation="Test Pilot"/>
-		<entry key="Train_Tor" translation="Torque"/>
-		<entry key="Train_WWolf" translation="Werewolf"/>
-		<entry key="Train_Wend" translation="Wendigo"/>
+		<entry key="Train_Aethon" translation="Aethon" />
+		<entry key="Train_Anubis" translation="Anubis" />
+		<entry key="Train_Barghest" translation="Barghest" />
+		<entry key="Train_Boa" translation="Boa" />
+		<entry key="Train_CloudR" translation="Cloud Runner" />
+		<entry key="Train_Enigma" translation="Enigma" />
+		<entry key="Train_Eqlzr" translation="Bộ chỉnh âm" />
+		<entry key="Train_Fury" translation="Iron Fury" />
+		<entry key="Train_GASM" translation="Mũi tên Mỹ" />
+		<entry key="Train_Hart" translation="Heartliner" />
+		<entry key="Train_LTurns" translation="Loony Turns" />
+		<entry key="Train_MUC" translation="Malice Unchained" />
+		<entry key="Train_Mnstr" translation="Quái vật" />
+		<entry key="Train_Rage" translation="Cơn thịnh nộ" />
+		<entry key="Train_Riv" translation="Đối thủ" />
+		<entry key="Train_SRay" translation="Stingray" />
+		<entry key="Train_Sp500" translation="Sprint 500" />
+		<entry key="Train_TPil" translation="Thử nghiệm Thí điểm" />
+		<entry key="Train_Tor" translation="Mô-men xoắn" />
+		<entry key="Train_WWolf" translation="Người sói" />
+		<entry key="Train_Wend" translation="Wendigo" />
 	</translation>
 </localisation>
