@@ -3249,80 +3249,82 @@
 		<entry key="TrackEdit_Undo" translation="Hoàn tác" />
 
 		<!--TrackElements-->
-		<entry key="TrackElementDesc_BarrelRollleft" translation="Inline Twist Left Description"/>
-		<entry key="TrackElementDesc_BarrelRollright" translation="Inline Twist Right Description"/>
-		<entry key="TrackElementDesc_BlockSection" translation="Slows trains down to a stop, propelling them out when the next section of track is clear. Requires block sectioning to be enabled in the coaster's settings."/>
-		<entry key="TrackElementDesc_Booster" translation="Pushes trains along slowly. Useful for moving the train into another utility."/>
-		<entry key="TrackElementDesc_Brakes" translation="Slows trains down."/>
-		<entry key="TrackElementDesc_ChainLift" translation="Pulls trains up an incline."/>
-		<entry key="TrackElementDesc_DivingLoopleft" translation="Diving Loop Left Description"/>
-		<entry key="TrackElementDesc_DivingLoopright" translation="Diving Loop Right Description"/>
-		<entry key="TrackElementDesc_FlyingSnakeDiveleft" translation="Snake Dive Left Description"/>
-		<entry key="TrackElementDesc_FlyingSnakeDiveright" translation="Snake Dive Right Description"/>
-		<entry key="TrackElementDesc_FrictionWheelLift" translation="Pushes trains up an incline."/>
-		<entry key="TrackElementDesc_HoldingSection" translation="Holds the train looking down before releasing."/>
-		<entry key="TrackElementDesc_HydraulicLaunch" translation="Launch system that propels trains at speed along the track."/>
-		<entry key="TrackElementDesc_LSM" translation="Propells trains at speed along the track."/>
-		<entry key="TrackElementDesc_MagneticBrakes" translation="Slows trains down."/>
-		<entry key="TrackElementDesc_NormalTrack" translation="Basic, standard track."/>
-		<entry key="TrackElementDesc_PhotoSection" translation="Photographs guests on trains as they pass."/>
-		<entry key="TrackElementDesc_PretzelKnotleft" translation="Pretzel Knot Left Description"/>
-		<entry key="TrackElementDesc_PretzelKnotright" translation="Pretzel Knot Right Description"/>
-		<entry key="TrackElementDesc_Station" translation="Where guests board and disembark trains."/>
-		<entry key="TrackElementDesc_SteepslopeZeroGRollleft" translation="Steep Zero-G Roll Left Description"/>
-		<entry key="TrackElementDesc_SteepslopeZeroGRollright" translation="Steep Zero-G Roll Right Description"/>
-		<entry key="TrackElementDesc_TestCorkscrewLeftIn" translation="Corkscrew Left Entry Description"/>
-		<entry key="TrackElementDesc_TestCorkscrewLeftOut" translation="Corkscrew Left Exit Description"/>
-		<entry key="TrackElementDesc_TestCorkscrewRightIn" translation="Corkscrew Right Entry Description"/>
-		<entry key="TrackElementDesc_TestCorkscrewRightOut" translation="Corkscrew Right Exit Description"/>
-		<entry key="TrackElementDesc_batwingleft" translation="Batwing Left Description"/>
-		<entry key="TrackElementDesc_batwingright" translation="Batwing Right Description"/>
-		<entry key="TrackElementDesc_cobrarollleft" translation="Cobra Roll Left Description"/>
-		<entry key="TrackElementDesc_cobrarollright" translation="Cobra Roll Right Description"/>
-		<entry key="TrackElementDesc_immelmannleft" translation="Immelmann Loop Left Description"/>
-		<entry key="TrackElementDesc_immelmannright" translation="Immelmann Loop Right Description"/>
-		<entry key="TrackElementDesc_loopleft" translation="Vertical Loop Left Description"/>
-		<entry key="TrackElementDesc_loopright" translation="Vertical Loop Right Description"/>
-		<entry key="TrackElementDesc_norwegianloopleft" translation="Norwegian Loop Left Description"/>
-		<entry key="TrackElementDesc_norwegianloopright" translation="Norwegian Loop Right Description"/>
-		<entry key="TrackElementName_BarrelRollleft" translation="Inline Twist Left"/>
-		<entry key="TrackElementName_BarrelRollright" translation="Inline Twist Right"/>
-		<entry key="TrackElementName_BlockSection" translation="Block Section"/>
-		<entry key="TrackElementName_Booster" translation="Drive Tyres"/>
-		<entry key="TrackElementName_Brakes" translation="Friction Brakes"/>
-		<entry key="TrackElementName_ChainLift" translation="Chain Lift"/>
-		<entry key="TrackElementName_DivingLoopleft" translation="Diving Loop Left"/>
-		<entry key="TrackElementName_DivingLoopright" translation="Diving Loop Right"/>
-		<entry key="TrackElementName_FlyingSnakeDiveleft" translation="Snake Dive Left"/>
-		<entry key="TrackElementName_FlyingSnakeDiveright" translation="Snake Dive Right"/>
-		<entry key="TrackElementName_FrictionWheelLift" translation="Friction Wheel Lift"/>
-		<entry key="TrackElementName_HoldingSection" translation="Dive Drop Holding Section"/>
-		<entry key="TrackElementName_HydraulicLaunch" translation="Hydraulic Launch"/>
-		<entry key="TrackElementName_LSM" translation="Linear Synchronous Motor"/>
-		<entry key="TrackElementName_MagneticBrakes" translation="Magnetic Brakes"/>
-		<entry key="TrackElementName_NormalTrack" translation="Standard Track"/>
-		<entry key="TrackElementName_PhotoSection" translation="Photo Section"/>
-		<entry key="TrackElementName_PretzelKnotleft" translation="Pretzel Knot Left"/>
-		<entry key="TrackElementName_PretzelKnotright" translation="Pretzel Knot Right"/>
-		<entry key="TrackElementName_Station" translation="Station"/>
-		<entry key="TrackElementName_SteepslopeZeroGRollleft" translation="Steep Zero-G Roll Left"/>
-		<entry key="TrackElementName_SteepslopeZeroGRollright" translation="Steep Zero-G Roll Right"/>
-		<entry key="TrackElementName_TestCorkscrewLeftIn" translation="Corkscrew Left Entry"/>
-		<entry key="TrackElementName_TestCorkscrewLeftOut" translation="Corkscrew Left Exit"/>
-		<entry key="TrackElementName_TestCorkscrewRightIn" translation="Corkscrew Right Entry"/>
-		<entry key="TrackElementName_TestCorkscrewRightOut" translation="Corkscrew Right Exit"/>
-		<entry key="TrackElementName_batwingleft" translation="Batwing Left"/>
-		<entry key="TrackElementName_batwingright" translation="Batwing Right"/>
-		<entry key="TrackElementName_cobrarollleft" translation="Cobra Roll Left"/>
-		<entry key="TrackElementName_cobrarollright" translation="Cobra Roll Right"/>
-		<entry key="TrackElementName_immelmannleft" translation="Immelmann Loop Left"/>
-		<entry key="TrackElementName_immelmannright" translation="Immelmann Loop Right"/>
-		<entry key="TrackElementName_loopleft" translation="Vertical Loop Left"/>
-		<entry key="TrackElementName_loopright" translation="Vertical Loop Right"/>
-		<entry key="TrackElementName_norwegianloopleft" translation="Norwegian Loop Left"/>
-		<entry key="TrackElementName_norwegianloopright" translation="Norwegian Loop Right"/>
-		<entry key="TrackElementTool_BarrelRollleft" translation="Inline Twist Left"/>
-		<entry key="TrackElementTool_BarrelRollright" translation="Inline Twist Right"/>
+		<entry key="TrackElementDesc_BarrelRollleft" translation="Inline Twist Left Description" />
+		<entry key="TrackElementDesc_BarrelRollright" translation="Nội tuyến Twist Right Description" />
+		<entry key="TrackElementDesc_BlockSection" translation="Làm chậm các chuyến tàu đến điểm dừng, đẩy chúng ra ngoài khi đoạn đường tiếp theo thông thoáng. Yêu cầu bật phân đoạn khối trong cài đặt của tàu lượn." />
+		<entry key="TrackElementDesc_Booster" translation="Đẩy tàu chạy chậm. Hữu ích khi di chuyển tàu sang một tiện ích khác." />
+		<entry key="TrackElementDesc_Brakes" translation="Làm chậm các chuyến tàu." />
+		<entry key="TrackElementDesc_ChainLift" translation="Kéo đoàn tàu lên theo chiều nghiêng." />
+		<entry key="TrackElementDesc_DivingLoopleft" translation="Diving Loop Left Description" />
+		<entry key="TrackElementDesc_DivingLoopright" translation="Diving Loop Right Description" />
+		<entry key="TrackElementDesc_FlyingSnakeDiosystemft" translation="Mô tả bên trái của Snake Dive" />
+		<entry key="TrackElementDesc_FlyingSnakeDiveright" translation="Snake Dive Right Description" />
+		<entry key="TrackElementDesc_FrictionWheelLift" translation="Đẩy tàu lên theo chiều nghiêng." />
+		<entry key="TrackElementDesc_HoldingSection" translation="Giữ đoàn tàu nhìn xuống trước khi thả." />
+		<entry key="TrackElementDesc_Hy ShuiLaunch" translation="Khởi động hệ thống đẩy tàu với tốc độ dọc theo đường ray." />
+		<entry key="TrackElementDesc_LSM" translation="Đẩy tàu với tốc độ dọc theo đường ray." />
+		<entry key="TrackElementDesc_MagneticBrakes" translation="Làm chậm các chuyến tàu." />
+		<entry key="TrackElementDesc_NormalTrack" translation="Bản nhạc cơ bản, tiêu chuẩn." />
+		<entry key="TrackElementDesc_PhotoSection" translation="Chụp ảnh khách trên tàu khi họ đi qua." />
+		<entry key="TrackElementDesc_PretzelKnotleft" translation="Mô tả trái nút Pretzel" />
+		<entry key="TrackElementDesc_PretzelKnotright" translation="Pretzel Knot Right Description" />
+		<entry key="TrackElementDesc_Station" translation="Nơi khách lên và xuống tàu." />
+		<entry key="TrackElementDesc_SteepslopeZeroGRollleft" translation="Steep Zero-G Roll Left Description" />
+		<entry key="TrackElementDesc_SteepslopeZeroGRollright" translation="Steep Zero-G Roll Right Description" />
+		<entry key="TrackElementDesc_TestCorkscrewLeftIn" translation="Corkscrew Left Entry Description" />
+		<entry key="TrackElementDesc_TestCorkscrewLeftOut" translation="Corkscrew Left Exit Description" />
+		<entry key="TrackElementDesc_TestCorkscrewRightIn" translation="Corkscrew Right Entry Description" />
+		<entry key="TrackElementDesc_TestCorkscrewRightOut" translation="Corkscrew Right Exit Description" />
+		<entry key="TrackElementDesc_batwingleft" translation="Batwing Left Description" />
+		<entry key="TrackElementDesc_batwingright" translation="Batwing Right Description" />
+		<entry key="TrackElementDesc_cobrarollleft" translation="Mô tả bên trái của cuộn Cobra" />
+		<entry key="TrackElementDesc_cobrarollright" translation="Cobra Roll Right Description" />
+		<entry key="TrackElementDesc_immelmannleft" translation="Mô tả Trái của Vòng lặp Immelmann" />
+		<entry key="TrackElementDesc_immelmannright" translation="Immelmann Loop Right Description" />
+		<entry key="TrackElementDesc_loopleft" translation="Vertical Loop Left Description" />
+		<entry key="TrackElementDesc_loopright" translation="Vertical Loop Right Description" />
+		<entry key="TrackElementDesc_norwegianloopleft" translation="Mô tả bên trái của vòng lặp tiếng Na Uy" />
+		<entry key="TrackElementDesc_norwegianloopright" translation="Mô tả đúng về Vòng lặp Na Uy" />
+		<entry key="TrackElementName_BarrelRollleft" translation="Inline Twist Left" />
+		<entry key="TrackElementName_BarrelRollright" translation="Inline Twist Right" />
+		<entry key="TrackElementName_BlockSection" translation="Phần khối" />
+		<entry key="TrackElementName_Booster" translation="Lốp lái" />
+		<entry key="TrackElementName_Brakes" translation="Phanh ma sát" />
+		<entry key="TrackElementName_ChainLift" translation="Chain Lift" />
+		<entry key="TrackElementName_DivingLoopleft" translation="Diving Loop Left" />
+		<entry key="TrackElementName_DivingLoopright" translation="Diving Loop Right" />
+		<entry key="TrackElementName_FlyingSnakeDiosystemft" translation="Snake Dive Left" />
+		<entry key="TrackElementName_FlyingSnakeDiveright" translation="Snake Dive Right" />
+		<entry key="TrackElementName_FrictionWheelLift" translation="Xe nâng bánh xe ma sát" />
+		<entry key="TrackElementName_HoldingSection" translation="Phần Giữ Thả Lặn" />
+		<entry key="TrackElementName_Hy ShuiLaunch" translation="Khởi động Thủy lực" />
+		<entry key="TrackElementName_LSM" translation="Động cơ đồng bộ tuyến tính" />
+		<entry key="TrackElementName_MagneticBrakes" translation="Phanh từ" />
+		<entry key="TrackElementName_NormalTrack" translation="Bản nhạc chuẩn" />
+		<entry key="TrackElementName_PhotoSection" translation="Phần Ảnh" />
+		<entry key="TrackElementName_PretzelKnotleft" translation="Pretzel Knot Left" />
+		<entry key="TrackElementName_PretzelKnotright" translation="Pretzel Knot Right" />
+		<entry key="TrackElementName_Station" translation="Trạm" />
+		<entry key="TrackElementName_SteepslopeZeroGRollleft" translation="Dốc Trái Zero-G Roll" />
+		<entry key="TrackElementName_SteepslopeZeroGRollright" translation="Steep Zero-G Roll Right" />
+		<entry key="TrackElementName_TestCorkscrewLeftIn" translation="Corkscrew Left Entry" />
+		<entry key="TrackElementName_TestCorkscrewLeftOut" translation="Lối ra bên trái của Corkscrew" />
+		<entry key="TrackElementName_TestCorkscrewRightIn" translation="Corkscrew Right Entry" />
+		<entry key="TrackElementName_TestCorkscrewRightOut" translation="Lối ra bên phải của Corkscrew" />
+		<entry key="TrackElementName_batwingleft" translation="Batwing Left" />
+		<entry key="TrackElementName_batwingright" translation="Batwing Right" />
+		<entry key="TrackElementName_cobrarollleft" translation="Cobra Roll Left" />
+		<entry key="TrackElementName_cobrarollright" translation="Cobra Roll Right" />
+		<entry key="TrackElementName_immelmannleft" translation="Immelmann Loop Left" />
+		<entry key="TrackElementName_immelmannright" translation="Immelmann Loop Right" />
+		<entry key="TrackElementName_loopleft" translation="Vertical Loop Left" />
+		<entry key="TrackElementName_loopright" translation="Vertical Loop Right" />
+		<entry key="TrackElementName_norwegianloopleft" translation="Vòng lặp bên trái tiếng Na Uy" />
+		<entry key="TrackElementName_norwegianloopright" translation="Norwegian Loop Right" />
+		<entry key="TrackElementTool_BarrelRollleft" translation="Inline Twist Left" />
+		<entry key="TrackElementTool_BarrelRollright" translation="Inline Twist Right" />
+
+	
 		<entry key="TrackElementTool_BlockSection" translation="&lt;font color='accent'&gt;Block Section&lt;/font&gt;\nSlows trains down to a stop, propelling them out when the next section of track is clear.\nRequires block sectioning to be enabled in the coaster's settings."/>
 		<entry key="TrackElementTool_Booster" translation="&lt;font color='accent'&gt;Drive Tyres&lt;/font&gt;\nPushes trains along slowly."/>
 		<entry key="TrackElementTool_Brakes" translation="&lt;font color='accent'&gt;Friction Brakes&lt;/font&gt;\nSlows trains down."/>
